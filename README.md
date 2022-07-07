@@ -12,6 +12,8 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 ### 👁️ Gaze Interaction
 
+***
+
 ### 📏 Proxemic & Spatially-Aware Interaction
 
    #### General
