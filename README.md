@@ -31,5 +31,5 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 ### ✨ Multimodal Interaction
 
-- Vogel & Balakrishnan, 2004. Interactive Public Ambient Displays: Transitioning from Implicit to Explicit, Public to Personal, Interaction with Multiple Users. In Proceedings of the 17th Annual ACM Symposium on User Interface Software and Technology (UIST '04), pp. 137–146, doi.org/10.1145/1029632.1029656
+- Vogel & Balakrishnan, 2004. Interactive Public Ambient Displays: Transitioning from Implicit to Explicit, Public to Personal, Interaction with Multiple Users. In Proceedings of the 17th Annual ACM Symposium on User Interface Software and Technology (UIST '04), pp. 137–146, https://doi.org/10.1145/1029632.1029656
 
