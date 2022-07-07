@@ -1,6 +1,13 @@
 # HCI Papers Best Of 🏆
 
-A collection of essential papers and books on diverse topics in Human-Computer Interaction (HCI), specifically in the scope of interaction techniques and input technologies. 
+A collection of essential papers and books on diverse topics in Human-Computer Interaction (HCI), specifically in the scope of interaction techniques and input technologies. Papers are mainly taken from representative conferences such as:
+
+- International Conference on Human Factors in Computing Systems (CHI)
+- International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI)
+- International Conference on Interactive Surfaces and Spaces (ISS)
+- International Symposium on User Interface Software and Technology (UIST)
+- International Conference on Designing Interactive Systems (DIS)
+- International Conference on Tangible, Embedded, and Embodied Interaction (TEI) 
 
 ***
 
