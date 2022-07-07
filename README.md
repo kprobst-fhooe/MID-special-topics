@@ -27,6 +27,9 @@ A collection of essential papers and books on diverse topics in Human-Computer I
   - Marquardt, 2013. Proxemic Interactions in Ubiquitous Computing Ecologies. PhD Thesis, University of Calgary 🎓
 
   #### Applications
+  
+  - Brumitt, Meyers, Krumm, Kern, Shafer, 2000. EasyLiving: Technologies for Intelligent Environments. In Proceedings of the 2nd International Symposium on Handheld and Ubiquitous Computing (HUC ‘00), pp. 12–29 https://doi.org/10.1007/3-540-39959-3_2
+
 
 
 ### ✨ Multimodal Interaction
