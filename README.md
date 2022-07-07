@@ -40,4 +40,7 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Vogel & Balakrishnan, 2004. Interactive Public Ambient Displays: Transitioning from Implicit to Explicit, Public to Personal, Interaction with Multiple Users. In Proceedings of the 17th Annual ACM Symposium on User Interface Software and Technology (UIST '04), pp. 137–146, doi.org/10.1145/1029632.1029656 **[\#proxemic](#-proxemic--spatially-aware-interaction)** **[\#gesture](#-gestural-interaction)**
 
+- Annett, Grossman, Wigdor, Fitzmaurice, 2011. Medusa: A Proximity-Aware Multi-Touch Tabletop. In Proceedings of the 24th annual ACM symposium on User Interface Software and Technology (UIST ‘11), pp. 337–346, doi.org/10.1145/2047196.2047240 **[\#proxemic](#-proxemic--spatially-aware-interaction)** **[\#gesture](#-gestural-interaction)**
+
 - Kister, Reipschläger, Matulic, Dachselt, 2015. BodyLenses: Embodied Magic Lenses and Personal Territories for Wall Displays. In Proceedings of the 2015 International Conference on Interactive Tabletops & Surfaces (ITS ‘15), pp. 117–126, doi.org/10.1145/2817721.2817726 **[\#proxemic](#-proxemic--spatially-aware-interaction)** **[\#gesture](#-gestural-interaction)**
+
