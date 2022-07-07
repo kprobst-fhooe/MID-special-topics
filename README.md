@@ -17,7 +17,7 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 #### Applications Mid-Air
 
-- Şiean, Pamparău, Vatavu, 2022. Scenario-based Exploration of Integrating Radar Sensing Into Everyday Objects for Free-Hand Television Control. In Proceedings ACM International Conference on Interactive Media Experiences (IMX '22), pp. 357–362, doi: [10.1145/3505284.3532982](https://doi.org/10.1145/3505284.3532982)
+- Şiean, Pamparău, Vatavu, 2022. Scenario-based Exploration of Integrating Radar Sensing Into Everyday Objects for Free-Hand Television Control. In Proceedings ACM International Conference on Interactive Media Experiences (IMX '22), pp. 357–362, DOI: [10.1145/3505284.3532982](https://doi.org/10.1145/3505284.3532982)
 
 #### Applications On-Surface
 
