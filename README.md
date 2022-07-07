@@ -4,10 +4,12 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - International Conference on Human Factors in Computing Systems (CHI)
 - International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI)
-- International Conference on Interactive Surfaces and Spaces (ISS)
 - International Symposium on User Interface Software and Technology (UIST)
-- International Conference on Designing Interactive Systems (DIS)
+- International Conference on Interactive Surfaces and Spaces (ISS)
 - International Conference on Tangible, Embedded, and Embodied Interaction (TEI) 
+- International Conference on Designing Interactive Systems (DIS)
+- International Conference on Human-Computer Interaction (INTERACT)
+- International Conference on Mobile and Ubiquitous Multimedia (MUM)
 
 ***
 
@@ -67,7 +69,7 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - **Ledo, Greenberg, Marquardt, Boring, 2015. Proxemic-Aware Controls: Designing Remote Controls for Ubiquitous Computing Ecologies. In Proceedings of the 17th International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI '15), pp. 187–198, DOI: [10.1145/2785830.2785871](https://doi.org/10.1145/2785830.2785871)**
 
-- **Vermeulen, Luyten, Coninx, Marquardt, Bird, 2015. Proxemic Flow: Dynamic Peripheral Floor Visualizations for Revealing and Mediating Large Surface Interactions. In Human-Computer Interaction – INTERACT 2015. INTERACT 2015. Lecture Notes in Computer Science, vol 9299, DOI: [10.1007/978-3-319-22723-8_22](https://doi.org/10.1007/978-3-319-22723-8_22)**
+- **Vermeulen, Luyten, Coninx, Marquardt, Bird, 2015. Proxemic Flow: Dynamic Peripheral Floor Visualizations for Revealing and Mediating Large Surface Interactions. In Proceedings of the 15th IFIP TC.13 International Conference on Human-Computer Interaction (INTERACT 2015). Lecture Notes in Computer Science, vol 9299, DOI: [10.1007/978-3-319-22723-8_22](https://doi.org/10.1007/978-3-319-22723-8_22)**
 
 - Houben, Vermeulen, Klokmose, Schöning, Marquardt, and Reiterer. 2016. Cross-Surface: Challenges and Opportunities of Spatial and Proxemic Interaction. In Proceedings of the 2016 ACM International Conference on Interactive Surfaces and Spaces (ISS '16),  pp. 509–51, DOI: [10.1145/2992154.2996360](hptts://doi.org/10.1145/2992154.2996360)
 
