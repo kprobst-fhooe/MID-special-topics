@@ -6,6 +6,16 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 ### 👋 Gestural Interaction
 
+#### General
+
+#### Applications Mid-Air
+
+- Şiean, Pamparău, Vatavu, 2022. Scenario-based Exploration of Integrating Radar Sensing Into Everyday Objects for Free-Hand Television Control. In Proceedings ACM International Conference on Interactive Media Experiences (IMX '22), pp. 357–362, doi: [10.1145/3505284.3532982](https://doi.org/10.1145/3505284.3532982)
+
+#### Applications On-Surface
+
+***
+
 ### 🧱 Tangible Interaction
 
 ### 💬 Voice Interaction
@@ -55,8 +65,6 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 - Porcheron, Lucero, Quigley, Marquardt, Clawson, O'Hara, 2016. Proxemic Mobile Collocated Interactions. In Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems (CHI EA '16), pp. 3309–3316, doi.org/10.1145/2851581.2856471
 
 - Tong, Serna, Pageaud, George, Tabard, 2016. It's Not how you Stand, it's how you Move: F-Formations and Collaboration Dynamics in a Mobile Learning Game. In Proceedings of the 18th International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI ‘16), pp. 318–329, doi.org/10.1145/2935334.2935343
-
-- Şiean, Pamparău, Vatavu, 2022. Scenario-based Exploration of Integrating Radar Sensing Into Everyday Objects for Free-Hand Television Control. In Proceedings ACM International Conference on Interactive Media Experiences (IMX '22), pp. 357–362, doi: [10.1145/3505284.3532982](https://doi.org/10.1145/3505284.3532982)
 
 ***
 
