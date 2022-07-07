@@ -44,17 +44,17 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - **Brumitt, Meyers, Krumm, Kern, Shafer, 2000. EasyLiving: Technologies for Intelligent Environments. In Proceedings of the 2nd International Symposium on Handheld and Ubiquitous Computing (HUC ‘00), pp. 12–29, DOI: [10.1007/3-540-39959-3_2](https://doi.org/10.1007/3-540-39959-3_2)**
 
-- Ju, Lee, Klemmer, 2008. Range: Exploring Implicit Interaction Through Electronic Whiteboard Design. In Proceedings of the 2008 ACM Conference on Computer Supported Cooperative Work (CSCW ‘08), pp. 17–26, doi.org/10.1145/1460563.1460569
+- Ju, Lee, Klemmer, 2008. Range: Exploring Implicit Interaction Through Electronic Whiteboard Design. In Proceedings of the 2008 ACM Conference on Computer Supported Cooperative Work (CSCW ‘08), pp. 17–26, DOI: [10.1145/1460563.1460569](https://doi.org/10.1145/1460563.1460569)
 
-- Chen, Boring, Carpendale, Tang, Greenberg, 2012. SPALENDAR: Visualizing a Group’s Calendar Events over a Geographic Space on a Public Display. In Proceedings of the 11th International Working Conference on Advanced Visual Interfaces (AVI ’12), dx.doi.org/10.11575/PRISM/30760 
+- Chen, Boring, Carpendale, Tang, Greenberg, 2012. SPALENDAR: Visualizing a Group’s Calendar Events over a Geographic Space on a Public Display. In Proceedings of the 11th International Working Conference on Advanced Visual Interfaces (AVI ’12), DOI: [10.11575/PRISM/30760](https://dx.doi.org/10.11575/PRISM/30760)
 
-- Wang, Boring, Greenberg, 2012. Proxemic Peddler: A Public Advertising Display That Captures and Preserves the Attention of a Passerby. In Proceedings of the 2012 International Symposium on Pervasive Displays (PerDis ‘12), Article 3, doi.org/10.1145/2307798.2307801 
+- Wang, Boring, Greenberg, 2012. Proxemic Peddler: A Public Advertising Display That Captures and Preserves the Attention of a Passerby. In Proceedings of the 2012 International Symposium on Pervasive Displays (PerDis ‘12), Article 3, DOI [10.1145/2307798.2307801](https://doi.org/10.1145/2307798.2307801)
 
 - Aseniero, Tang, Carpendale, Greenberg, 2013. Showing Real-time Recommendations to Explore the Stages of Reflection and Action. Technical Report #2013-1040-07, Department of Computer Science, University of Calgary
 
-- **Rädle, Jetter, Marquardt, Reiterer, Rogers, 2014. HuddleLamp: Spatially-Aware Mobile Displays for Ad-hoc Around-the-Table Collaboration. In Proceedings of the 9th ACM International Conference on Interactive Tabletops and Surfaces (ITS '14), pp. 45-54, https://doi.org/10.1145/2669485.2669500**
+- **Rädle, Jetter, Marquardt, Reiterer, Rogers, 2014. HuddleLamp: Spatially-Aware Mobile Displays for Ad-hoc Around-the-Table Collaboration. In Proceedings of the 9th ACM International Conference on Interactive Tabletops and Surfaces (ITS '14), pp. 45-54, DOI: [10.1145/2669485.2669500](https://doi.org/10.1145/2669485.2669500)**
 
-- Streitz, Prante, Röcker, Van Alphen, Magerkurth, Stenzel, Plewe, 2013. Ambient Displays and Mobile Devices for the Creation of Social Architectural Spaces. In Public and Situated Displays - Social and Interactional Aspects of Shared Display Technologies, pp. 387-409, https://doi.org/10.1007/978-94-017-2813-3_16
+- Streitz, Prante, Röcker, Van Alphen, Magerkurth, Stenzel, Plewe, 2013. Ambient Displays and Mobile Devices for the Creation of Social Architectural Spaces. In Public and Situated Displays - Social and Interactional Aspects of Shared Display Technologies, pp. 387-409, DOI: [10.1007/978-94-017-2813-3_16](https://doi.org/10.1007/978-94-017-2813-3_16)
 
 - Mueller, Stellmach, Greenberg, Dippon, Boll, Garner, Khot, Naseem, Altimira, 2014. Proxemics Play: understanding proxemics for Designing Digital Play Experiences. In Proceedings of the 2014 Conference on Designing Interactive Systems (DIS ‘14), pp. 533–542, doi.org/10.1145/2598510.2598532
 
