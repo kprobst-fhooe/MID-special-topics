@@ -56,6 +56,8 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Tong, Serna, Pageaud, George, Tabard, 2016. It's Not how you Stand, it's how you Move: F-Formations and Collaboration Dynamics in a Mobile Learning Game. In Proceedings of the 18th International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI ‘16), pp. 318–329, doi.org/10.1145/2935334.2935343
 
+- Şiean, Pamparău, Vatavu, 2022. Scenario-based Exploration of Integrating Radar Sensing Into Everyday Objects for Free-Hand Television Control. In Proceedings ACM International Conference on Interactive Media Experiences (IMX '22), pp. 357–362, doi: [10.1145/3505284.3532982](https://doi.org/10.1145/3505284.3532982)
+
 ***
 
 ### ✨ Multimodal Interaction
