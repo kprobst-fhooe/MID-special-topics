@@ -32,6 +32,7 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
    - Ju, Lee, Klemmer, 2008. Range: Exploring Implicit Interaction Through Electronic Whiteboard Design. In Proceedings of the 2008 ACM Conference on Computer Supported Cooperative Work (CSCW ‘08), pp. 17–26, doi.org/10.1145/1460563.1460569
 
+***
 
 ### ✨ Multimodal Interaction
 
