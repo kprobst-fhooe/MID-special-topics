@@ -13,15 +13,23 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 - International Conference on Interactive Media Experiences (IMX)
 - International Conference On Computer-Supported Cooperative Work And Social Computing (CSCW)
 
+
+
 ***
+
+
 
 ### 👋 Gestural Interaction
 
+
 #### General
+
 
 #### Applications Mid-Air
 
+
 - Şiean, Pamparău, Vatavu, 2022. Scenario-based Exploration of Integrating Radar Sensing Into Everyday Objects for Free-Hand Television Control. In Proceedings ACM International Conference on Interactive Media Experiences (IMX '22), pp. 357–362, DOI: [10.1145/3505284.3532982](https://doi.org/10.1145/3505284.3532982)
+
 
 #### Applications On-Surface
 
@@ -32,9 +40,7 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 
 
-
 ### 🧱 Tangible Interaction
-
 
 
 #### General
@@ -55,8 +61,6 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 - **Ishii, Lakatos, Bonanni, Labrune, 2012. Radical Atoms: Beyond Tangible Bits, Toward Transformable Materials. In ACM Interactions 19, 1 (January 2012), pp. 38-51, DOI: [10.1145/2065327.2065337](https://doi.org/10.1145/2065327.2065337)**
 
 - Ullmer, Shaer, Mazalek, Hummels, 2022. Weaving Fire into Form: Aspirations for Tangible and Embodied Interaction. ACM Books 📖
-
-
 
 
 #### Applications
@@ -91,9 +95,17 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 - Villar, Cletheroe, Saul, Holz, Regan, Salandin, Sra, Yeo, Field, Zhang, 2018. Project Zanzibar: A Portable and Flexible Tangible Interaction Platform. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI ‘18), Paper 515, DOI: [10.1145/3173574.3174089](https://doi.org/10.1145/3173574.3174089)
 
 
+
 ***
 
+
+
 ### 💬 Voice Interaction
+
+
+***
+
+
 
 ### 👁️ Gaze Interaction
 
@@ -109,7 +121,7 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 #### General
 
 
-- Hall, 1966. The Hidden Dimension. Anchor Books 📖
+- **Hall, 1966. The Hidden Dimension. Anchor Books 📖**
 
 - Ballendat, Marquardt, Greenberg, 2010. Proxemic interaction: Designing for a Proximity and Orientation-Aware Environment. In ACM International Conference on Interactive Tabletops and Surfaces (ITS '10), pp.121-130, DOI: [10.1145/1936652.1936676](https://doi.org/10.1145/1936652.1936676)
 
