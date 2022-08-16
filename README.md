@@ -70,23 +70,23 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Raffle, Parkes, Ishii, 2004. Topobo: a constructive assembly system with kinetic memory. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘04), pp. 647–654, DOI: [10.1145/985692.985774](https://doi.org/10.1145/985692.985774)
 
-- **Jordà, Geiger, Alonso, Kaltenbrunner, 2007. The reacTable: Exploring the Synergy between Live Music Performance and Tabletop Tangible Interfaces. In Proceedings of the 1st International Conference on Tangible and Embedded interaction (TEI ‘07), pp. 139–146, DOI: [10.1145/1226969.1226998](https://doi.org/10.1145/1226969.1226998)**
+- Jordà, Geiger, Alonso, Kaltenbrunner, 2007. The reacTable: Exploring the Synergy between Live Music Performance and Tabletop Tangible Interfaces. In Proceedings of the 1st International Conference on Tangible and Embedded interaction (TEI ‘07), pp. 139–146, DOI: [10.1145/1226969.1226998](https://doi.org/10.1145/1226969.1226998)
 
-- **Zigelbaum, Kumpf, Vazquez, Ishii, 2008. Slurp: tangibility spatiality and an eyedropper. In CHI '08 Extended Abstracts on Human Factors in Computing Systems (CHI EA ‘08), pp. 2565–2574, DOI: [10.1145/1358628.1358713](https://doi.org/10.1145/1358628.1358713)**
+- Zigelbaum, Kumpf, Vazquez, Ishii, 2008. Slurp: Tangibility Spatiality and an Eyedropper. In CHI '08 Extended Abstracts on Human Factors in Computing Systems (CHI EA ‘08), pp. 2565–2574, DOI: [10.1145/1358628.1358713](https://doi.org/10.1145/1358628.1358713)
 
-- Spindler, Hauschild, Dachselt, 2010. Towards making graphical user interface palettes tangible. In ACM International Conference on Interactive Tabletops and Surfaces (ITS ‘10), pp. 291–292, DOI: [10.1145/1936652.1936721](https://doi.org/10.1145/1936652.1936721)
+- Spindler, Hauschild, Dachselt, 2010. Towards Making Graphical User Interface Palettes Tangible. In ACM International Conference on Interactive Tabletops and Surfaces (ITS ‘10), pp. 291–292, DOI: [10.1145/1936652.1936721](https://doi.org/10.1145/1936652.1936721)
 
-- Pedersen & Hornbæk, 2011. Tangible bots: interaction with active tangibles in tabletop interfaces. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘11), pp. 2975–2984, DOI: [10.1145/1978942.1979384](https://doi.org/10.1145/1978942.1979384)
+- Pedersen & Hornbæk, 2011. Tangible Bots: Interaction with Active Tangibles in Tabletop Interfaces. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘11), pp. 2975–2984, DOI: [10.1145/1978942.1979384](https://doi.org/10.1145/1978942.1979384)
 
 - Bianchi & Oakley, 2013. Designing Tangible Magnetic Appcessories. In Proceedings of the 7th International Conference on Tangible, Embedded and Embodied Interaction (TEI ‘13), pp. 255–258, DOI: [10.1145/2460625.2460667](doi.org/10.1145/2460625.2460667)
 
-- Follmer, Leithinger, Olwal, Hogge, Ishii, 2013. InFORM: dynamic physical affordances and constraints through shape and object actuation. In Proceedings of the 26th annual ACM symposium on User interface software and technology (UIST ‚13), pp. 417–426. DOI: [10.1145/2501988.2502032](https://doi.org/10.1145/2501988.2502032)
+- Follmer, Leithinger, Olwal, Hogge, Ishii, 2013. InFORM: Dynamic Physical Affordances and Constraints through Shape and Object Actuation. In Proceedings of the 26th annual ACM symposium on User interface software and technology (UIST ‚13), pp. 417–426. DOI: [10.1145/2501988.2502032](https://doi.org/10.1145/2501988.2502032)
 
-- Yao, Niiyama, Ou, Follmer, Della Silva, Ishii, 2013. PneUI: pneumatically actuated soft composite materials for shape changing interfaces. In Proceedings of the 26th annual ACM symposium on User interface software and technology (UIST ‘13), pp. 13–22. DOI: [10.1145/2501988.2502037](https://doi.org/10.1145/2501988.2502037)
+- Yao, Niiyama, Ou, Follmer, Della Silva, Ishii, 2013. PneUI: Pneumatically Actuated Soft Composite Materials for Shape Changing Interfaces. In Proceedings of the 26th annual ACM symposium on User interface software and technology (UIST ‘13), pp. 13–22. DOI: [10.1145/2501988.2502037](https://doi.org/10.1145/2501988.2502037)
 
 - Liang, Chan, Tseng, Kuo, Huang, Yang, Chen, 2014. GaussBricks: Magnetic Building Blocks for Constructive Tangible Interactions on Portable Displays. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '14), pp. 3153–3162. DOI: [10.1145/2556288.2557105 ](https://doi.org/10.1145/2556288.2557105)
 
-- Schmidt, Ramakers, Pedersen, Jasper, Köhler, Pohl, Rantzsch, Rau, Schmidt, Sterz, Yurchenko, Baudisch, 2014. Kickables: tangibles for feet. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘14), pp. 3143–3152, DOI: [10.1145/2556288.2557016](https://doi.org/10.1145/2556288.2557016)
+- Schmidt, Ramakers, Pedersen, Jasper, Köhler, Pohl, Rantzsch, Rau, Schmidt, Sterz, Yurchenko, Baudisch, 2014. Kickables: Tangibles for Feet. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘14), pp. 3143–3152, DOI: [10.1145/2556288.2557016](https://doi.org/10.1145/2556288.2557016)
 
 - Le Goc, Kim, Parsaei, Fekete, Dragicevic, Follmer, 2016. Zooids: Building Blocks for Swarm User Interfaces. In Proceedings of the 29th Annual Symposium on User Interface Software and Technology (UIST ‘16), pp. 97–109, DOI:[10.1145/2984511.2984547](https://doi.org/10.1145/2984511.2984547)
 
