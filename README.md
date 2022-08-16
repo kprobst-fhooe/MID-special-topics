@@ -25,11 +25,20 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 #### Applications On-Surface
 
+
+
+
 ***
+
+
+
 
 ### 🧱 Tangible Interaction
 
+
+
 #### General
+
 
 - Fitzmaurice, Ishii, Buxton. 1995. Bricks: Laying the Foundations for Graspable User Interfaces. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘95), pp. 442–449, DOI: [10.1145/223904.223964](https://doi.org/10.1145/223904.223964)
 
@@ -45,7 +54,13 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - **Ishii, Lakatos, Bonanni, Labrune, 2012. Radical Atoms: Beyond Tangible Bits, Toward Transformable Materials. In ACM Interactions 19, 1 (January 2012), pp. 38-51, DOI: [10.1145/2065327.2065337](https://doi.org/10.1145/2065327.2065337)**
 
+- Ullmer, Shaer, Mazalek, Hummels, 2022. Weaving Fire into Form: Aspirations for Tangible and Embodied Interaction, ACM Books 📖
+
+
+
+
 #### Applications
+
 
 - Ullmer & Ishii, 1997. The metaDESK: Models and Prototypes for Tangible User Interfaces. In Proceedings of the 10th annual ACM symposium on User interface software and technology (UIST '97), pp. 223-232, DOI: [10.1145/263407.263551](https://doi.org/10.1145/263407.263551)
 
