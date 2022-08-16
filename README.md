@@ -47,6 +47,21 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 #### Applications
 
+- Ullmer & Ishii, 1997. The metaDESK: Models and Prototypes for Tangible User Interfaces. In Proceedings of the 10th annual ACM symposium on User interface software and technology (UIST '97), pp. 223-232, DOI: [10.1145/263407.263551](https://doi.org/10.1145/263407.263551)
+
+- Raffle, Parkes, Ishii, 2004. Topobo: a constructive assembly system with kinetic memory. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘04), pp. 647–654, DOI: [10.1145/985692.985774](https://doi.org/10.1145/985692.985774)
+
+- **Jordà, Geiger, Alonso, Kaltenbrunner, 2007. The reacTable: Exploring the Synergy between Live Music Performance and Tabletop Tangible Interfaces. In Proceedings of the 1st International Conference on Tangible and Embedded interaction (TEI ‘07), pp. 139–146, DOI: [10.1145/1226969.1226998](https://doi.org/10.1145/1226969.1226998)**
+
+- **Zigelbaum, Kumpf, Vazquez, Ishii, 2008. Slurp: tangibility spatiality and an eyedropper. In CHI '08 Extended Abstracts on Human Factors in Computing Systems (CHI EA ‘08), pp. 2565–2574, DOI: [10.1145/1358628.1358713](https://doi.org/10.1145/1358628.1358713)**
+
+- Spindler, Hauschild, Dachselt, 2010. Towards making graphical user interface palettes tangible. In ACM International Conference on Interactive Tabletops and Surfaces (ITS ‘10), pp. 291–292, DOI: [10.1145/1936652.1936721](https://doi.org/10.1145/1936652.1936721)
+
+- Pedersen & Hornbæk, 2011. Tangible bots: interaction with active tangibles in tabletop interfaces. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘11), pp. 2975–2984, DOI: [10.1145/1978942.1979384](https://doi.org/10.1145/1978942.1979384)
+
+- Bianchi & Oakley, 2013. Designing Tangible Magnetic Appcessories. In Proceedings of the 7th International Conference on Tangible, Embedded and Embodied Interaction (TEI ‘13), pp. 255–258, DOI: [10.1145/2460625.2460667](doi.org/10.1145/2460625.2460667)
+
+***
 
 ### 💬 Voice Interaction
 
