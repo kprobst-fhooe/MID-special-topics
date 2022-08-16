@@ -119,9 +119,9 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Marquardt, Hinckley, Greenberg, 2012. Cross-device Interaction via Micro-Mobility and F-Formations. In Proceedings of the 25th Annual ACM Symposium on User Interface Software and Technology (UIST '12), pp. 13-22, DOI: [10.1145/2380116.2380121](https://doi.org/10.1145/2380116.2380121)
 
-- Greenberg, Boring, Vermeulen, Dostal, 2014. Dark Patterns in Proxemic Interactions: A Critical Perspective. In Proceedings of the 2014 Conference on Designing Interactive Systems (DIS ‘14), pp. 523–532, DOI: [10.1145/2598510.2598541](https://doi.org/10.1145/2598510.2598541)
-
 - Marquardt, 2013. Proxemic Interactions in Ubiquitous Computing Ecologies. PhD Thesis, University of Calgary 🎓
+
+- Greenberg, Boring, Vermeulen, Dostal, 2014. Dark Patterns in Proxemic Interactions: A Critical Perspective. In Proceedings of the 2014 Conference on Designing Interactive Systems (DIS ‘14), pp. 523–532, DOI: [10.1145/2598510.2598541](https://doi.org/10.1145/2598510.2598541)
 
 
 #### Applications
