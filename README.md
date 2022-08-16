@@ -141,7 +141,7 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Aseniero, Tang, Carpendale, Greenberg, 2013. Showing Real-time Recommendations to Explore the Stages of Reflection and Action. Technical Report #2013-1040-07, Department of Computer Science, University of Calgary
 
-- **Rädle, Jetter, Marquardt, Reiterer, Rogers, 2014. HuddleLamp: Spatially-Aware Mobile Displays for Ad-hoc Around-the-Table Collaboration. In Proceedings of the 9th ACM International Conference on Interactive Tabletops and Surfaces (ITS '14), pp. 45-54, DOI: [10.1145/2669485.2669500](https://doi.org/10.1145/2669485.2669500)**
+- Rädle, Jetter, Marquardt, Reiterer, Rogers, 2014. HuddleLamp: Spatially-Aware Mobile Displays for Ad-hoc Around-the-Table Collaboration. In Proceedings of the 9th ACM International Conference on Interactive Tabletops and Surfaces (ITS '14), pp. 45-54, DOI: [10.1145/2669485.2669500](https://doi.org/10.1145/2669485.2669500)
 
 - Streitz, Prante, Röcker, Van Alphen, Magerkurth, Stenzel, Plewe, 2013. Ambient Displays and Mobile Devices for the Creation of Social Architectural Spaces. In Public and Situated Displays - Social and Interactional Aspects of Shared Display Technologies, pp. 387-409, DOI: [10.1007/978-94-017-2813-3_16](https://doi.org/10.1007/978-94-017-2813-3_16)
 
@@ -159,11 +159,6 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Tong, Serna, Pageaud, George, Tabard, 2016. It's Not how you Stand, it's how you Move: F-Formations and Collaboration Dynamics in a Mobile Learning Game. In Proceedings of the 18th International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI ‘16), pp. 318–329, DOI: [10.1145/2935334.2935343](https://doi.org/10.1145/2935334.2935343)
 
-
-#### Multimodal Combination
-
-
-- 
 
 
 ***
