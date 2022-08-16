@@ -88,11 +88,15 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Schmidt, Ramakers, Pedersen, Jasper, Köhler, Pohl, Rantzsch, Rau, Schmidt, Sterz, Yurchenko, Baudisch, 2014. Kickables: tangibles for feet. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘14), pp. 3143–3152, DOI: [10.1145/2556288.2557016](https://doi.org/10.1145/2556288.2557016)
 
-- Le Goc, Kim, Parsaei, Fekete, Dragicevic, Follmer, 2016. Zooids: Building Blocks for Swarm User Interfaces. In Proceedings of the 29th Annual Symposium on User Interface Software and Technology (UIST ‘16), pp. 97–109, DOI:[10.1145/2984511.2984547](https://doi.org/10.1145/2984511.2984547(
+- Le Goc, Kim, Parsaei, Fekete, Dragicevic, Follmer, 2016. Zooids: Building Blocks for Swarm User Interfaces. In Proceedings of the 29th Annual Symposium on User Interface Software and Technology (UIST ‘16), pp. 97–109, DOI:[10.1145/2984511.2984547](https://doi.org/10.1145/2984511.2984547)
+
+- Leong, Perteneder, Jetter, Haller, 2017. What a Life!: Building a Framework for Constructive Assemblies. In Proceedings of the Eleventh International Conference on Tangible, Embedded, and Embodied Interaction (TEI '17), pp. 57-66, DOI: [10.1145/3024969.3024985](https://doi.org/10.1145/3024969.3024985)
+
+- Villar, Cletheroe, Saul, Holz, Regan, Salandin, Sra, Yeo, Field, Zhang, 2018. Project Zanzibar: A Portable and Flexible Tangible Interaction Platform. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI ‘18), Paper 515, DOI: [10.1145/3173574.3174089](https://doi.org/10.1145/3173574.3174089)
 
 - Suzuki, Zheng, Kakehi, Yeh, Do, Gross, Leithinger, 2019. ShapeBots: Shape-changing Swarm Robots. In Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology (UIST ‘19), pp. 493–505, DOI: [10.1145/3332165.3347911](https://doi.org/10.1145/3332165.3347911)
 
-- Villar, Cletheroe, Saul, Holz, Regan, Salandin, Sra, Yeo, Field, Zhang, 2018. Project Zanzibar: A Portable and Flexible Tangible Interaction Platform. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI ‘18), Paper 515, DOI: [10.1145/3173574.3174089](https://doi.org/10.1145/3173574.3174089)
+- Perteneder, Probst, Leoong, Gassler, Rendl, Parzer, Fluch, Gahleitner, Follmer, Koike, Haller, 2020. Foxels: Build Your Own Smart Furniture. In Proceedings of the Fourteenth International Conference on Tangible, Embedded, and Embodied Interaction (TEI '20), pp. 111-122, DOI: [10.1145/3374920.3374935](https://doi.org/10.1145/3374920.3374935)
 
 
 
