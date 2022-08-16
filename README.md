@@ -137,7 +137,16 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Vogel & Balakrishnan, 2004. Interactive Public Ambient Displays: Transitioning from Implicit to Explicit, Public to Personal, Interaction with Multiple Users. In Proceedings of the 17th Annual ACM Symposium on User Interface Software and Technology (UIST '04), pp. 137–146, DOI: [10.1145/1029632.1029656](https://doi.org/10.1145/1029632.1029656) **[\#proxemic](#-proxemic--spatially-aware-interaction)** **[\#gesture](#-gestural-interaction)**
 
+- Pering, Anokwa, Want, 2007. Gesture Connect: Facilitating Tangible Interaction with a Flick of the Wrist. In Proceedings of the 1st international conference on Tangible and embedded interaction (TEI ‘07), pp. 259–262, DOI: [10.1145/1226969.1227022](https://doi.org/10.1145/1226969.1227022) **[\#tangible](#-tangible-interaction)** **[\#gesture](#-gestural-interaction)**
+
+- Cheng, Liang, Chen, Laing, Kuo, 2010. iCon: Utilizing Everyday Objects as Additional, Auxiliary and Instant Tabletop Controllers. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘10), pp. 1155–1164, DOI: [10.1145/1753326.1753499](https://doi.org/10.1145/1753326.1753499) **[\#tangible](#-tangible-interaction)** **[\#gesture](#-gestural-interaction)**
+
 - Annett, Grossman, Wigdor, Fitzmaurice, 2011. Medusa: A Proximity-Aware Multi-Touch Tabletop. In Proceedings of the 24th Annual ACM Symposium on User Interface Software and Technology (UIST ‘11), pp. 337–346, DOI: [10.1145/2047196.2047240](https://doi.org/10.1145/2047196.2047240) **[\#proxemic](#-proxemic--spatially-aware-interaction)** **[\#gesture](#-gestural-interaction)**
+
+- Valdes, Eastman, Grote, Thatte, Shaer, Mazalek, Ullmer, Konkel, 2014. Exploring the Design Space of Gestural Interaction with Active Tokens through User-Defined Gestures. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘14), pp.4107–4116, DOI: [10.1145/2556288.2557373](https://doi.org/10.1145/2556288.2557373) **[\#tangible](#-tangible-interaction)** **[\#gesture](#-gestural-interaction)**
 
 - Kister, Reipschläger, Matulic, Dachselt, 2015. BodyLenses: Embodied Magic Lenses and Personal Territories for Wall Displays. In Proceedings of the 2015 International Conference on Interactive Tabletops & Surfaces (ITS ‘15), pp. 117–126, DOI: [10.1145/2817721.2817726](https://doi.org/10.1145/2817721.2817726) **[\#proxemic](#-proxemic--spatially-aware-interaction)** **[\#gesture](#-gestural-interaction)**
 
+- Pratte, Seyed, Maurer, 2016. Acquario: A Tangible Spatially-Aware Tool for Information Interaction and Visualization. In Proceedings of the 2016 Symposium on Spatial User Interaction (SUI ‘16), DOI: [10.1145/2983310.2989208](https://doi.org/10.1145/2983310.2989208) **[\#tangible](#-tangible-interaction)** **[\#gesture](#-gestural-interaction)**
+
+- Yeo, Minami, Rodriguez, Shaker, Quigley, 2018. Exploring Tangible Interactions with Radar Sensing. In Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 2, 4, Article 200, DOI: [10.1145/3287078](https://doi.org/10.1145/3287078) **[\#tangible](#-tangible-interaction)** **[\#gesture](#-gestural-interaction)**
