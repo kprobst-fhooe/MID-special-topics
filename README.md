@@ -82,9 +82,9 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Follmer, Leithinger, Olwal, Hogge, Ishii, 2013. InFORM: dynamic physical affordances and constraints through shape and object actuation. In Proceedings of the 26th annual ACM symposium on User interface software and technology (UIST ‚13), pp. 417–426. DOI: [10.1145/2501988.2502032](https://doi.org/10.1145/2501988.2502032)
 
-- Yao, Niiyama, Ou, Follmer, Della Silva, Ishii, 2013. PneUI: pneumatically actuated soft composite materials for shape changing interfaces. In Proceedings of the 26th annual ACM symposium on User interface software and technology (UIST ‘13), pp. 13–22. DOI: [10.1145/2501988.2502037](https://doi.org/10.1145/2501988.2502037(
+- Yao, Niiyama, Ou, Follmer, Della Silva, Ishii, 2013. PneUI: pneumatically actuated soft composite materials for shape changing interfaces. In Proceedings of the 26th annual ACM symposium on User interface software and technology (UIST ‘13), pp. 13–22. DOI: [10.1145/2501988.2502037](https://doi.org/10.1145/2501988.2502037)
 
-- Liang, Chan, Tseng, Kuo, Huang, Yang, Chen, 2014. GaussBricks: Magnetic Building Blocks for Constructive Tangible Interactions on Portable Displays. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '14), pp. 3153–3162. DOI: [10.1145/2556288.2557105 ](https://doi.org/10.1145/2556288.2557105(
+- Liang, Chan, Tseng, Kuo, Huang, Yang, Chen, 2014. GaussBricks: Magnetic Building Blocks for Constructive Tangible Interactions on Portable Displays. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '14), pp. 3153–3162. DOI: [10.1145/2556288.2557105 ](https://doi.org/10.1145/2556288.2557105)
 
 - Schmidt, Ramakers, Pedersen, Jasper, Köhler, Pohl, Rantzsch, Rau, Schmidt, Sterz, Yurchenko, Baudisch, 2014. Kickables: tangibles for feet. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘14), pp. 3143–3152, DOI: [10.1145/2556288.2557016](https://doi.org/10.1145/2556288.2557016)
 
