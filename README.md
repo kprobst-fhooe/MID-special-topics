@@ -61,9 +61,6 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Bianchi & Oakley, 2013. Designing Tangible Magnetic Appcessories. In Proceedings of the 7th International Conference on Tangible, Embedded and Embodied Interaction (TEI ‘13), pp. 255–258, DOI: [10.1145/2460625.2460667](doi.org/10.1145/2460625.2460667)
 
-
-
-
 - Follmer, Leithinger, Olwal, Hogge, Ishii, 2013. InFORM: dynamic physical affordances and constraints through shape and object actuation. In Proceedings of the 26th annual ACM symposium on User interface software and technology (UIST ‚13), pp. 417–426. DOI: [10.1145/2501988.2502032](https://doi.org/10.1145/2501988.2502032)
 
 - Yao, Niiyama, Ou, Follmer, Della Silva, Ishii, 2013. PneUI: pneumatically actuated soft composite materials for shape changing interfaces. In Proceedings of the 26th annual ACM symposium on User interface software and technology (UIST ‘13), pp. 13–22. DOI: [10.1145/2501988.2502037](https://doi.org/10.1145/2501988.2502037(
