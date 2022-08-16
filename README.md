@@ -60,6 +60,8 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - **Ishii, Lakatos, Bonanni, Labrune, 2012. Radical Atoms: Beyond Tangible Bits, Toward Transformable Materials. In ACM Interactions 19, 1 (January 2012), pp. 38-51, DOI: [10.1145/2065327.2065337](https://doi.org/10.1145/2065327.2065337)**
 
+- Alexander, Roudaut, Steimle, Hornbæk, Alonso, Follmer, Merritt, 2018. Grand Challenges in Shape-Changing Interface Research. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18), Paper 299, DOI: [10.1145/3173574.3173873](https://doi.org/10.1145/3173574.3173873)
+
 - Ullmer, Shaer, Mazalek, Hummels, 2022. Weaving Fire into Form: Aspirations for Tangible and Embodied Interaction. ACM Books 📖
 
 
