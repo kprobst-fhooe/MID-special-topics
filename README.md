@@ -57,8 +57,6 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 ### General
 
-- Quek, 1995. Eyes in the interface. In Image and Vision Computing 13(6), pp. 511–525
-
 - Karam & Schraefel, 2005. A Taxonomy of Gestures in Human Computer Interactions
 
 - Saffer, 2008. Designing Gestural Interfaces: Touchscreens and Interactive Devices. O'Reilly Media 📖
