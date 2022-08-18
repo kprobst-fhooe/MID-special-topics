@@ -59,8 +59,8 @@ Special Topics included:
 ### 👋 Gestural Interaction
 
 
-#### General
-
+<summary>#### General</summary>
+<detail>
 - Quek, 1995. Eyes in the interface. In Image and Vision Computing 13(6), pp. 511–525
 
 - Karam & Schraefel, 2005. A Taxonomy of Gestures in Human Computer Interactions
@@ -116,6 +116,7 @@ Special Topics included:
 - Lopes, Relvas, Paulo, Rekik, Grisoni, Jorge, 2019. FEETICHE: FEET Input for Contactless Hand gEsture Interaction. In The 17th International Conference on Virtual-Reality Continuum and its Applications in Industry (VRCAI '19), Article 29, DOI: [10.1145/3359997.3365704](https://doi.org/10.1145/3359997.3365704) 
 
 - Şiean, Pamparău, Vatavu, 2022. Scenario-based Exploration of Integrating Radar Sensing Into Everyday Objects for Free-Hand Television Control. In Proceedings ACM International Conference on Interactive Media Experiences (IMX '22), pp. 357–362, DOI: [10.1145/3505284.3532982](https://doi.org/10.1145/3505284.3532982)
+</detail>
 
 
 #### Applications On-Surface
