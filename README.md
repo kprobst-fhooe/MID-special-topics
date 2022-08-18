@@ -19,7 +19,7 @@ Special Topics included:
 - 🧱 [Tangible Interaction](#-tangible-interaction)
 - 💬 [Voice Interaction](#-voice-interaction)
 - 👁️ [Gaze Interaction](#-gaze-interaction)
-- 📏 [Proxemic & Spatially-Aware Interaction]((#-proxemic--spatially-aware-interaction)
+- 📏 [Proxemic & Spatially-Aware Interaction](#-proxemic--spatially-aware-interaction)
 
 
 
