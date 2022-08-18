@@ -18,7 +18,7 @@ Special Topics included:
 - 👋 [Gestural Interaction](#-gestural-interaction)
 - 🧱 [Tangible Interaction](#-tangible-interaction)
 - 💬 [Voice Interaction](#-voice-interaction)
-- 👁️ [Gaze Interaction](#-gaze-interaction)
+- 👁️ [Gaze Interaction](#%EF%B8%8F-gaze-interaction)
 - 📏 [Proxemic & Spatially-Aware Interaction](#-proxemic--spatially-aware-interaction)
 
 
