@@ -46,8 +46,7 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Oviatt, Schuller, Cohen, Sonntag, Potamianos, Krüger, 2017. The Handbook of Multimodal-Multisensor Interfaces: Foundations, User Modeling, and Common Modality Combinations - Volume 1. DOI: [10.1145/3015783](https://doi.org/10.1145/3015783)
 
-- Cheryl Platz, 2020. Design Beyond Devices: Creating Multimodal, Cross-Device Experiences
-</details>
+- Cheryl Platz, 2020. Design Beyond Devices: Creating Multimodal, Cross-Device Experiences. Rosenfeld Media 📖
 
 
 <br/>
