@@ -75,11 +75,11 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 ### Applications Mid-Air
 
-- Baudel, Beaudouin-Lafon, 1993. Charade: remote control of objects using free-hand gestures. In Commun. ACM 36, 7 (July 1993), pp. 28–35, DOI: [10.1145/159544.159562](https://doi.org/10.1145/159544.159562) [📄](mid-air/1993-Baudel et al. - Charade Remote Control of Objects Using Free-Hand Gestures.pdf)
+- Baudel, Beaudouin-Lafon, 1993. Charade: remote control of objects using free-hand gestures. In Commun. ACM 36, 7 (July 1993), pp. 28–35, DOI: [10.1145/159544.159562](https://doi.org/10.1145/159544.159562) [📄](gesture/mid-air/1993-Baudel%20et%20al.%20-%20Charade%20Remote%20Control%20of%20Objects%20Using%20Free-Hand%20Gestures.pdf)
 
-- Dachselt & Buchholz, 2009. Natural throw and tilt interaction between mobile phones and distant displays. In CHI '09 Extended Abstracts on Human Factors in Computing Systems (CHI EA ‘09), pp. 3253–3258, DOI: [10.1145/1520340.1520467](https://doi.org/10.1145/1520340.1520467) [📄](mid-air/2009-Dachselt et al. - Natural Throw and Tilt Interaction between Mobile Phones and Distant Displays.pdf)
+- Dachselt & Buchholz, 2009. Natural throw and tilt interaction between mobile phones and distant displays. In CHI '09 Extended Abstracts on Human Factors in Computing Systems (CHI EA ‘09), pp. 3253–3258, DOI: [10.1145/1520340.1520467](gesture/mid-air/2009-Dachselt%20et%20al.%20-%20Natural%20Throw%20and%20Tilt%20Interaction%20between%20Mobile%20Phones%20and%20Distant%20Displays.pdf)
 
-- Fourney, Terry, Mann, 2010. Gesturing in the wild: understanding the effects and implications of gesture-based interaction for dynamic presentations. In Proceedings of the 24th BCS Interaction Specialist Group Conference (BCS ‘10), pp. 230–240 [📄](mid-air/2010-Fourney et al. - Gesturing in the Wild.pdf)
+- Fourney, Terry, Mann, 2010. Gesturing in the wild: understanding the effects and implications of gesture-based interaction for dynamic presentations. In Proceedings of the 24th BCS Interaction Specialist Group Conference (BCS ‘10), pp. 230–240 [📄](gesture/mid-air/2010-Fourney et al. - Gesturing in the Wild.pdf)
 
 - Gustafson, Bierwirth, Baudisch, 2010. Imaginary interfaces: spatial interaction with empty hands and without visual feedback. In Proceedings of the 23nd annual ACM symposium on User interface software and technology (UIST ‘10), pp. 3–12, DOI: [10.1145/1866029.1866033](https://doi.org/10.1145/1866029.1866033) [📄](mid-air/2010-Gustafson et al. - Imaginary Interfaces Spatial Interaction with Empty Hands and without Visual Feedback.pdf)
 
