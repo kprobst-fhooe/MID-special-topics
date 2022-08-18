@@ -388,7 +388,7 @@ Harada, Wobbrock, Landay, 2011. Voice Games: Investigation Into the Use of Non-s
 ### General
 
 
-- **Hall, 1966. The Hidden Dimension. Anchor Books 📖**
+- Hall, 1966. The Hidden Dimension. Anchor Books 📖
 
 - Ballendat, Marquardt, Greenberg, 2010. Proxemic interaction: Designing for a Proximity and Orientation-Aware Environment. In ACM International Conference on Interactive Tabletops and Surfaces (ITS '10), pp.121-130, DOI: [10.1145/1936652.1936676](https://doi.org/10.1145/1936652.1936676)
 
