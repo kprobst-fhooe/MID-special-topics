@@ -193,6 +193,27 @@ Harada, Wobbrock, Landay, 2011. Voice Games: Investigation Into the Use of Non-s
 ### 👁️ Gaze Interaction
 
 
+#### General
+
+- Jacob, 1990. What you look at is what you get: eye movement-based interaction techniques. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘90), pp. 11–18, DOI: [10.1145/97243.97246](https://doi.org/10.1145/97243.97246)
+
+- Jacob, 1995. Eye tracking in advanced interface design. In Virtual environments and advanced interface design, pp. 258–288
+
+- Sibert & Jacob, 2000. Evaluation of eye gaze interaction. In Proceedings of the SIGCHI conference on Human Factors in Computing Systems (CHI ‘00), pp. 281–288, DOI: [10.1145/332040.332445](https://doi.org/10.1145/332040.332445)
+
+- Kumar, 2007. Gaze-Enhanced User Interface Design. Phd Thesis, Stanford University 
+
+- Vertegaal, 2008. A Fitts Law comparison of eye tracking and manual input in the selection of visual targets. In Proceedings of the 10th international conference on Multimodal interfaces (ICMI '08), pp. 241–248, DOI: [10.1145/1452392.1452443](https://doi.org/10.1145/1452392.1452443)
+
+- Vrzakova & Bednarik, 2013. That's not norma(n/l): a detailed analysis of midas touch in gaze-based problem-solving. In CHI '13 Extended Abstracts on Human Factors in Computing Systems (CHI EA ‘13), pp. 85–90, DOI: [10.1145/2468356.2468373](https://doi.org/10.1145/2468356.2468373)
+
+- Feit, Williams, Toledo, Paradiso, Kulkarni, Kane, Ringel Morris, 2017. Toward Everyday Gaze Input: Accuracy and Precision of Eye Tracking and Implications for Design. In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (CHI ‘17), pp. 1118–1130, DOI: [10.1145/3025453.3025599](https://doi.org/10.1145/3025453.3025599)
+
+- Klaib, Alsrehin, Melhem, Bashtawi, Magableh, 2020. Eye tracking algorithms, techniques, tools, and applications with an emphasis on machine learning and Internet of Things technologies (Chapter 7), DOI: [10.1016/j.eswa.2020.114037](https://doi.org/10.1016/j.eswa.2020.114037)
+
+
+#### Applications
+
 
 ***
 
