@@ -23,7 +23,6 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 
 <br/>
-<br/>
 
 
 ## ✨ Multimodal Interaction
@@ -51,8 +50,7 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 </details>
 
 
-***
-
+<br/>
 
 
 ## 👋 Gestural Interaction
