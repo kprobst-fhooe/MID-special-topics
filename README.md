@@ -77,7 +77,7 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Baudel, Beaudouin-Lafon, 1993. Charade: remote control of objects using free-hand gestures. In Commun. ACM 36, 7 (July 1993), pp. 28–35, DOI: [10.1145/159544.159562](https://doi.org/10.1145/159544.159562) [📄](gesture/mid-air/1993-Baudel%20et%20al.%20-%20Charade%20Remote%20Control%20of%20Objects%20Using%20Free-Hand%20Gestures.pdf)
 
-- Dachselt & Buchholz, 2009. Natural throw and tilt interaction between mobile phones and distant displays. In CHI '09 Extended Abstracts on Human Factors in Computing Systems (CHI EA ‘09), pp. 3253–3258, DOI: [10.1145/1520340.1520467](gesture/mid-air/2009-Dachselt%20et%20al.%20-%20Natural%20Throw%20and%20Tilt%20Interaction%20between%20Mobile%20Phones%20and%20Distant%20Displays.pdf)
+- Dachselt & Buchholz, 2009. Natural throw and tilt interaction between mobile phones and distant displays. In CHI '09 Extended Abstracts on Human Factors in Computing Systems (CHI EA ‘09), pp. 3253–3258, DOI: [10.1145/1520340.1520467] [📄](gesture/mid-air/2009-Dachselt%20et%20al.%20-%20Natural%20Throw%20and%20Tilt%20Interaction%20between%20Mobile%20Phones%20and%20Distant%20Displays.pdf)
 
 - Fourney, Terry, Mann, 2010. Gesturing in the wild: understanding the effects and implications of gesture-based interaction for dynamic presentations. In Proceedings of the 24th BCS Interaction Specialist Group Conference (BCS ‘10), pp. 230–240 [📄](gesture/mid-air/2010-Fourney et al. - Gesturing in the Wild.pdf)
 
