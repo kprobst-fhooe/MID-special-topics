@@ -25,7 +25,11 @@ Special Topics included:
 
 ***
 
-### ✨ Multimodal Interaction
+
+<details>
+  <summary>### ✨ Multimodal Interaction</summary>
+
+
 
 - Oviatt, 1999. Ten Myths of Multimodal Interaction. In Communications of the ACM 42, 11, pp. 74–81, DOI: [10.1145/319382.319398](https://doi.org/10.1145/319382.319398)
 
@@ -46,7 +50,10 @@ Special Topics included:
 - Oviatt, Schuller, Cohen, Sonntag, Potamianos, Krüger, 2017. The Handbook of Multimodal-Multisensor Interfaces: Foundations, User Modeling, and Common Modality Combinations - Volume 1. DOI: [10.1145/3015783](https://doi.org/10.1145/3015783)
 
 - Cheryl Platz, 2020. Design Beyond Devices: Creating Multimodal, Cross-Device Experiences
+</details>
 
+
+***
 
 
 
