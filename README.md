@@ -432,7 +432,7 @@ Harada, Wobbrock, Landay, 2011. Voice Games: Investigation Into the Use of Non-s
 
 - Vermeulen, Luyten, Coninx, Marquardt, Bird, 2015. Proxemic Flow: Dynamic Peripheral Floor Visualizations for Revealing and Mediating Large Surface Interactions. In Proceedings of the 15th IFIP TC.13 International Conference on Human-Computer Interaction (INTERACT 2015). Lecture Notes in Computer Science, vol 9299, DOI: [10.1007/978-3-319-22723-8_22](https://doi.org/10.1007/978-3-319-22723-8_22)
 
-- Houben, Vermeulen, Klokmose, Schöning, Marquardt, and Reiterer. 2016. Cross-Surface: Challenges and Opportunities of Spatial and Proxemic Interaction. In Proceedings of the 2016 ACM International Conference on Interactive Surfaces and Spaces (ISS '16),  pp. 509–51, DOI: [10.1145/2992154.2996360](hptts://doi.org/10.1145/2992154.2996360)
+- Houben, Vermeulen, Klokmose, Schöning, Marquardt, and Reiterer. 2016. Cross-Surface: Challenges and Opportunities of Spatial and Proxemic Interaction. In Proceedings of the 2016 ACM International Conference on Interactive Surfaces and Spaces (ISS '16),  pp. 509–51, DOI: [10.1145/2992154.2996360](https://doi.org/10.1145/2992154.2996360)
 
 - Porcheron, Lucero, Quigley, Marquardt, Clawson, O'Hara, 2016. Proxemic Mobile Collocated Interactions. In Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems (CHI EA '16), pp. 3309–3316, DOI: [10.1145/2851581.2856471](https://doi.org/10.1145/2851581.2856471)
 
