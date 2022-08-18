@@ -32,9 +32,55 @@ Special Topics included:
 
 #### General
 
+- Quek, 1995. Eyes in the interface. In Image and Vision Computing 13(6), pp. 511–525
+
+- Karam & Schraefel, 2005. A Taxonomy of Gestures in Human Computer Interactions
+
+- Saffer, 2008. Designing Gestural Interfaces: Touchscreens and Interactive Devices. O'Reilly Media 📖
+
+- Norman & Nielsen, 2010. Gestural interfaces: a step backward in usability. In Interactions 17, 5, pp. 46–49, doi.org/10.1145/1836216.1836228 
+
+- Van den Hoven, Mazalek, 2011. Grasping gestures: Gesturing with physical artifacts. In Artificial intelligence for engineering design analysis and manufacturing 25(3), pp. 255-271, DOI: [10.1017/S0890060411000072](https://doi.org/10.1017/S0890060411000072)
+
+- Wigdor & Wixon, 2011. Brave NUI World: Designing Natural User Interfaces for Touch and Gesture (1st. ed.). Morgan Kaufmann Publishers 📖
+
+- Zhai, Kristensson, Appert, Andersen, Cao, 2012. Foundational Issues in Touch-Surface Stroke Gesture Design — An Integrative Review. In Foundations and Trends in Human-Computer Interaction, vol. 5, no. 2, pp. 97–205
+
+- LaViola, 2013. 3D Gestural Interaction: The State of the Field, In International Scholarly Research Notices, Volume 2013, Article ID 514641, DOI: [10.1155/2013/514641](https://doi.org/10.1155/2013/514641)
+
+
 
 #### Applications Mid-Air
 
+- Baudel, Beaudouin-Lafon, 1993. Charade: remote control of objects using free-hand gestures. In Commun. ACM 36, 7 (July 1993), pp. 28–35, DOI: [10.1145/159544.159562](https://doi.org/10.1145/159544.159562)
+
+- Dachselt & Buchholz, 2009. Natural throw and tilt interaction between mobile phones and distant displays. In CHI '09 Extended Abstracts on Human Factors in Computing Systems (CHI EA ‘09), pp. 3253–3258, DOI: [10.1145/1520340.1520467](https://doi.org/10.1145/1520340.1520467)
+
+- Fourney, Terry, Mann, 2010. Gesturing in the wild: understanding the effects and implications of gesture-based interaction for dynamic presentations. In Proceedings of the 24th BCS Interaction Specialist Group Conference (BCS ‘10), pp. 230–240
+
+- Gustafson, Bierwirth, Baudisch, 2010. Imaginary interfaces: spatial interaction with empty hands and without visual feedback. In Proceedings of the 23nd annual ACM symposium on User interface software and technology (UIST ‘10), pp. 3–12, DOI: [10.1145/1866029.1866033](https://doi.org/10.1145/1866029.1866033) 
+
+- Han, Alexander, Karnik, Irani, Subramanian, 2011. Kick: investigating the use of kick gestures for mobile interactions. In Proceedings of the 13th International Conference on Human Computer Interaction with Mobile Devices and Services (MobileHCI ‘11), pp. 29–32, DOI: [10.1145/2037373.2037379](https://doi.org/10.1145/2037373.2037379)
+
+- Ruiz, Li, Lank, 2011. User-defined motion gestures for mobile interaction. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘11), pp. 197–206, DOI: [10.1145/1978942.1978971](https://doi.org/10.1145/1978942.1978971)
+
+- Cohn, Morris, Patel, and Tan, 2012. Humantenna: using the body as an antenna for real-time whole-body interaction. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘12), pp. 1901–1910, DOI: [10.1145/2207676.2208330](https://doi.org/10.1145/2207676.2208330)
+
+- Gustafson, Holz, Baudisch, 2011. Imaginary phone: learning imaginary interfaces by transferring spatial memory from a familiar device. In Proceedings of the 24th annual ACM symposium on User interface software and technology (UIST ‘11), pp. 283–292, DOI: [10.1145/2047196.2047233](https://doi.org/10.1145/2047196.2047233)
+
+- Kim, Hilliges, Izadi, Butler, Chen, Oikonomidis, Olivier, 2012. Digits: freehand 3D interactions anywhere using a wrist-worn gloveless sensor. In Proceedings of the 25th annual ACM symposium on User interface software and technology (UIST ‘12), pp. 167–176, DOI: [10.1145/2380116.2380139](https://doi.org/10.1145/2380116.2380139)
+
+- Bailly, Müller, Rohs, Wigdor, Kratz, 2012. ShoeSense: a new perspective on gestural interaction and wearable applications. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘12), pp. 1239–1248, DOI: [10.1145/2207676.2208576](https://doi.org/10.1145/2207676.2208576)
+
+- Song, Sörös, Pece, Fanello, Izadi, Keskin, Hilliges, 2014. In-air gestures around unmodified mobile devices. In Proceedings of the 27th annual ACM symposium on User interface software and technology (UIST ‘14), pp. 319–329, DOI: [10.1145/2642918.2647373](https://doi.org/10.1145/2642918.2647373)
+
+- Chan, Hsieh, Chen, Yang, Huang, Liang, Chen. 2015. Cyclops: Wearable and Single-Piece Full-Body Gesture Input Devices. In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (CHI ‘15), pp. 3001–3009, DOI: [10.1145/2702123.2702464](https://doi.org/10.1145/2702123.2702464)
+
+- Liu, Nancel, Vogel, 2015. Gunslinger: Subtle Arms-down Mid-air Interaction. In Proceedings of the 28th Annual ACM Symposium on User Interface Software & Technology (UIST ‘15), pp. 63–71, DOI: [10.1145/2807442.2807489](https://doi.org/10.1145/2807442.2807489)
+
+- Silpasuwanchai, Ren, 2015. Designing concurrent full-body gestures for intense gameplay. In International Journal of Human-Computer Studies 80, DOI: 810.1016/j.ijhcs.2015.02.010](doi.org/10.1016/j.ijhcs.2015.02.010)
+
+- Lien, Gillian, Karagozler, Amihood, Schwesig, Olson, Raja, Poupyrev, 2016. Soli: ubiquitous gesture sensing with millimeter wave radar. In ACM Trans. Graph. 35, 4, Article 142 (July 2016), DOI: [10.1145/2897824.2925953](https://doi.org/10.1145/2897824.2925953)
 
 - Şiean, Pamparău, Vatavu, 2022. Scenario-based Exploration of Integrating Radar Sensing Into Everyday Objects for Free-Hand Television Control. In Proceedings ACM International Conference on Interactive Media Experiences (IMX '22), pp. 357–362, DOI: [10.1145/3505284.3532982](https://doi.org/10.1145/3505284.3532982)
 
