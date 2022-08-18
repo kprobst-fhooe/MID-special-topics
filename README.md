@@ -57,7 +57,7 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 ### General
 
-- Karam & Schraefel, 2005. [A Taxonomy of Gestures in Human Computer Interactions](gesture/2005-Karam%20et%20al.%20-%20A%20Taxonomy%20of%20Gestures%20in%20Human%20Computer%20Interactions.pdf)
+- Karam & Schraefel, 2005. [A Taxonomy of Gestures in Human Computer Interactions](https://raw.githubusercontent.com/kprobst-fhooe/MMI-special-topics/main/gesture/2005-Karam%20et%20al.%20-%20A%20Taxonomy%20of%20Gestures%20in%20Human%20Computer%20Interactions.pdf)
 
 - Saffer, 2008. Designing Gestural Interfaces: Touchscreens and Interactive Devices. O'Reilly Media 📖
 
