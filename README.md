@@ -227,6 +227,8 @@ Special Topics included:
 
 - Murad, Munteanu, 2019. "I don't know what you're talking about, HALexa": the Case For Voice User Interface Guidelines. In Proceedings of the 1st International Conference on Conversational User Interfaces (CUI '19), Article 9, DOI: [10.1145/3342775.3342795](https://doi.org/10.1145/3342775.3342795)
 
+- Bouzid, Ma, 2022. The Elements of Voice First Style: A Practical Guide to Voice User Interface Design, O'Reilly Media 📖
+
 
 
 #### Applications
