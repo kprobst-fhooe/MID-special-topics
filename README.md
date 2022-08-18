@@ -23,8 +23,6 @@ Special Topics included:
 
 
 
-***
-
 
 
 ## ✨ Multimodal Interaction
