@@ -1,4 +1,4 @@
-# HCI Papers Best Of
+# Special Topics in Multimodal Interaction
 
 A collection of essential papers and books on diverse topics in Human-Computer Interaction (HCI), specifically in the scope of input modalities and interaction techniques. Papers are mainly taken from representative conferences the field of Human-Computer Interaction, such as:
 
