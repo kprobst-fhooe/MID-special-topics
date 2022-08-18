@@ -74,7 +74,7 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Jordà, Geiger, Alonso, Kaltenbrunner, 2007. The reacTable: Exploring the Synergy between Live Music Performance and Tabletop Tangible Interfaces. In Proceedings of the 1st International Conference on Tangible and Embedded interaction (TEI ‘07), pp. 139–146, DOI: [10.1145/1226969.1226998](https://doi.org/10.1145/1226969.1226998)
 
-- Pering, Anokwa, Want, 2007. Gesture Connect: Facilitating Tangible Interaction with a Flick of the Wrist. In Proceedings of the 1st international conference on Tangible and embedded interaction (TEI ‘07), pp. 259–262, DOI: [10.1145/1226969.1227022](https://doi.org/10.1145/1226969.1227022) 
+- Pering, Anokwa, Want, 2007. Gesture Connect: Facilitating Tangible Interaction with a Flick of the Wrist. In Proceedings of the 1st international conference on Tangible and embedded interaction (TEI ‘07), pp. 259–262, DOI: [10.1145/1226969.1227022](https://doi.org/10.1145/1226969.1227022) ✨
 
 - Zigelbaum, Kumpf, Vazquez, Ishii, 2008. Slurp: Tangibility Spatiality and an Eyedropper. In CHI '08 Extended Abstracts on Human Factors in Computing Systems (CHI EA ‘08), pp. 2565–2574, DOI: [10.1145/1358628.1358713](https://doi.org/10.1145/1358628.1358713)
 
@@ -92,19 +92,19 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Liang, Chan, Tseng, Kuo, Huang, Yang, Chen, 2014. GaussBricks: Magnetic Building Blocks for Constructive Tangible Interactions on Portable Displays. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '14), pp. 3153–3162. DOI: [10.1145/2556288.2557105 ](https://doi.org/10.1145/2556288.2557105)
 
-- Schmidt, Ramakers, Pedersen, Jasper, Köhler, Pohl, Rantzsch, Rau, Schmidt, Sterz, Yurchenko, Baudisch, 2014. Kickables: Tangibles for Feet. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘14), pp. 3143–3152, DOI: [10.1145/2556288.2557016](https://doi.org/10.1145/2556288.2557016)
+- Schmidt, Ramakers, Pedersen, Jasper, Köhler, Pohl, Rantzsch, Rau, Schmidt, Sterz, Yurchenko, Baudisch, 2014. Kickables: Tangibles for Feet. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘14), pp. 3143–3152, DOI: [10.1145/2556288.2557016](https://doi.org/10.1145/2556288.2557016) ✨
 
-- Valdes, Eastman, Grote, Thatte, Shaer, Mazalek, Ullmer, Konkel, 2014. Exploring the Design Space of Gestural Interaction with Active Tokens through User-Defined Gestures. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘14), pp.4107–4116, DOI: [10.1145/2556288.2557373](https://doi.org/10.1145/2556288.2557373)
+- Valdes, Eastman, Grote, Thatte, Shaer, Mazalek, Ullmer, Konkel, 2014. Exploring the Design Space of Gestural Interaction with Active Tokens through User-Defined Gestures. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘14), pp.4107–4116, DOI: [10.1145/2556288.2557373](https://doi.org/10.1145/2556288.2557373) ✨
 
 - Le Goc, Kim, Parsaei, Fekete, Dragicevic, Follmer, 2016. Zooids: Building Blocks for Swarm User Interfaces. In Proceedings of the 29th Annual Symposium on User Interface Software and Technology (UIST ‘16), pp. 97–109, DOI:[10.1145/2984511.2984547](https://doi.org/10.1145/2984511.2984547)
 
-- Pratte, Seyed, Maurer, 2016. Acquario: A Tangible Spatially-Aware Tool for Information Interaction and Visualization. In Proceedings of the 2016 Symposium on Spatial User Interaction (SUI ‘16), DOI: [10.1145/2983310.2989208](https://doi.org/10.1145/2983310.2989208)
+- Pratte, Seyed, Maurer, 2016. Acquario: A Tangible Spatially-Aware Tool for Information Interaction and Visualization. In Proceedings of the 2016 Symposium on Spatial User Interaction (SUI ‘16), DOI: [10.1145/2983310.2989208](https://doi.org/10.1145/2983310.2989208) ✨
 
 - Leong, Perteneder, Jetter, Haller, 2017. What a Life!: Building a Framework for Constructive Assemblies. In Proceedings of the Eleventh International Conference on Tangible, Embedded, and Embodied Interaction (TEI '17), pp. 57-66, DOI: [10.1145/3024969.3024985](https://doi.org/10.1145/3024969.3024985)
 
 - Villar, Cletheroe, Saul, Holz, Regan, Salandin, Sra, Yeo, Field, Zhang, 2018. Project Zanzibar: A Portable and Flexible Tangible Interaction Platform. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI ‘18), Paper 515, DOI: [10.1145/3173574.3174089](https://doi.org/10.1145/3173574.3174089)
 
-- Yeo, Minami, Rodriguez, Shaker, Quigley, 2018. Exploring Tangible Interactions with Radar Sensing. In Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 2, 4, Article 200, DOI: [10.1145/3287078](https://doi.org/10.1145/3287078)
+- Yeo, Minami, Rodriguez, Shaker, Quigley, 2018. Exploring Tangible Interactions with Radar Sensing. In Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 2, 4, Article 200, DOI: [10.1145/3287078](https://doi.org/10.1145/3287078) 
 
 - Suzuki, Zheng, Kakehi, Yeh, Do, Gross, Leithinger, 2019. ShapeBots: Shape-changing Swarm Robots. In Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology (UIST ‘19), pp. 493–505, DOI: [10.1145/3332165.3347911](https://doi.org/10.1145/3332165.3347911)
 
