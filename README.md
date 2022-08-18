@@ -117,6 +117,9 @@ Special Topics included:
 
 - Quinn, Lee, Barnhart, Zhai, 2019. Active Edge: Designing Squeeze Gestures for the Google Pixel 2. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI ‘19), Paper 274, DOI: [10.1145/3290605.3300504](https://doi.org/10.1145/3290605.3300504)
 
+- Mlakar, Haberfellner, Jetter, Haller, 2021. Exploring Affordances of Surface Gestures on Textile User Interfaces. In Proceedings of the International Conference on Designing Interactive Systems (DIS '21), pp. 1159–1170, DOI: [10.1145/3461778.3462139](https://doi.org/10.1145/3461778.3462139)
+
+
 
 ***
 
