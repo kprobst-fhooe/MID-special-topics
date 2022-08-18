@@ -61,15 +61,15 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Saffer, 2008. [Designing Gestural Interfaces: Touchscreens and Interactive Devices](https://raw.githubusercontent.com/kprobst-fhooe/MMI-special-topics/main/gesture/2009-Saffer%20-%20Designing%20Gestural%20Interfaces.pdf?token=GHSAT0AAAAAABXWDOXSITBZ66QTO55O6VDYYX6RAFQ). O'Reilly Media 📖
 
-- Norman & Nielsen, 2010. Gestural Interfaces: A Step Backward in Usability. In Interactions 17, 5, pp. 46–49, doi.org/10.1145/1836216.1836228 
+- Norman & Nielsen, 2010. [Gestural Interfaces: A Step Backward in Usability](https://raw.githubusercontent.com/kprobst-fhooe/MMI-special-topics/main/gesture/2010-Norman%20et%20al.%20-%20Gestural%20interfaces%20a%20step%20backward%20in%20usability.pdf?token=GHSAT0AAAAAABXWDOXSOFUENGV5TC65SG3WYX6RDEA). In Interactions 17, 5, pp. 46–49, doi.org/10.1145/1836216.1836228 
 
-- Van den Hoven, Mazalek, 2011. Grasping gestures: Gesturing with Physical Artifacts. In Artificial intelligence for Engineering Design Analysis and Manufacturing 25(3), pp. 255-271, DOI: [10.1017/S0890060411000072](https://doi.org/10.1017/S0890060411000072)
+- Van den Hoven, Mazalek, 2011. [Grasping Gestures: Gesturing with Physical Artifacts](https://github.com/kprobst-fhooe/MMI-special-topics/blob/main/gesture/2010-VanDenHoven%20et%20al.%20-%20Grasping%20gestures%20Gesturing%20with%20physical%20artifacts.pdf). In Artificial intelligence for Engineering Design Analysis and Manufacturing 25(3), pp. 255-271, DOI: [10.1017/S0890060411000072](https://doi.org/10.1017/S0890060411000072)
 
-- **Wigdor & Wixon, 2011. Brave NUI World: Designing Natural User Interfaces for Touch and Gesture. Morgan Kaufmann Publishers 📖**
+- **Wigdor & Wixon, 2011. [Brave NUI World: Designing Natural User Interfaces for Touch and Gesture](https://raw.githubusercontent.com/kprobst-fhooe/MMI-special-topics/main/gesture/2011-Wigdor%20et%20al.%20-%20Brave%20NUI%20World.pdf?token=GHSAT0AAAAAABXWDOXT4LVHFZHO647C3GJWYX6RECA). Morgan Kaufmann Publishers 📖**
 
-- Zhai, Kristensson, Appert, Andersen, Cao, 2012. Foundational Issues in Touch-Surface Stroke Gesture Design — An Integrative Review. In Foundations and Trends in Human-Computer Interaction, vol. 5, no. 2, pp. 97–205
+- Zhai, Kristensson, Appert, Andersen, Cao, 2012. [Foundational Issues in Touch-Surface Stroke Gesture Design — An Integrative Review](https://raw.githubusercontent.com/kprobst-fhooe/MMI-special-topics/main/gesture/2012-Zhai%20et%20al.%20-%20Foundational%20Issues%20in%20Touch-Surface%20Stroke%20Gesture%20Design%20%E2%80%94%20An%20Integrative%20Review.pdf?token=GHSAT0AAAAAABXWDOXSYDKTHOH6B4TUKOOOYX6REOQ). In Foundations and Trends in Human-Computer Interaction, vol. 5, no. 2, pp. 97–205
 
-- LaViola, 2013. 3D Gestural Interaction: The State of the Field, In International Scholarly Research Notices, Volume 2013, Article ID 514641, DOI: [10.1155/2013/514641](https://doi.org/10.1155/2013/514641)
+- LaViola, 2013. [3D Gestural Interaction: The State of the Field](https://raw.githubusercontent.com/kprobst-fhooe/MMI-special-topics/main/gesture/2013-LaViola%20-%203D%20Gestural%20Interaction%20The%20State%20of%20the%20Field.pdf?token=GHSAT0AAAAAABXWDOXT6BELBW64NMXPY3HKYX6RE7A). In International Scholarly Research Notices, Volume 2013, Article ID 514641, DOI: [10.1155/2013/514641](https://doi.org/10.1155/2013/514641)
 
 
 
