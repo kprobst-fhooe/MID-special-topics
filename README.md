@@ -329,7 +329,7 @@ Harada, Wobbrock, Landay, 2011. Voice Games: Investigation Into the Use of Non-s
 - Klaib, Alsrehin, Melhem, Bashtawi, Magableh, 2020. Eye tracking algorithms, techniques, tools, and applications with an emphasis on machine learning and Internet of Things technologies (Chapter 7), DOI: [10.1016/j.eswa.2020.114037](https://doi.org/10.1016/j.eswa.2020.114037)
 
 
-#### Applications
+### Applications
 
 
 - Smith & Graham, 2006. Use of eye movements for video game control. In Proceedings of the 2006 ACM SIGCHI international conference on Advances in computer entertainment technology (ACE ‘06), DOI: [10.1145/1178823.1178847](https://doi.org/10.1145/1178823.1178847)
