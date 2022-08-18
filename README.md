@@ -310,9 +310,7 @@ Harada, Wobbrock, Landay, 2011. Voice Games: Investigation Into the Use of Non-s
 
 ### General
 
-- Jacob, 1990. What you look at is what you get: eye movement-based interaction techniques. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘90), pp. 11–18, DOI: [10.1145/97243.97246](https://doi.org/10.1145/97243.97246)
-
-- **Jacob, 1995. Eye tracking in advanced interface design. In Virtual environments and advanced interface design, pp. 258–288**
+- **Jacob, 1990. What you look at is what you get: eye movement-based interaction techniques. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘90), pp. 11–18, DOI: [10.1145/97243.97246](https://doi.org/10.1145/97243.97246)**
 
 - Sibert & Jacob, 2000. Evaluation of eye gaze interaction. In Proceedings of the SIGCHI conference on Human Factors in Computing Systems (CHI ‘00), pp. 281–288, DOI: [10.1145/332040.332445](https://doi.org/10.1145/332040.332445)
 
