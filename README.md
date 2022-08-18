@@ -61,9 +61,9 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Saffer, 2008. [Designing Gestural Interfaces: Touchscreens and Interactive Devices](https://raw.githubusercontent.com/kprobst-fhooe/MMI-special-topics/main/gesture/2009-Saffer%20-%20Designing%20Gestural%20Interfaces.pdf?token=GHSAT0AAAAAABXWDOXSITBZ66QTO55O6VDYYX6RAFQ). O'Reilly Media 📖
 
-- Norman & Nielsen, 2010. Gestural interfaces: a step backward in usability. In Interactions 17, 5, pp. 46–49, doi.org/10.1145/1836216.1836228 
+- Norman & Nielsen, 2010. Gestural Interfaces: A Step Backward in Usability. In Interactions 17, 5, pp. 46–49, doi.org/10.1145/1836216.1836228 
 
-- Van den Hoven, Mazalek, 2011. Grasping gestures: Gesturing with physical artifacts. In Artificial intelligence for engineering design analysis and manufacturing 25(3), pp. 255-271, DOI: [10.1017/S0890060411000072](https://doi.org/10.1017/S0890060411000072)
+- Van den Hoven, Mazalek, 2011. Grasping gestures: Gesturing with Physical Artifacts. In Artificial intelligence for Engineering Design Analysis and Manufacturing 25(3), pp. 255-271, DOI: [10.1017/S0890060411000072](https://doi.org/10.1017/S0890060411000072)
 
 - **Wigdor & Wixon, 2011. Brave NUI World: Designing Natural User Interfaces for Touch and Gesture. Morgan Kaufmann Publishers 📖**
 
