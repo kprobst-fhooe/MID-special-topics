@@ -392,7 +392,7 @@ Harada, Wobbrock, Landay, 2011. Voice Games: Investigation Into the Use of Non-s
 
 - Ballendat, Marquardt, Greenberg, 2010. Proxemic interaction: Designing for a Proximity and Orientation-Aware Environment. In ACM International Conference on Interactive Tabletops and Surfaces (ITS '10), pp.121-130, DOI: [10.1145/1936652.1936676](https://doi.org/10.1145/1936652.1936676)
 
-- Greenberg, Marquardt, Ballendat, Diaz-Marino, Wang, 2011. Proxemic Interactions: The New Ubicomp?. In Interactions 18, 1 (January 2011), pp. 42-50, DOI: [10.1145/1897239.1897250](https://doi.org/10.1145/1897239.1897250)
+- **Greenberg, Marquardt, Ballendat, Diaz-Marino, Wang, 2011. Proxemic Interactions: The New Ubicomp?. In Interactions 18, 1 (January 2011), pp. 42-50, DOI: [10.1145/1897239.1897250](https://doi.org/10.1145/1897239.1897250)**
 
 - Marquardt, Diaz-Marino, Boring, Greenberg, 2011. The Proximity Toolkit: Prototyping Proxemic Interactions in Ubiquitous Computing Ecologies. In Proceedings of the 24th Annual ACM Symposium on User Interface Software and Technology (UIST '11), DOI: [10.1145/2047196.2047238](https://doi.org/10.1145/2047196.2047238)
 
