@@ -82,6 +82,10 @@ Special Topics included:
 
 - Lien, Gillian, Karagozler, Amihood, Schwesig, Olson, Raja, Poupyrev, 2016. Soli: ubiquitous gesture sensing with millimeter wave radar. In ACM Trans. Graph. 35, 4, Article 142 (July 2016), DOI: [10.1145/2897824.2925953](https://doi.org/10.1145/2897824.2925953)
 
+- Detjen, Faltaous, Geisler, Schneegass, 2019. User-Defined Voice and Mid-Air Gesture Commands for Maneuver-based Interventions in Automated Vehicles. In Proceedings of Mensch und Computer 2019 (MuC’19), pp. 341–348, DOI: [10.1145/3340764.3340798](https://doi.org/10.1145/3340764.3340798)
+
+- Lopes, Relvas, Paulo, Rekik, Grisoni, Jorge, 2019. FEETICHE: FEET Input for Contactless Hand gEsture Interaction. In The 17th International Conference on Virtual-Reality Continuum and its Applications in Industry (VRCAI '19), Article 29, DOI: [10.1145/3359997.3365704](https://doi.org/10.1145/3359997.3365704) 
+
 - Şiean, Pamparău, Vatavu, 2022. Scenario-based Exploration of Integrating Radar Sensing Into Everyday Objects for Free-Hand Television Control. In Proceedings ACM International Conference on Interactive Media Experiences (IMX '22), pp. 357–362, DOI: [10.1145/3505284.3532982](https://doi.org/10.1145/3505284.3532982)
 
 
@@ -96,6 +100,8 @@ Special Topics included:
 - Ringel Morris, Huang, Paepcke, Winograd, 2006. Cooperative gestures: multi-user gestural interactions for co-located groupware. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘06), pp. 1201–1210, DOI: [10.1145/1124772.1124952](https://doi.org/10.1145/1124772.1124952)
 
 - Wigdor, Leigh, Forlines, Shipman, Barnwell, Balakrishnan, Shen, 2006. Under the table interaction. In Proceedings of the 19th annual ACM symposium on User interface software and technology (UIST ‘06), pp. 259–268, DOI: [10.1145/1166253.1166294](https://doi.org/10.1145/1166253.1166294)
+
+- Daiber, Schöning, Krüger, 2009. Whole Body Interaction with Geospatial Data. In Proceedings Smart Graphics, 9th International Symposium (SG '09). DOI: [10.1007/978-3-642-02115-2_7](https://doi.org/10.1007/978-3-642-02115-2_7)
 
 - Augsten, Kaefer, Meusel, Fetzer, Kanitz, Stoff, Becker, Holz, Baudisch, 2010. Multitoe: high-precision interaction with back-projected floors based on high-resolution multi-touch input. In Proceedings of the 23nd annual ACM symposium on User interface software and technology (UIST ‘10), pp. 209–218, DOI: [10.1145/1866029.1866064](https://doi.org/10.1145/1866029.1866064)
 
@@ -116,6 +122,8 @@ Special Topics included:
 - Sridhar, Markussen, Oulasvirta, Theobalt, Boring, 2017. WatchSense: On- and Above-Skin Input Sensing through a Wearable Depth Sensor. In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (CHI '17), pp. 3891–3902, DOI: [10.1145/3025453.3026005](https://doi.org/10.1145/3025453.3026005) 
 
 - Quinn, Lee, Barnhart, Zhai, 2019. Active Edge: Designing Squeeze Gestures for the Google Pixel 2. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI ‘19), Paper 274, DOI: [10.1145/3290605.3300504](https://doi.org/10.1145/3290605.3300504)
+
+- Wang & Grossman, 2020. BlyncSync: Enabling Multimodal Smartwatch Gestures with Synchronous Touch and Blink. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ‘20), DOI: [10.1145/3313831.3376132](https://doi.org/10.1145/3313831.3376132)
 
 - Mlakar, Haberfellner, Jetter, Haller, 2021. Exploring Affordances of Surface Gestures on Textile User Interfaces. In Proceedings of the International Conference on Designing Interactive Systems (DIS '21), pp. 1159–1170, DOI: [10.1145/3461778.3462139](https://doi.org/10.1145/3461778.3462139)
 
