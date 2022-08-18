@@ -1,6 +1,6 @@
 # Special Topics in Multimodal Interaction
 
-A collection of essential papers and books on diverse topics in Human-Computer Interaction (HCI), specifically in the scope of multimodal interaction techniques. Papers are mainly taken from representative conferences the field of Human-Computer Interaction, such as:
+A collection of essential papers and books on diverse topics in Human-Computer Interaction (HCI), specifically in the scope of multimodal interaction and interaction techniques. Papers are mainly taken from representative conferences the field of Human-Computer Interaction, such as:
 
 - International Conference on Human Factors in Computing Systems (CHI)
 - International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI)
@@ -24,6 +24,29 @@ Special Topics included:
 
 
 ***
+
+### ✨ Multimodal Interaction
+
+- Oviatt, 1999. Ten Myths of Multimodal Interaction. In Communications of the ACM 42, 11, pp. 74–81, DOI: [10.1145/319382.319398](https://doi.org/10.1145/319382.319398)
+
+- Oviatt, 2003. Advances in Robust Multimodal Interface Design. In IEEE Computer Graphics and Applications 23, DOI: [10.1109/MCG.2003.1231179](https://doi.org/10.1109/MCG.2003.1231179)
+
+- Reeves, Lai, Larson, Oviatt, Balaji, Buisine, Collings, Cohen, Kraal, Martin, McTear, Raman, Stanney, Su, Wang, 2004. Guidelines for Multimodal User Interface Design. In Communications of the ACM 47, 1, pp. 57–59, DOI: [10.1145/962081.962106](https://doi.org/10.1145/962081.962106)
+
+- Benford, Schnädelbach, Koleva, Anastasi, Greenhalgh, Rodden, Green, Ghali, Pridmore, Gaver, Boucher, Walker, Pennington, Schmidt, Gellersen, Steed, 2005. Expected, Sensed, and Desired: A Framework for Designing Sensing-Based Interaction. In ACM Transactions on Computer-Human Interaction 12, 1, pp. 3–30, DOI: [10.1145/1057237.1057239](https://doi.org/10.1145/1057237.1057239)
+
+- Klemmer, Hartmann, Takayama, 2006. How Bodies Matter: Five Themes for Interaction Design. In Proceedings of the 6th Conference on Designing Interactive Systems (DIS ‘06), pp. 140–149, DOI: [10.1145/1142405.1142429](https://doi.org/10.1145/1142405.1142429)
+
+- Tzovaras 2008. Multimodal User Interfaces – From Signals to Interaction. Springer 📖
+
+- Dumas, Lalanne, Oviatt, 2009. Multimodal Interfaces: A Survey of Principles, Models and Frameworks. In: Human Machine Interaction. Lecture Notes in Computer Science, vol. 5440. DOI: 810.1007/978-3-642-00437-7_1](https://doi.org/10.1007/978-3-642-00437-7_1)
+
+- Shaked, Winter, 2016. Design of Multimodal Mobile Interfaces. DOI: [10.1515/9781501502736](https://doi.org/10.1515/9781501502736)
+
+- Oviatt, Schuller, Cohen, Sonntag, Potamianos, Krüger, 2017. The Handbook of Multimodal-Multisensor Interfaces: Foundations, User Modeling, and Common Modality Combinations - Volume 1. DOI: [10.1145/3015783](https://doi.org/10.1145/3015783)
+
+- Cheryl Platz, 2020. Design Beyond Devices: Creating Multimodal, Cross-Device Experiences
+
 
 
 
@@ -294,6 +317,8 @@ Harada, Wobbrock, Landay, 2011. Voice Games: Investigation Into the Use of Non-s
 
 - Vertegaal, 2008. A Fitts Law comparison of eye tracking and manual input in the selection of visual targets. In Proceedings of the 10th international conference on Multimodal interfaces (ICMI '08), pp. 241–248, DOI: [10.1145/1452392.1452443](https://doi.org/10.1145/1452392.1452443)
 
+- Majaranta, Aoki, Donegan, 2011. Gaze Interaction and Applications of Eye Tracking: Advances in Assistive Technologies. Medical Information Science Reference 📖
+
 - Vrzakova & Bednarik, 2013. That's not norma(n/l): a detailed analysis of midas touch in gaze-based problem-solving. In CHI '13 Extended Abstracts on Human Factors in Computing Systems (CHI EA ‘13), pp. 85–90, DOI: [10.1145/2468356.2468373](https://doi.org/10.1145/2468356.2468373)
 
 - Feit, Williams, Toledo, Paradiso, Kulkarni, Kane, Ringel Morris, 2017. Toward Everyday Gaze Input: Accuracy and Precision of Eye Tracking and Implications for Design. In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (CHI ‘17), pp. 1118–1130, DOI: [10.1145/3025453.3025599](https://doi.org/10.1145/3025453.3025599)
@@ -410,9 +435,3 @@ Harada, Wobbrock, Landay, 2011. Voice Games: Investigation Into the Use of Non-s
 - Porcheron, Lucero, Quigley, Marquardt, Clawson, O'Hara, 2016. Proxemic Mobile Collocated Interactions. In Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems (CHI EA '16), pp. 3309–3316, DOI: [10.1145/2851581.2856471](https://doi.org/10.1145/2851581.2856471)
 
 - Tong, Serna, Pageaud, George, Tabard, 2016. It's Not how you Stand, it's how you Move: F-Formations and Collaboration Dynamics in a Mobile Learning Game. In Proceedings of the 18th International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI ‘16), pp. 318–329, DOI: [10.1145/2935334.2935343](https://doi.org/10.1145/2935334.2935343)
-
-
-
-***
-
-### ✨ Multimodal Interaction
