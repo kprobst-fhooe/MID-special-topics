@@ -1,6 +1,6 @@
 # Special Topics in Multimodal Interaction
 
-A collection of essential papers and books on diverse topics in Human-Computer Interaction (HCI), specifically in the scope of multimodal interaction and interaction techniques. Papers are mainly taken from representative conferences the field of Human-Computer Interaction, such as:
+A collection of essential papers and books on diverse topics in Human-Computer Interaction (HCI), specifically in the scope of multimodal interaction. Papers are mainly taken from representative conferences the field of Human-Computer Interaction, such as:
 
 - International Conference on Human Factors in Computing Systems (CHI)
 - International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI)
