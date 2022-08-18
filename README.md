@@ -13,7 +13,7 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 - International Conference on Interactive Media Experiences (IMX)
 - International Conference On Computer-Supported Cooperative Work And Social Computing (CSCW)
 
-Special Topics included:
+**Special Topics included:**
 
 - 👋 [Gestural Interaction](#-gestural-interaction)
 - 🧱 [Tangible Interaction](#-tangible-interaction)
@@ -22,7 +22,6 @@ Special Topics included:
 - 📏 [Proxemic & Spatially-Aware Interaction](#-proxemic--spatially-aware-interaction)
 
 
-<br/>
 <br/>
 <br/>
 
