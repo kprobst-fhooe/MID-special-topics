@@ -67,7 +67,7 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Van den Hoven, Mazalek, 2011. Grasping gestures: Gesturing with physical artifacts. In Artificial intelligence for engineering design analysis and manufacturing 25(3), pp. 255-271, DOI: [10.1017/S0890060411000072](https://doi.org/10.1017/S0890060411000072)
 
-- Wigdor & Wixon, 2011. Brave NUI World: Designing Natural User Interfaces for Touch and Gesture. Morgan Kaufmann Publishers 📖
+- **Wigdor & Wixon, 2011. Brave NUI World: Designing Natural User Interfaces for Touch and Gesture. Morgan Kaufmann Publishers 📖**
 
 - Zhai, Kristensson, Appert, Andersen, Cao, 2012. Foundational Issues in Touch-Surface Stroke Gesture Design — An Integrative Review. In Foundations and Trends in Human-Computer Interaction, vol. 5, no. 2, pp. 97–205
 
@@ -177,7 +177,7 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Shaer & Hornecker, 2010, Tangible User Interfaces: Past, Present, and Future Directions, In Foundations and Trends in Human–Computer Interaction: Vol. 3: No. 1–2, pp. 4-137, DOI: [10.1561/1100000026](https://dx.doi.org/10.1561/1100000026)
 
-- Ishii, Lakatos, Bonanni, Labrune, 2012. Radical Atoms: Beyond Tangible Bits, Toward Transformable Materials. In ACM Interactions 19, 1 (January 2012), pp. 38-51, DOI: [10.1145/2065327.2065337](https://doi.org/10.1145/2065327.2065337)
+- **Ishii, Lakatos, Bonanni, Labrune, 2012. Radical Atoms: Beyond Tangible Bits, Toward Transformable Materials. In ACM Interactions 19, 1 (January 2012), pp. 38-51, DOI: [10.1145/2065327.2065337](https://doi.org/10.1145/2065327.2065337)**
 
 - Alexander, Roudaut, Steimle, Hornbæk, Alonso, Follmer, Merritt, 2018. Grand Challenges in Shape-Changing Interface Research. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18), Paper 299, DOI: [10.1145/3173574.3173873](https://doi.org/10.1145/3173574.3173873)
 
@@ -249,7 +249,7 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Wei & Landay, 2018. Evaluating Speech-Based Smart Devices Using New Usability Heuristics. In IEEE Pervasive Computing, vol. 17, no. 2, pp. 84-96, DOI: [10.1109/MPRV.2018.022511249](https://doi.10.1109/MPRV.2018.022511249)
 
-- Moore & Arar, 2019. Conversational UX Design – A Practitioner’s Guide to the Natural Conversation Framework (Chapter 1) 📖
+- **Moore & Arar, 2019. Conversational UX Design – A Practitioner’s Guide to the Natural Conversation Framework (Chapter 1) 📖**
 
 - Murad, Munteanu, 2019. "I don't know what you're talking about, HALexa": the Case For Voice User Interface Guidelines. In Proceedings of the 1st International Conference on Conversational User Interfaces (CUI '19), Article 9, DOI: [10.1145/3342775.3342795](https://doi.org/10.1145/3342775.3342795)
 
@@ -312,21 +312,21 @@ Harada, Wobbrock, Landay, 2011. Voice Games: Investigation Into the Use of Non-s
 
 - Jacob, 1990. What you look at is what you get: eye movement-based interaction techniques. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘90), pp. 11–18, DOI: [10.1145/97243.97246](https://doi.org/10.1145/97243.97246)
 
-- Jacob, 1995. Eye tracking in advanced interface design. In Virtual environments and advanced interface design, pp. 258–288
+- **Jacob, 1995. Eye tracking in advanced interface design. In Virtual environments and advanced interface design, pp. 258–288**
 
 - Sibert & Jacob, 2000. Evaluation of eye gaze interaction. In Proceedings of the SIGCHI conference on Human Factors in Computing Systems (CHI ‘00), pp. 281–288, DOI: [10.1145/332040.332445](https://doi.org/10.1145/332040.332445)
 
-- Kumar, 2007. Gaze-Enhanced User Interface Design. Phd Thesis, Stanford University 
+- Kumar, 2007. Gaze-Enhanced User Interface Design. Phd Thesis, Stanford University 🎓
 
 - Vertegaal, 2008. A Fitts Law comparison of eye tracking and manual input in the selection of visual targets. In Proceedings of the 10th international conference on Multimodal interfaces (ICMI '08), pp. 241–248, DOI: [10.1145/1452392.1452443](https://doi.org/10.1145/1452392.1452443)
 
 - Majaranta, Aoki, Donegan, 2011. Gaze Interaction and Applications of Eye Tracking: Advances in Assistive Technologies. Medical Information Science Reference 📖
 
-- Vrzakova & Bednarik, 2013. That's not norma(n/l): a detailed analysis of midas touch in gaze-based problem-solving. In CHI '13 Extended Abstracts on Human Factors in Computing Systems (CHI EA ‘13), pp. 85–90, DOI: [10.1145/2468356.2468373](https://doi.org/10.1145/2468356.2468373)
+- Vrzakova & Bednarik, 2013. That's not Norma(n/l): A Detailed Analysis of Midas Touch in Gaze-based Problem-Solving. In CHI '13 Extended Abstracts on Human Factors in Computing Systems (CHI EA ‘13), pp. 85–90, DOI: [10.1145/2468356.2468373](https://doi.org/10.1145/2468356.2468373)
 
 - Feit, Williams, Toledo, Paradiso, Kulkarni, Kane, Ringel Morris, 2017. Toward Everyday Gaze Input: Accuracy and Precision of Eye Tracking and Implications for Design. In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (CHI ‘17), pp. 1118–1130, DOI: [10.1145/3025453.3025599](https://doi.org/10.1145/3025453.3025599)
 
-- Klaib, Alsrehin, Melhem, Bashtawi, Magableh, 2020. Eye tracking algorithms, techniques, tools, and applications with an emphasis on machine learning and Internet of Things technologies (Chapter 7), DOI: [10.1016/j.eswa.2020.114037](https://doi.org/10.1016/j.eswa.2020.114037)
+- Klaib, Alsrehin, Melhem, Bashtawi, Magableh, 2020. Eye Tracking Algorithms, Techniques, Tools, and Applications with an Emphasis on Machine Learning and Internet of Things Technologies (Chapter 7), DOI: [10.1016/j.eswa.2020.114037](https://doi.org/10.1016/j.eswa.2020.114037)
 
 
 ### Applications
