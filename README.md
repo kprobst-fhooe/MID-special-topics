@@ -116,7 +116,7 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 
 
-#### Applications On-Surface
+### Applications On-Surface
 
 - Kurtenbach, 1993. The Design and Evaluation of Marking Menus. PhD Thesis, University of Toronto 🎓
 
@@ -156,14 +156,14 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 
 
-***
+<br/>
 
 
 
-### 🧱 Tangible Interaction
+## 🧱 Tangible Interaction
 
 
-#### General
+### General
 
 
 - Fitzmaurice, Ishii, Buxton. 1995. Bricks: Laying the Foundations for Graspable User Interfaces. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘95), pp. 442–449, DOI: [10.1145/223904.223964](https://doi.org/10.1145/223904.223964)
@@ -185,7 +185,7 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 - Ullmer, Shaer, Mazalek, Hummels, 2022. Weaving Fire into Form: Aspirations for Tangible and Embodied Interaction. ACM Books 📖
 
 
-#### Applications
+### Applications
 
 
 - Ullmer & Ishii, 1997. The metaDESK: Models and Prototypes for Tangible User Interfaces. In Proceedings of the 10th annual ACM symposium on User interface software and technology (UIST '97), pp. 223-232, DOI: [10.1145/263407.263551](https://doi.org/10.1145/263407.263551)
@@ -230,14 +230,14 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 
 
-***
+<br/>
 
 
 
-### 💬 Voice Interaction
+## 💬 Voice Interaction
 
 
-#### General
+### General
 
 
 - Klein, 2016. Designing for Voice Interfaces, O’Reilly Media 📖
@@ -258,7 +258,7 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 
 
-#### Applications
+### Applications
 
 
 - Oviatt, Cohen, Wu, Vergo, Duncan, Suhm, Bers, Holzman, Winograd, Landay, Larson, Ferro, 2000. Designing the user interface for multimodal speech and pen-based gesture applications: state-of-the-art systems and future research directions. In Hum.-Comput. Interact. 15, 4 (December 2000), pp. 263–322, DOI: [10.1207/S15327051HCI1504_1](https//doi.org/10.1207/S15327051HCI1504_1)
@@ -302,14 +302,14 @@ Harada, Wobbrock, Landay, 2011. Voice Games: Investigation Into the Use of Non-s
 
 
 
-***
+<br/>
 
 
 
-### 👁️ Gaze Interaction
+## 👁️ Gaze Interaction
 
 
-#### General
+### General
 
 - Jacob, 1990. What you look at is what you get: eye movement-based interaction techniques. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘90), pp. 11–18, DOI: [10.1145/97243.97246](https://doi.org/10.1145/97243.97246)
 
@@ -380,14 +380,13 @@ Harada, Wobbrock, Landay, 2011. Voice Games: Investigation Into the Use of Non-s
 - Mayer, Laput, Harrison, 2020. Enhancing Mobile Voice Assistants with WorldGaze. In Proceedings of the 38th Annual SIGCHI Conference on Human Factors in Computing Systems (CHI ‘20), DOI: [10.1145/3313831.3376479](https://doi.org/10.1145/3313831.3376479)
 
 
-***
+<br/>
 
 
+## 📏 Proxemic & Spatially-Aware Interaction
 
-### 📏 Proxemic & Spatially-Aware Interaction
 
-
-#### General
+### General
 
 
 - **Hall, 1966. The Hidden Dimension. Anchor Books 📖**
@@ -405,7 +404,7 @@ Harada, Wobbrock, Landay, 2011. Voice Games: Investigation Into the Use of Non-s
 - Greenberg, Boring, Vermeulen, Dostal, 2014. Dark Patterns in Proxemic Interactions: A Critical Perspective. In Proceedings of the 2014 Conference on Designing Interactive Systems (DIS ‘14), pp. 523–532, DOI: [10.1145/2598510.2598541](https://doi.org/10.1145/2598510.2598541)
 
 
-#### Applications
+### Applications
 
 
 - Brumitt, Meyers, Krumm, Kern, Shafer, 2000. EasyLiving: Technologies for Intelligent Environments. In Proceedings of the 2nd International Symposium on Handheld and Ubiquitous Computing (HUC ‘00), pp. 12–29, DOI: [10.1007/3-540-39959-3_2](https://doi.org/10.1007/3-540-39959-3_2)
