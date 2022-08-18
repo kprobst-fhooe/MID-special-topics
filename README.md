@@ -1,6 +1,6 @@
 # Special Topics in Multimodal Interaction
 
-A collection of essential papers and books on diverse topics in Human-Computer Interaction (HCI), specifically in the scope of input modalities and interaction techniques. Papers are mainly taken from representative conferences the field of Human-Computer Interaction, such as:
+A collection of essential papers and books on diverse topics in Human-Computer Interaction (HCI), specifically in the scope of multimodal interaction techniques. Papers are mainly taken from representative conferences the field of Human-Computer Interaction, such as:
 
 - International Conference on Human Factors in Computing Systems (CHI)
 - International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI)
@@ -12,6 +12,14 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 - International Conference on Mobile and Ubiquitous Multimedia (MUM)
 - International Conference on Interactive Media Experiences (IMX)
 - International Conference On Computer-Supported Cooperative Work And Social Computing (CSCW)
+
+Special Topics included:
+
+- 👋 [Gestural Interaction](#-gestural-interaction)
+- 🧱 [Tangible Interaction](#-tangible-interaction)
+- 💬 [Voice Interaction](#-voice-interaction)
+- 👁️ [Gaze Interaction](#-gaze-interaction)
+- 📏 [Proxemic & Spatially-Aware Interaction]((#-proxemic--spatially-aware-interaction)
 
 
 
@@ -250,5 +258,3 @@ Harada, Wobbrock, Landay, 2011. Voice Games: Investigation Into the Use of Non-s
 ***
 
 ### ✨ Multimodal Interaction
-
-<!--**[\#proxemic](#-proxemic--spatially-aware-interaction)** **[\#gesture](#-gestural-interaction)** **[\#tangible](#-tangible-interaction)**-->
