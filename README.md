@@ -27,7 +27,9 @@ Special Topics included:
 
 
 <details>
-  <summary>### ✨ Multimodal Interaction</summary>
+<summary>
+### ✨ Multimodal Interaction
+</summary>
 
 
 
