@@ -215,6 +215,53 @@ Harada, Wobbrock, Landay, 2011. Voice Games: Investigation Into the Use of Non-s
 #### Applications
 
 
+- Smith & Graham, 2006. Use of eye movements for video game control. In Proceedings of the 2006 ACM SIGCHI international conference on Advances in computer entertainment technology (ACE ‘06), doi.org/10.1145/1178823.1178847 
+
+- Tall, Alapetite, San Agustin, Skovsgaard, Hansen, Witzner Hansen, Møllenbach, 2009. Gaze-controlled driving. In CHI '09 Extended Abstracts on Human Factors in Computing Systems (CHI EA ‘09), pp. 4387–4392, https://doi.org/10.1145/1520340.1520671 
+
+- Turner, Bulling, Gellersen, 2011. Combining gaze with manual interaction to extend physical reach. In Proceedings of the 1st international workshop on pervasive eye tracking & mobile eye-based interaction (PETMEI ‘11), pp. 33–36, doi.org/10.1145/2029956.2029966 
+
+- Stellmach & Dachselt, 2012. Designing gaze-based user interfaces for steering in virtual environments. In Proceedings of the Symposium on Eye Tracking Research and Applications (ETRA ‘12), pp. 131–138, doi.org/10.1145/2168556.216857 
+
+- Stellmach & Dachselt, 2012. Look & touch: gaze-supported target acquisition. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘12), pp. 2981–2990, https://doi.org/10.1145/2207676.2208709 
+
+- Göbel, Klamka, Siegel, Vogt, Stellmach, Dachselt, 2013. Gaze-Supported Foot Interaction in Zoomable Information Spaces. In: Extended Abstracts on Human Factors in Computing Systems, pp. 3059–3062
+
+- Pfeuffer, Alexander, Chong, Gellersen, 2014. Gaze-touch: combining gaze with multi-touch for interaction on the same surface. In Proceedings of the 27th annual ACM symposium on User interface software and technology (UIST ‘14), 509–518, doi.org/10.1145/2642918.2647397 
+
+- Pfeuffer, Alexander, Chong, Zhang, Gellersen. 2015, Gaze-Shifting: Direct-Indirect Input with Pen and Touch Modulated by Gaze. In Proceedings of the 28th Annual ACM Symposium on User Interface Software & Technology (UIST ‘15), pp. 373–383, doi.org/10.1145/2807442.2807460
+
+- Hansen, Lund, Biermann, Møllenbach, Sztuk, San Agustin, 2016. Wrist-worn pervasive gaze interaction. In Proceedings of the Ninth Biennial ACM Symposium on Eye Tracking Research &amp; Applications (ETRA ‘16), pp. 57–64, doi.org/10.1145/2857491.2857514 
+
+- D'Angelo & Gergle, 2016. Gazed and Confused: Understanding and Designing Shared Gaze for Remote Collaboration. In Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (CHI ‘16), pp. 2492–2496, doi.org/10.1145/2858036.2858499 
+
+- Pfeuffer & Gellersen, 2016. Gaze and Touch Interaction on Tablets. In Proceedings of the 29th Annual Symposium on User Interface Software and Technology (UIST ‘16), pp. 301–311, doi.org/10.1145/2984511.2984514 
+
+- D'Angelo & Begel, 2017. Improving Communication Between Pair Programmers Using Shared Gaze Awareness. In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (CHI ‘17), pp. 6245–6290, doi.org/10.1145/3025453.3025573 
+
+- Khamis, Hoesl, Klimczak, Reiss, Alt, Bulling, 2017. EyeScout: Active Eye Tracking for Position and Movement Independent Gaze Interaction with Large Public Displays. In Proceedings of the 30th Annual ACM Symposium on User Interface Software and Technology (UIST ‘17), pp. 155–166, doi.org/10.1145/3126594.3126630 
+
+- Newn, Allison, Velloso, Vetere. 2018, Looks Can Be Deceiving: Using Gaze Visualisation to Predict and Mislead Opponents in Strategic Gameplay. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI ‘18), doi.org/10.1145/3173574.3173835 
+
+- Kytö, Ens, Piumsomboon, Lee, Billinghurst, 2018. Pinpointing: Precise Head- and Eye-Based Target Selection for Augmented Reality. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems, Paper 81, doi.org/10.1145/3173574.3173655 
+
+- Khamis, Kienle, Alt, Bulling, 2018. GazeDrone: Mobile Eye-Based Interaction in Public Space Without Augmenting the User. In Proceedings of the 4th ACM Workshop on Micro Aerial Vehicle Networks, Systems, and Applications (DroNet’18), pp. 66–71, doi.org/10.1145/3213526.3213539 
+
+- Khamis, Alt, Bulling, 2018. The past, present, and future of gaze-enabled handheld mobile devices: survey and lessons learned. In Proceedings of the 20th International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI ‘18), Article 38, doi.org/10.1145/3229434.3229452
+
+- Roider, Reisig, Gross, 2018. Just Look: The Benefits of Gaze-Activated Voice Input in the Car. In Adjunct Proceedings of the 10th International Conference on Automotive User Interfaces and Interactive Vehicular Applications (AutomotiveUI ‘18), pp. 210–214, doi.org/10.1145/3239092.3265968 
+
+- Kim, Choi, Jeong, 2019. Watch & Do: A Smart IoT Interaction System with Object Detection and Gaze Estimation. In IEEE Trans. on Consum. Electron. 65, 2 (May 2019), 195–204, doi.org/10.1109/TCE.2019.2897758 
+
+- Kütt, Lee, Hardacre, Papoutsaki, 2019. Eye-Write: Gaze Sharing for Collaborative Writing. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI ‘19), Paper 497, doi.org/10.1145/3290605.3300727 
+
+- Newn, Singh , Allison, Madumal, Velloso, Vetere, 2019. Designing Interactions with Intention-Aware Gaze-Enabled Artificial Agents. In: Proceedings INTERACT 2019, doi.org/10.1007/978-3-030-29384-0_17 
+
+- Zhang, Hansen, Minakata, Alapetite, Wang, 2019. Eye-gaze-controlled telepresence robots for people with motor disabilities. In Proceedings of the 14th ACM/IEEE International Conference on Human-Robot Interaction (HRI ‘19), pp. 574–575
+
+- Mayer, Laput, Harrison, 2020. Enhancing Mobile Voice Assistants with WorldGaze. In Proceedings of the 38th Annual SIGCHI Conference on Human Factors in Computing Systems (CHI ‘20)
+
+
 ***
 
 
