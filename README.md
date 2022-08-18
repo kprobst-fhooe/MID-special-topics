@@ -167,7 +167,7 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Fitzmaurice, Ishii, Buxton. 1995. Bricks: Laying the Foundations for Graspable User Interfaces. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘95), pp. 442–449, DOI: [10.1145/223904.223964](https://doi.org/10.1145/223904.223964)
 
-- **Ishii & Ullmer, 1997. Tangible Bits: Towards Seamless Interfaces Between People, Bits and Atoms. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’97), pp. 234–241, DOI: [10.1145/258549.258715](https://doi.org/10.1145/258549.258715)**
+- Ishii & Ullmer, 1997. Tangible Bits: Towards Seamless Interfaces Between People, Bits and Atoms. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’97), pp. 234–241, DOI: [10.1145/258549.258715](https://doi.org/10.1145/258549.258715)
 
 - Ullmer & Ishii, 2000. Emerging Frameworks for Tangible User Interfaces. In IBM Systems Journal 39, 3–4 (July 2000), pp. 915–931, DOI: [10.1147/sj.393.0915](https://doi.org/10.1147/sj.393.0915)
 
@@ -177,7 +177,7 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Shaer & Hornecker, 2010, Tangible User Interfaces: Past, Present, and Future Directions, In Foundations and Trends in Human–Computer Interaction: Vol. 3: No. 1–2, pp. 4-137, DOI: [10.1561/1100000026](https://dx.doi.org/10.1561/1100000026)
 
-- **Ishii, Lakatos, Bonanni, Labrune, 2012. Radical Atoms: Beyond Tangible Bits, Toward Transformable Materials. In ACM Interactions 19, 1 (January 2012), pp. 38-51, DOI: [10.1145/2065327.2065337](https://doi.org/10.1145/2065327.2065337)**
+- Ishii, Lakatos, Bonanni, Labrune, 2012. Radical Atoms: Beyond Tangible Bits, Toward Transformable Materials. In ACM Interactions 19, 1 (January 2012), pp. 38-51, DOI: [10.1145/2065327.2065337](https://doi.org/10.1145/2065327.2065337)
 
 - Alexander, Roudaut, Steimle, Hornbæk, Alonso, Follmer, Merritt, 2018. Grand Challenges in Shape-Changing Interface Research. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18), Paper 299, DOI: [10.1145/3173574.3173873](https://doi.org/10.1145/3173574.3173873)
 
