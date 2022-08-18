@@ -140,13 +140,14 @@ Special Topics included:
 
 - Moore & Arar, 2019. Conversational UX Design – A Practitioner’s Guide to the Natural Conversation Framework (Chapter 1) 📖
 
+- Murad, Munteanu, 2019. "I don't know what you're talking about, HALexa": the Case For Voice User Interface Guidelines. In Proceedings of the 1st International Conference on Conversational User Interfaces (CUI '19), Article 9, DOI: [10.1145/3342775.3342795](https://doi.org/10.1145/3342775.3342795)
+
+
 
 #### Applications
 
 
 - Oviatt, Cohen, Wu, Vergo, Duncan, Suhm, Bers, Holzman, Winograd, Landay, Larson, Ferro, 2000. Designing the user interface for multimodal speech and pen-based gesture applications: state-of-the-art systems and future research directions. In Hum.-Comput. Interact. 15, 4 (December 2000), pp. 263–322, DOI: [10.1207/S15327051HCI1504_1](https//doi.org/10.1207/S15327051HCI1504_1)
-
-- Zue, Seneff, Glass, Polifroni, Pao, Haz4n, Hatherington, 2000. JUPITER: A Telephone-Based Conversational Interface for Weather Information. In IEEE Transactions on Speech and Audio Processing, Vol. 8, No. 1
 
 - Igarashi & Hughes, 2001. Voice as sound: using non-verbal voice input for interactive control. In Proceedings of the 14th annual ACM symposium on User interface software and technology (UIST ‘01), pp. 155–156, DOI: [10.1145/502348.502372](https//doi.org/10.1145/502348.502372)
 
@@ -179,7 +180,7 @@ Harada, Wobbrock, Landay, 2011. Voice Games: Investigation Into the Use of Non-s
 
 - Fernandes, Abreu, Almeida, Santos, 2019. A Review of Voice User Interfaces for Interactive TV. In: Applications and Usability of Interactive TV. jAUTI 2018. Communications in Computer and Information Science, vol 1004, DOI: [10.1007/978-3-030-23862-9_9](https://doi.org/10.1007/978-3-030-23862-9_9) 
 
-- Mayer, Laput, Harrison, 2020. Enhancing Mobile Voice Assistants with WorldGaze. In Proceedings of the 38th Annual SIGCHI Conference on Human Factors in Computing Systems (CHI ‘20)
+- Mayer, Laput, Harrison, 2020. Enhancing Mobile Voice Assistants with WorldGaze. In Proceedings of the 38th Annual SIGCHI Conference on Human Factors in Computing Systems (CHI ‘20), DOI: [10.1145/3313831.3376479](https://doi.org/10.1145/3313831.3376479)
 
 - Williams, Cambre, Bicking, Wallin, Tsai, Kaye, 2020. Toward Voice-Assisted Browsers: A Preliminary Study with Firefox Voice. In Proceedings of the 2nd Conference on Conversational User Interfaces (CUI ‘20), Article 49, DOI: [10.1145/3405755.3406154](https://doi.org/10.1145/3405755.3406154)
 
