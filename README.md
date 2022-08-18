@@ -42,7 +42,7 @@ Special Topics included:
 
 - Van den Hoven, Mazalek, 2011. Grasping gestures: Gesturing with physical artifacts. In Artificial intelligence for engineering design analysis and manufacturing 25(3), pp. 255-271, DOI: [10.1017/S0890060411000072](https://doi.org/10.1017/S0890060411000072)
 
-- Wigdor & Wixon, 2011. Brave NUI World: Designing Natural User Interfaces for Touch and Gesture (1st. ed.). Morgan Kaufmann Publishers 📖
+- Wigdor & Wixon, 2011. Brave NUI World: Designing Natural User Interfaces for Touch and Gesture. Morgan Kaufmann Publishers 📖
 
 - Zhai, Kristensson, Appert, Andersen, Cao, 2012. Foundational Issues in Touch-Surface Stroke Gesture Design — An Integrative Review. In Foundations and Trends in Human-Computer Interaction, vol. 5, no. 2, pp. 97–205
 
