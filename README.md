@@ -74,8 +74,6 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Jordà, Geiger, Alonso, Kaltenbrunner, 2007. The reacTable: Exploring the Synergy between Live Music Performance and Tabletop Tangible Interfaces. In Proceedings of the 1st International Conference on Tangible and Embedded interaction (TEI ‘07), pp. 139–146, DOI: [10.1145/1226969.1226998](https://doi.org/10.1145/1226969.1226998)
 
-- Pering, Anokwa, Want, 2007. Gesture Connect: Facilitating Tangible Interaction with a Flick of the Wrist. In Proceedings of the 1st international conference on Tangible and embedded interaction (TEI ‘07), pp. 259–262, DOI: [10.1145/1226969.1227022](https://doi.org/10.1145/1226969.1227022) ✨
-
 - Zigelbaum, Kumpf, Vazquez, Ishii, 2008. Slurp: Tangibility Spatiality and an Eyedropper. In CHI '08 Extended Abstracts on Human Factors in Computing Systems (CHI EA ‘08), pp. 2565–2574, DOI: [10.1145/1358628.1358713](https://doi.org/10.1145/1358628.1358713)
 
 - Cheng, Liang, Chen, Laing, Kuo, 2010. iCon: Utilizing Everyday Objects as Additional, Auxiliary and Instant Tabletop Controllers. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘10), pp. 1155–1164, DOI: [10.1145/1753326.1753499](https://doi.org/10.1145/1753326.1753499)
@@ -92,13 +90,13 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Liang, Chan, Tseng, Kuo, Huang, Yang, Chen, 2014. GaussBricks: Magnetic Building Blocks for Constructive Tangible Interactions on Portable Displays. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '14), pp. 3153–3162. DOI: [10.1145/2556288.2557105 ](https://doi.org/10.1145/2556288.2557105)
 
-- Schmidt, Ramakers, Pedersen, Jasper, Köhler, Pohl, Rantzsch, Rau, Schmidt, Sterz, Yurchenko, Baudisch, 2014. Kickables: Tangibles for Feet. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘14), pp. 3143–3152, DOI: [10.1145/2556288.2557016](https://doi.org/10.1145/2556288.2557016) ✨
+- Schmidt, Ramakers, Pedersen, Jasper, Köhler, Pohl, Rantzsch, Rau, Schmidt, Sterz, Yurchenko, Baudisch, 2014. Kickables: Tangibles for Feet. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘14), pp. 3143–3152, DOI: [10.1145/2556288.2557016](https://doi.org/10.1145/2556288.2557016) 
 
-- Valdes, Eastman, Grote, Thatte, Shaer, Mazalek, Ullmer, Konkel, 2014. Exploring the Design Space of Gestural Interaction with Active Tokens through User-Defined Gestures. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘14), pp.4107–4116, DOI: [10.1145/2556288.2557373](https://doi.org/10.1145/2556288.2557373) ✨
+- Valdes, Eastman, Grote, Thatte, Shaer, Mazalek, Ullmer, Konkel, 2014. Exploring the Design Space of Gestural Interaction with Active Tokens through User-Defined Gestures. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘14), pp.4107–4116, DOI: [10.1145/2556288.2557373](https://doi.org/10.1145/2556288.2557373) 
 
 - Le Goc, Kim, Parsaei, Fekete, Dragicevic, Follmer, 2016. Zooids: Building Blocks for Swarm User Interfaces. In Proceedings of the 29th Annual Symposium on User Interface Software and Technology (UIST ‘16), pp. 97–109, DOI:[10.1145/2984511.2984547](https://doi.org/10.1145/2984511.2984547)
 
-- Pratte, Seyed, Maurer, 2016. Acquario: A Tangible Spatially-Aware Tool for Information Interaction and Visualization. In Proceedings of the 2016 Symposium on Spatial User Interaction (SUI ‘16), DOI: [10.1145/2983310.2989208](https://doi.org/10.1145/2983310.2989208) ✨
+- Pratte, Seyed, Maurer, 2016. Acquario: A Tangible Spatially-Aware Tool for Information Interaction and Visualization. In Proceedings of the 2016 Symposium on Spatial User Interaction (SUI ‘16), DOI: [10.1145/2983310.2989208](https://doi.org/10.1145/2983310.2989208) 
 
 - Leong, Perteneder, Jetter, Haller, 2017. What a Life!: Building a Framework for Constructive Assemblies. In Proceedings of the Eleventh International Conference on Tangible, Embedded, and Embodied Interaction (TEI '17), pp. 57-66, DOI: [10.1145/3024969.3024985](https://doi.org/10.1145/3024969.3024985)
 
@@ -117,6 +115,66 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 
 ### 💬 Voice Interaction
+
+
+#### General
+
+
+- Klein, 2016. Designing for Voice Interfaces, O’Reilly Media 📖
+
+- Pearl, 2016. Designing Voice User Interfaces, O’Reilly Media 📖
+
+- Moore, 2017. Is Spoken Language All-or-Nothing? Implications for Future Speech-Based Human-Machine Interaction. In Dialogues with Social Robots. Lecture Notes in Electrical Engineering, vol 427, DOI: [10.1007/978-981-10-2585-3_22 ](https://doi.org/10.1007/978-981-10-2585-3_22)
+
+- Murad, Munteanu, Clark, Cowan, 2018. Design guidelines for hands-free speech interaction. In Proceedings of the 20th International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI ‘18), pp. 269–276, DOI: [10.1145/3236112.3236149](https://doi.org/10.1145/3236112.3236149) 
+
+- Wei & Landay, 2018. Evaluating Speech-Based Smart Devices Using New Usability Heuristics. In IEEE Pervasive Computing, vol. 17, no. 2, pp. 84-96, DOI: [10.1109/MPRV.2018.022511249](https://doi.10.1109/MPRV.2018.022511249)
+
+- Moore & Arar, 2019. Conversational UX Design – A Practitioner’s Guide to the Natural Conversation Framework (Chapter 1) 📖
+
+
+#### Applications
+
+
+- Oviatt, Cohen, Wu, Vergo, Duncan, Suhm, Bers, Holzman, Winograd, Landay, Larson, Ferro, 2000. Designing the user interface for multimodal speech and pen-based gesture applications: state-of-the-art systems and future research directions. In Hum.-Comput. Interact. 15, 4 (December 2000), pp. 263–322, doi.org/10.1207/S15327051HCI1504_1 
+
+- Zue, Seneff, Glass, Polifroni, Pao, Haz4n, Hatherington, 2000. JUPITER: A Telephone-Based Conversational Interface for Weather Information. In IEEE Transactions on Speech and Audio Processing, Vol. 8, No. 1
+
+- Igarashi & Hughes, 2001. Voice as sound: using non-verbal voice input for interactive control. In Proceedings of the 14th annual ACM symposium on User interface software and technology (UIST ‘01), pp. 155–156, doi.org/10.1145/502348.502372 
+
+- Krum, Omoteso, Ribarsky, Starner, Hodges, 2002. Speech and gesture multimodal control of a whole Earth 3D visualization environment. In Proceedings of the symposium on Data Visualisation 2002 (VISSYM '02), pp. 195–200
+
+- Kopp, Gesellensetter, Krämer, Wachsmuth, 2005. A conversational agent as museum guide: design and evaluation of a real-world application. In Lecture Notes in Computer Science, pp. 329–343, doi.org/10.1007/11550617_28 
+
+- Tse, Shen, Greenberg, Forlines, 2006. Enabling interaction with single user applications through speech and gestures on a multi-user tabletop. In Proceedings of the working conference on Advanced visual interfaces (AVI ‘06), pp. 336–343, doi.org/10.1145/1133265.1133336 
+
+- Harada, Saponas, Landay, 2007. VoicePen: augmenting pen input with simultaneous non-linguisitic vocalization. In Proceedings of the 9th international conference on Multimodal interfaces (ICMI ‘07), pp. 178–185, doi.org/10.1145/1322192.1322225 
+
+- Sherwani, Yu, Paek, Czerwinski, Ju, Acero, 2007. Voicepedia: towards speech-based access to unstructured information. In Interspeech.
+Harada, Wobbrock, Landay, 2011. Voice Games: Investigation Into the Use of Non-speech Voice Input for Making Computer Games More Accessible. In Human-Computer Interaction – INTERACT 2011, vol 6946, doi.org/10.1007/978-3-642-23774-4_4 
+
+- Pfeifer Vardoulakis, Ring, Barry, Sidner, Bickmore, 2012. Designing relational agents as long term social companions for older adults. In Proceedings of the 12th international conference on Intelligent Virtual Agents (IVA’12), pp. 289–302, doi.org/10.1007/978-3-642-33197-8_30 
+
+- Portet, Vacher, Golanski, Meillon, 2013. Design and evaluation of a smart home voice interface for the elderly: acceptability and objection aspects. In Pers Ubiquit Comput 17, pp. 127–144, doi.org/10.1007/s00779-011-0470-5 
+
+- Sakamoto, Komatsu, Igarashi, 2013. Voice augmented manipulation: using paralinguistic information to manipulate mobile devices. In Proceedings of the 15th international conference on Human-computer interaction with mobile devices and services (MobileHCI ‘13), pp. 69–78., doi.org/10.1145/2493190.2493244
+
+- DeVault, Artstein, Benn, Dey, Fast, Gainer, Georgila, Gratch, Hartholt, Lhommet, Lucas, Marsella, Morbini, Nazarian, Scherer, Stratou, Suri, Traum, Wood, Xu, Rizzo, Morency, 2014. SimSensei kiosk: a virtual human interviewer for healthcare decision support. In Proceedings of the 2014 international conference on Autonomous agents and multi-agent systems (AAMAS ‘14), pp. 1061–1068
+
+- Braun, Broy, Pfleging, Alt, 2017. A design space for conversational in-vehicle information systems. In Proceedings of the 19th International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI ‘17), Article 79, doi.org/10.1145/3098279.3122122 
+
+- Lin, Hsu, Talamonti, Zhang, Oney, Mars, Tang, 2018. Adasa: A Conversational In-Vehicle Digital Assistant for Advanced Driver Assistance Features. In Proceedings of the 31st Annual ACM Symposium on User Interface Software and Technology (UIST ‘18), pp. 531–542, doi.org/10.1145/3242587.3242593 
+
+- Roider, Reisig, Gross, 2018. Just Look: The Benefits of Gaze-Activated Voice Input in the Car. In Adjunct Proceedings of the 10th International Conference on Automotive User Interfaces and Interactive Vehicular Applications (AutomotiveUI ‘18), pp. 210–214, doi.org/10.1145/3239092.3265968 
+
+- Detjen, Faltaous, Geisler, Schneegass, 2019. User-Defined Voice and Mid-Air Gesture Commands for Maneuver-based Interventions in Automated Vehicles. In Proceedings of Mensch und Computer 2019 (MuC’19), pp. 341–348, https://doi.org/10.1145/3340764.3340798 
+
+- Fernandes, Abreu, Almeida, Santos, 2019. A Review of Voice User Interfaces for Interactive TV. In: Applications and Usability of Interactive TV. jAUTI 2018. Communications in Computer and Information Science, vol 1004, doi.org/10.1007/978-3-030-23862-9_9 
+
+- Mayer, Laput, Harrison, 2020. Enhancing Mobile Voice Assistants with WorldGaze. In Proceedings of the 38th Annual SIGCHI Conference on Human Factors in Computing Systems (CHI ‘20)
+
+- Williams, Cambre, Bicking, Wallin, Tsai, Kaye, 2020. Toward Voice-Assisted Browsers: A Preliminary Study with Firefox Voice. In Proceedings of the 2nd Conference on Conversational User Interfaces (CUI ‘20), Article 49, doi.org/10.1145/3405755.3406154 
+
 
 
 ***
