@@ -87,7 +87,35 @@ Special Topics included:
 
 #### Applications On-Surface
 
+- Kurtenbach, 1993. The Design and Evaluation of Marking Menus. PhD Thesis, University of Toronto 🎓
 
+- Rekimoto, 2002. SmartSkin: an infrastructure for freehand manipulation on interactive surfaces. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘02), pp. 113–120, DOI: [10.1145/503376.503397](https://doi.org/10.1145/503376.503397)
+
+- Wu & Balakrishnan, 2003. Multi-finger and whole hand gestural interaction techniques for multi-user tabletop displays. In Proceedings of the 16th annual ACM symposium on User interface software and technology (UIST ‘03), pp. 193–202, DOI: [10.1145/964696.964718](https://doi.org/10.1145/964696.964718)
+
+- Ringel Morris, Huang, Paepcke, Winograd, 2006. Cooperative gestures: multi-user gestural interactions for co-located groupware. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘06), pp. 1201–1210, DOI: [10.1145/1124772.1124952](https://doi.org/10.1145/1124772.1124952)
+
+- Wigdor, Leigh, Forlines, Shipman, Barnwell, Balakrishnan, Shen, 2006. Under the table interaction. In Proceedings of the 19th annual ACM symposium on User interface software and technology (UIST ‘06), pp. 259–268, DOI: [10.1145/1166253.1166294](https://doi.org/10.1145/1166253.1166294)
+
+- Augsten, Kaefer, Meusel, Fetzer, Kanitz, Stoff, Becker, Holz, Baudisch, 2010. Multitoe: high-precision interaction with back-projected floors based on high-resolution multi-touch input. In Proceedings of the 23nd annual ACM symposium on User interface software and technology (UIST ‘10), pp. 209–218, DOI: [10.1145/1866029.1866064](https://doi.org/10.1145/1866029.1866064)
+
+- Harrison, Tan, Morris, 2010. Skinput: appropriating the body as an input surface. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘10), pp. 453–462, DOI: [10.1145/1753326.1753394](https://doi.org/10.1145/1753326.1753394)
+
+- Döring, Kern, Marshall, Pfeiffer, Schöning, Gruhn, Schmidt, 2011. Gestural interaction on the steering wheel: reducing the visual demand. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘11), pp. 483–492, DOI: [10.1145/1978942.1979010](https://doi.org/10.1145/1978942.1979010)
+
+- Harrison, Benko, Wilson. 2011, OmniTouch: wearable multitouch interaction everywhere. In Proceedings of the 24th annual ACM symposium on User interface software and technology (UIST ‘11), pp. 441–450, DOI: [10.1145/2047196.2047255](https://doi.org/10.1145/2047196.2047255)
+
+- Harrison, Schwarz, Hudson, 2011. TapSense: enhancing finger interaction on touch surfaces. In Proceedings of the 24th annual ACM symposium on User interface software and technology (UIST '11), pp. 627–636, DOI: [10.1145/2047196.2047279](https://doi.org/10.1145/2047196.2047279)
+
+- Jota, Lopes, Wigdor, Jorge. 2014. Let's kick it: how to stop wasting the bottom third of your large screen display. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘14), pp. 1411–1414, DOI: [10.1145/2556288.2557316](https://doi.org/10.1145/2556288.2557316)
+
+- Vo, Lecolinet, Guiard, 2014. Belly gestures: body centric gestures on the abdomen. In Proceedings of the 8th Nordic Conference on Human-Computer Interaction: Fun, Fast, Foundational (NordiCHI ‘14), pp. 687–696, DOI: [10.1145/2639189.2639210](https://doi.org/10.1145/2639189.2639210) 
+
+- Fukahori, Sakamoto, Igarashi, 2015. Exploring Subtle Foot Plantar-based Gestures with Sock-placed Pressure Sensors. In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (CHI ‘15), pp. 3019–3028, DOI: [10.1145/2702123.2702308](https://doi.org/10.1145/2702123.2702308)
+
+- Sridhar, Markussen, Oulasvirta, Theobalt, Boring, 2017. WatchSense: On- and Above-Skin Input Sensing through a Wearable Depth Sensor. In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (CHI '17), pp. 3891–3902, DOI: [10.1145/3025453.3026005](https://doi.org/10.1145/3025453.3026005) 
+
+- Quinn, Lee, Barnhart, Zhai, 2019. Active Edge: Designing Squeeze Gestures for the Google Pixel 2. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI ‘19), Paper 274, DOI: [10.1145/3290605.3300504](https://doi.org/10.1145/3290605.3300504)
 
 
 ***
