@@ -232,6 +232,7 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 ### General
 
+- Cohen, 2004. Voice User Interface Design, Addison-Wesley 📖
 
 - Klein, 2016. Designing for Voice Interfaces, O’Reilly Media 📖
 
