@@ -228,67 +228,67 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 ### General
 
-- Cohen, 2004. Voice User Interface Design, Addison-Wesley 📖
+- Cohen, 2004. Voice User Interface Design, Addison-Wesley [📖](voice/2004-Cohen%20-%20Voice%20User%20Interface%20Design.pdf)
 
-- Klein, 2016. Designing for Voice Interfaces, O’Reilly Media 📖
+- Klein, 2016. Designing for Voice Interfaces, O’Reilly Media [📖](voice/2016-Klein%20Designing%20for%20Voice%20Interfaces.pdf)
 
-- Pearl, 2016. Designing Voice User Interfaces, O’Reilly Media 📖
+- Pearl, 2016. Designing Voice User Interfaces, O’Reilly Media [📖](voice/2016-Pearl%20-%20Designing%20Voice%20User%20Interfaces.pdf)
 
-- Moore, 2017. Is Spoken Language All-or-Nothing? Implications for Future Speech-Based Human-Machine Interaction. In Dialogues with Social Robots. Lecture Notes in Electrical Engineering, vol 427, DOI: [10.1007/978-981-10-2585-3_22 ](https://doi.org/10.1007/978-981-10-2585-3_22)
+- Moore, 2017. Is Spoken Language All-or-Nothing? Implications for Future Speech-Based Human-Machine Interaction. In Dialogues with Social Robots. Lecture Notes in Electrical Engineering, vol 427, DOI: [10.1007/978-981-10-2585-3_22 ](https://doi.org/10.1007/978-981-10-2585-3_22) [📄](voice/2017-Moore%20-%20Is%20Spoken%20Language%20All-or-Nothing%20Implications%20for%20future%20speech-based%20human-machine%20interaction.pdf)
 
-- Murad, Munteanu, Clark, Cowan, 2018. Design guidelines for hands-free speech interaction. In Proceedings of the 20th International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI ‘18), pp. 269–276, DOI: [10.1145/3236112.3236149](https://doi.org/10.1145/3236112.3236149) 
+- Murad, Munteanu, Clark, Cowan, 2018. Design guidelines for hands-free speech interaction. In Proceedings of the 20th International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI ‘18), pp. 269–276, DOI: [10.1145/3236112.3236149](https://doi.org/10.1145/3236112.3236149) [📄](voice/2018-Murad%20-%20Design%20Guidelines%20for%20Hands-Free%20Speech%20Interaction.pdf)
 
-- Wei & Landay, 2018. Evaluating Speech-Based Smart Devices Using New Usability Heuristics. In IEEE Pervasive Computing, vol. 17, no. 2, pp. 84-96, DOI: [10.1109/MPRV.2018.022511249](https://doi.10.1109/MPRV.2018.022511249)
+- Wei & Landay, 2018. Evaluating Speech-Based Smart Devices Using New Usability Heuristics. In IEEE Pervasive Computing, vol. 17, no. 2, pp. 84-96, DOI: [10.1109/MPRV.2018.022511249](https://doi.10.1109/MPRV.2018.022511249) [📄](voice/2018-Wei%20et%20al.%20-%20Evaluating%20Speech-Based%20Smart%20Devices%20Using%20New%20Usability%20Heuristics.pdf)
 
-- **Moore & Arar, 2019. Conversational UX Design – A Practitioner’s Guide to the Natural Conversation Framework (Chapter 1) 📖**
+- **Moore & Arar, 2019. Conversational UX Design – A Practitioner’s Guide to the Natural Conversation Framework (Chapter 1)** [📖](voice/2019-Moore%20et%20al.%20-%20Conversational%20UX%20Design.pdf)
 
-- Murad, Munteanu, 2019. "I don't know what you're talking about, HALexa": the Case For Voice User Interface Guidelines. In Proceedings of the 1st International Conference on Conversational User Interfaces (CUI '19), Article 9, DOI: [10.1145/3342775.3342795](https://doi.org/10.1145/3342775.3342795)
+- Murad, Munteanu, 2019. "I don't know what you're talking about, HALexa": the Case For Voice User Interface Guidelines. In Proceedings of the 1st International Conference on Conversational User Interfaces (CUI '19), Article 9, DOI: [10.1145/3342775.3342795](https://doi.org/10.1145/3342775.3342795) [📄](voice/2019-Murad%20et%20al.%20-%20I%20Don%E2%80%99t%20Know%20What%20You%E2%80%99re%20Talking%20About%2C%20HALexa.pdf)
 
-- Bouzid, Ma, 2022. The Elements of Voice First Style: A Practical Guide to Voice User Interface Design, O'Reilly Media 📖
+- Bouzid, Ma, 2022. The Elements of Voice First Style: A Practical Guide to Voice User Interface Design, O'Reilly Media [📖](voice/2022-Bouzid%20-%20The%20Elements%20of%20Voice%20First%20Style.pdf)
 
 
 
 ### Applications
 
 
-- Oviatt, Cohen, Wu, Vergo, Duncan, Suhm, Bers, Holzman, Winograd, Landay, Larson, Ferro, 2000. Designing the user interface for multimodal speech and pen-based gesture applications: state-of-the-art systems and future research directions. In Hum.-Comput. Interact. 15, 4 (December 2000), pp. 263–322, DOI: [10.1207/S15327051HCI1504_1](https//doi.org/10.1207/S15327051HCI1504_1)
+- Oviatt, Cohen, Wu, Vergo, Duncan, Suhm, Bers, Holzman, Winograd, Landay, Larson, Ferro, 2000. Designing the user interface for multimodal speech and pen-based gesture applications: state-of-the-art systems and future research directions. In Hum.-Comput. Interact. 15, 4 (December 2000), pp. 263–322, DOI: [10.1207/S15327051HCI1504_1](https//doi.org/10.1207/S15327051HCI1504_1) [📄](voice/2000-O%7E1.PDF)
 
-- Igarashi & Hughes, 2001. Voice as sound: using non-verbal voice input for interactive control. In Proceedings of the 14th annual ACM symposium on User interface software and technology (UIST ‘01), pp. 155–156, DOI: [10.1145/502348.502372](https//doi.org/10.1145/502348.502372)
+- Igarashi & Hughes, 2001. Voice as sound: using non-verbal voice input for interactive control. In Proceedings of the 14th annual ACM symposium on User interface software and technology (UIST ‘01), pp. 155–156, DOI: [10.1145/502348.502372](https//doi.org/10.1145/502348.502372) [📄](voice/2001-Igarashi%20et%20al.%20-%20Voice%20as%20Sound%20Using%20Non-verbal%20Voice%20Input%20for%20Interactive%20Control.pdf)
 
-- Krum, Omoteso, Ribarsky, Starner, Hodges, 2002. Speech and gesture multimodal control of a whole Earth 3D visualization environment. In Proceedings of the symposium on Data Visualisation 2002 (VISSYM '02), pp. 195–200
+- Krum, Omoteso, Ribarsky, Starner, Hodges, 2002. Speech and gesture multimodal control of a whole Earth 3D visualization environment. In Proceedings of the symposium on Data Visualisation 2002 (VISSYM '02), pp. 195–200 [📄](voice/2006-Krum%20et%20al.%20-%20Speech%20and%20gesture%20multimodal%20control%20of%20a%20whole%20Earth%203D%20visualization%20environment.pdf)
 
-- Kopp, Gesellensetter, Krämer, Wachsmuth, 2005. A conversational agent as museum guide: design and evaluation of a real-world application. In Lecture Notes in Computer Science, pp. 329–343, DOI: [10.1007/11550617_28](https://doi.org/10.1007/11550617_28)
+- Kopp, Gesellensetter, Krämer, Wachsmuth, 2005. A conversational agent as museum guide: design and evaluation of a real-world application. In Lecture Notes in Computer Science, pp. 329–343, DOI: [10.1007/11550617_28](voice/2005-Kopp%20et%20al.%20-%20A%20Conversational%20Agent%20as%20Museum%20Guide%20%E2%80%93%20Design%20and%20Evaluation%20of%20a%20Real-World%20Application.pdf)
 
-- Tse, Shen, Greenberg, Forlines, 2006. Enabling interaction with single user applications through speech and gestures on a multi-user tabletop. In Proceedings of the working conference on Advanced visual interfaces (AVI ‘06), pp. 336–343, DOI: [10.1145/1133265.1133336](https://doi.org/10.1145/1133265.1133336)
+- Tse, Shen, Greenberg, Forlines, 2006. Enabling interaction with single user applications through speech and gestures on a multi-user tabletop. In Proceedings of the working conference on Advanced visual interfaces (AVI ‘06), pp. 336–343, DOI: [10.1145/1133265.1133336](https://doi.org/10.1145/1133265.1133336) [📄](voice/2006-Tse%20et%20al.%20-%20Enabling%20Interaction%20with%20Single%20User%20Applications%20through%20Speech%20and%20Gestures%20on%20a%20Multi-User%20Tabletop.pdf)
 
-- Harada, Saponas, Landay, 2007. VoicePen: augmenting pen input with simultaneous non-linguisitic vocalization. In Proceedings of the 9th international conference on Multimodal interfaces (ICMI ‘07), pp. 178–185, DOI: [10.1145/1322192.1322225](https://doi.org/10.1145/1322192.1322225)
+- Harada, Saponas, Landay, 2007. VoicePen: augmenting pen input with simultaneous non-linguisitic vocalization. In Proceedings of the 9th international conference on Multimodal interfaces (ICMI ‘07), pp. 178–185, DOI: [10.1145/1322192.1322225](https://doi.org/10.1145/1322192.1322225) [📄](voice/2011-H%7E1.PDF)
 
 - Sherwani, Yu, Paek, Czerwinski, Ju, Acero, 2007. Voicepedia: towards speech-based access to unstructured information. In Interspeech.
-Harada, Wobbrock, Landay, 2011. Voice Games: Investigation Into the Use of Non-speech Voice Input for Making Computer Games More Accessible. In Human-Computer Interaction – INTERACT 2011, vol 6946, DOI: [10.1007/978-3-642-23774-4_4](https://doi.org/10.1007/978-3-642-23774-4_4)
+Harada, Wobbrock, Landay, 2011. Voice Games: Investigation Into the Use of Non-speech Voice Input for Making Computer Games More Accessible. In Human-Computer Interaction – INTERACT 2011, vol 6946, DOI: [10.1007/978-3-642-23774-4_4](https://doi.org/10.1007/978-3-642-23774-4_4) [📄](voice/2007-Sherwani%20et%20al%20-%20VoicePedia%20Towards%20Speech-based%20Access%20to%20Unstructured%20Information.pdf)
 
-- Pfeifer Vardoulakis, Ring, Barry, Sidner, Bickmore, 2012. Designing relational agents as long term social companions for older adults. In Proceedings of the 12th international conference on Intelligent Virtual Agents (IVA’12), pp. 289–302, DOI: [10.1007/978-3-642-33197-8_30](https://doi.org/10.1007/978-3-642-33197-8_30(
+- Pfeifer Vardoulakis, Ring, Barry, Sidner, Bickmore, 2012. Designing relational agents as long term social companions for older adults. In Proceedings of the 12th international conference on Intelligent Virtual Agents (IVA’12), pp. 289–302, DOI: [10.1007/978-3-642-33197-8_30] [📄](voice/2012-Pfeifer%20et%20al.%20-%20Designing%20Relational%20Agents%20as%20Long%20Term%20Social%20Companions%20for%20Older%20Adults.pdf)
 
-- Portet, Vacher, Golanski, Meillon, 2013. Design and evaluation of a smart home voice interface for the elderly: acceptability and objection aspects. In Pers Ubiquit Comput 17, pp. 127–144, DOI: [10.1007/s00779-011-0470-5](https://doi.org/10.1007/s00779-011-0470-5(
+- Portet, Vacher, Golanski, Meillon, 2013. Design and evaluation of a smart home voice interface for the elderly: acceptability and objection aspects. In Pers Ubiquit Comput 17, pp. 127–144, DOI: [10.1007/s00779-011-0470-5] [📄](voice/2013-Portet%20et%20al.%20-%20Design%20and%20evaluation%20of%20a%20smart%20home%20voice%20interface%20for%20the%20elderly%20acceptability%20and%20objection%20aspects.pdf)
 
-- Sakamoto, Komatsu, Igarashi, 2013. Voice augmented manipulation: using paralinguistic information to manipulate mobile devices. In Proceedings of the 15th international conference on Human-computer interaction with mobile devices and services (MobileHCI ‘13), pp. 69–78, DOI: [10.1145/2493190.2493244](https://doi.org/10.1145/2493190.2493244)
+- Sakamoto, Komatsu, Igarashi, 2013. Voice augmented manipulation: using paralinguistic information to manipulate mobile devices. In Proceedings of the 15th international conference on Human-computer interaction with mobile devices and services (MobileHCI ‘13), pp. 69–78, DOI: [10.1145/2493190.2493244](https://doi.org/10.1145/2493190.2493244) [📄](voice/2013-Sakamoto%20et%20al.%20-%20Voice%20augmented%20manipulation%20using%20paralinguistic%20information%20to%20manipulate%20mobile%20devices.pdf)
 
-- DeVault, Artstein, Benn, Dey, Fast, Gainer, Georgila, Gratch, Hartholt, Lhommet, Lucas, Marsella, Morbini, Nazarian, Scherer, Stratou, Suri, Traum, Wood, Xu, Rizzo, Morency, 2014. SimSensei kiosk: a virtual human interviewer for healthcare decision support. In Proceedings of the 2014 international conference on Autonomous agents and multi-agent systems (AAMAS ‘14), pp. 1061–1068
+- DeVault, Artstein, Benn, Dey, Fast, Gainer, Georgila, Gratch, Hartholt, Lhommet, Lucas, Marsella, Morbini, Nazarian, Scherer, Stratou, Suri, Traum, Wood, Xu, Rizzo, Morency, 2014. SimSensei kiosk: a virtual human interviewer for healthcare decision support. In Proceedings of the 2014 international conference on Autonomous agents and multi-agent systems (AAMAS ‘14), pp. 1061–1068 [📄](voice/2014-DeVault%20et%20al.%20-%20SimSensei%20kiosk%20a%20virtual%20human%20interviewer%20for%20healthcare%20decision%20support.pdf)
 
-- Braun, Broy, Pfleging, Alt, 2017. A design space for conversational in-vehicle information systems. In Proceedings of the 19th International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI ‘17), Article 79, DOI:[10.1145/3098279.3122122](https://doi.org/10.1145/3098279.3122122)
+- Braun, Broy, Pfleging, Alt, 2017. A design space for conversational in-vehicle information systems. In Proceedings of the 19th International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI ‘17), Article 79, DOI:[10.1145/3098279.3122122](https://doi.org/10.1145/3098279.3122122) [📄](voice/2017-Braun%20et%20al.%20-%20A%20design%20space%20for%20conversational%20in-vehicle%20information%20systems.pdf)
 
-- Lin, Hsu, Talamonti, Zhang, Oney, Mars, Tang, 2018. Adasa: A Conversational In-Vehicle Digital Assistant for Advanced Driver Assistance Features. In Proceedings of the 31st Annual ACM Symposium on User Interface Software and Technology (UIST ‘18), pp. 531–542, DOI: [10.1145/3242587.3242593](https://doi.org/10.1145/3242587.3242593)
+- Lin, Hsu, Talamonti, Zhang, Oney, Mars, Tang, 2018. Adasa: A Conversational In-Vehicle Digital Assistant for Advanced Driver Assistance Features. In Proceedings of the 31st Annual ACM Symposium on User Interface Software and Technology (UIST ‘18), pp. 531–542, DOI: [10.1145/3242587.3242593](https://doi.org/10.1145/3242587.3242593) [📄](voice/2018-Lin%20et%20al.%20-%20Adasa%20A%20Conversational%20In-Vehicle%20Digital%20Assistant%20for%20Advanced%20Driver%20Assistance%20Features.pdf)
 
-- Roider, Reisig, Gross, 2018. Just Look: The Benefits of Gaze-Activated Voice Input in the Car. In Adjunct Proceedings of the 10th International Conference on Automotive User Interfaces and Interactive Vehicular Applications (AutomotiveUI ‘18), pp. 210–214, DOI: [10.1145/3239092.3265968](https://doi.org/10.1145/3239092.3265968)
+- Roider, Reisig, Gross, 2018. Just Look: The Benefits of Gaze-Activated Voice Input in the Car. In Adjunct Proceedings of the 10th International Conference on Automotive User Interfaces and Interactive Vehicular Applications (AutomotiveUI ‘18), pp. 210–214, DOI: [10.1145/3239092.3265968](https://doi.org/10.1145/3239092.3265968) [📄](voice/2018-Roider%20et%20al.%20-%20Just%20Look%20The%20Benefits%20of%20Gaze-Activated%20Voice%20Input%20in%20the%20Car.pdf)
 
-- Detjen, Faltaous, Geisler, Schneegass, 2019. User-Defined Voice and Mid-Air Gesture Commands for Maneuver-based Interventions in Automated Vehicles. In Proceedings of Mensch und Computer 2019 (MuC’19), pp. 341–348, DOI: [10.1145/3340764.3340798](https://doi.org/10.1145/3340764.3340798)
+- Detjen, Faltaous, Geisler, Schneegass, 2019. User-Defined Voice and Mid-Air Gesture Commands for Maneuver-based Interventions in Automated Vehicles. In Proceedings of Mensch und Computer 2019 (MuC’19), pp. 341–348, DOI: [10.1145/3340764.3340798](https://doi.org/10.1145/3340764.3340798) [📄](voice/2019-Detjen%20et%20al.%20-%20User-Defined%20Voice%20and%20Mid-Air%20Gesture%20Commands%20for%20Maneuver-based%20Interventions%20in%20Automated%20Vehicles.pdf)
 
-- Fernandes, Abreu, Almeida, Santos, 2019. A Review of Voice User Interfaces for Interactive TV. In: Applications and Usability of Interactive TV. jAUTI 2018. Communications in Computer and Information Science, vol 1004, DOI: [10.1007/978-3-030-23862-9_9](https://doi.org/10.1007/978-3-030-23862-9_9) 
+- Fernandes, Abreu, Almeida, Santos, 2019. A Review of Voice User Interfaces for Interactive TV. In: Applications and Usability of Interactive TV. jAUTI 2018. Communications in Computer and Information Science, vol 1004, DOI: [10.1007/978-3-030-23862-9_9](https://doi.org/10.1007/978-3-030-23862-9_9) [📄](voice/2019-Fernandes%20et%20al.%20-%20A%20Review%20of%20Voice%20User%20Interfaces%20for%20Interactive%20TV.pdf)
 
-- Mayer, Laput, Harrison, 2020. Enhancing Mobile Voice Assistants with WorldGaze. In Proceedings of the 38th Annual SIGCHI Conference on Human Factors in Computing Systems (CHI ‘20), DOI: [10.1145/3313831.3376479](https://doi.org/10.1145/3313831.3376479)
+- Larsen, Scheel, Bogers, Larsen, 2020. Hands-free but not Eyes-free: A Usability Evaluation of Siri while Driving. In Proceedings of the 2020 Conference on Human Information Interaction and Retrieval (CHIIR '20), DOI: [10.1145/3343413.3377962](https://doi.org/10.1145/3343413.3377962) [📄](voice/2020-Larsen%20-%20Hands-Free%20but%20not%20Eyes-Free.pdf)
 
-- Williams, Cambre, Bicking, Wallin, Tsai, Kaye, 2020. Toward Voice-Assisted Browsers: A Preliminary Study with Firefox Voice. In Proceedings of the 2nd Conference on Conversational User Interfaces (CUI ‘20), Article 49, DOI: [10.1145/3405755.3406154](https://doi.org/10.1145/3405755.3406154)
+- Mayer, Laput, Harrison, 2020. Enhancing Mobile Voice Assistants with WorldGaze. In Proceedings of the 38th Annual SIGCHI Conference on Human Factors in Computing Systems (CHI ‘20), DOI: [10.1145/3313831.3376479](https://doi.org/10.1145/3313831.3376479) [📄](voice/2018-Myers%20-%20Patterns%20for%20How%20Users%20Overcome%20Obstacles%20in%20Voice%20User%20Interfaces.pdf)
 
-- Larsen, Scheel, Bogers, Larsen, 2020. Hands-free but not Eyes-free: A Usability Evaluation of Siri while Driving. In Proceedings of the 2020 Conference on Human Information Interaction and Retrieval (CHIIR '20), DOI: [10.1145/3343413.3377962](https://doi.org/10.1145/3343413.3377962)
+- Williams, Cambre, Bicking, Wallin, Tsai, Kaye, 2020. Toward Voice-Assisted Browsers: A Preliminary Study with Firefox Voice. In Proceedings of the 2nd Conference on Conversational User Interfaces (CUI ‘20), Article 49, DOI: [10.1145/3405755.3406154](https://doi.org/10.1145/3405755.3406154) [📄](voice/2020-Williams%20et%20al.%20-%20Toward%20Voice-Assisted%20Browsers%20A%20Preliminary%20Study%20with%20Firefox%20Voice.pdf)
 
 
 
