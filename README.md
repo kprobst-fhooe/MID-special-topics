@@ -38,7 +38,7 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Klemmer, Hartmann, Takayama, 2006. How Bodies Matter: Five Themes for Interaction Design. In Proceedings of the 6th Conference on Designing Interactive Systems (DIS ‘06), pp. 140–149, DOI: [10.1145/1142405.1142429](https://doi.org/10.1145/1142405.1142429)
 
-- Tzovaras 2008. Multimodal User Interfaces – From Signals to Interaction. Springer 📖
+- Tzovaras 2008. Multimodal User Interfaces – From Signals to Interaction. Springer 
 
 - Dumas, Lalanne, Oviatt, 2009. Multimodal Interfaces: A Survey of Principles, Models and Frameworks. In: Human Machine Interaction. Lecture Notes in Computer Science, vol. 5440. DOI: [810.1007/978-3-642-00437-7_1](https://doi.org/10.1007/978-3-642-00437-7_1)
 
@@ -46,7 +46,7 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Oviatt, Schuller, Cohen, Sonntag, Potamianos, Krüger, 2017. The Handbook of Multimodal-Multisensor Interfaces: Foundations, User Modeling, and Common Modality Combinations - Volume 1. DOI: [10.1145/3015783](https://doi.org/10.1145/3015783)
 
-- Cheryl Platz, 2020. Design Beyond Devices: Creating Multimodal, Cross-Device Experiences. Rosenfeld Media 📖
+- Cheryl Platz, 2020. Design Beyond Devices: Creating Multimodal, Cross-Device Experiences. Rosenfeld Media 
 
 
 <br/>
