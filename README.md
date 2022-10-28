@@ -364,7 +364,7 @@ Harada, Wobbrock, Landay, 2011. Voice Games: Investigation Into the Use of Non-s
 - Zhang, Hansen, Minakata, Alapetite, Wang, 2019. Eye-gaze-controlled telepresence robots for people with motor disabilities. In Proceedings of the 14th ACM/IEEE International Conference on Human-Robot Interaction (HRI ‘19), pp. 574–575, DOI: [10.1109/HRI.2019.8673093](https://doi.org/10.1109/HRI.2019.8673093) [📄](gaze/2019-Zhang%20et%20al.%20-%20Eye-Gaze-Controlled%20Telepresence%20Robots%20for%20People%20with%20Motor%20Disabilities.pdf)
 
 - Mayer, Laput, Harrison, 2020. Enhancing Mobile Voice Assistants with WorldGaze. In Proceedings of the 38th Annual SIGCHI Conference on Human Factors in Computing Systems (CHI ‘20), DOI: [10.1145/3313831.3376479](https://doi.org/10.1145/3313831.3376479) [📄](gaze/2020-Mayer%20et%20al.%20-%20Enhancing%20Mobile%20Voice%20Assistants%20with%20WorldGaze.pdf)
-- 
+
 
 <br/>
 
