@@ -257,7 +257,7 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Krum, Omoteso, Ribarsky, Starner, Hodges, 2002. Speech and gesture multimodal control of a whole Earth 3D visualization environment. In Proceedings of the symposium on Data Visualisation 2002 (VISSYM '02), pp. 195–200 [📄](voice/2006-Krum%20et%20al.%20-%20Speech%20and%20gesture%20multimodal%20control%20of%20a%20whole%20Earth%203D%20visualization%20environment.pdf)
 
-- Kopp, Gesellensetter, Krämer, Wachsmuth, 2005. A conversational agent as museum guide: design and evaluation of a real-world application. In Lecture Notes in Computer Science, pp. 329–343, DOI: [10.1007/11550617_28](voice/2005-Kopp%20et%20al.%20-%20A%20Conversational%20Agent%20as%20Museum%20Guide%20%E2%80%93%20Design%20and%20Evaluation%20of%20a%20Real-World%20Application.pdf)
+- Kopp, Gesellensetter, Krämer, Wachsmuth, 2005. A conversational agent as museum guide: design and evaluation of a real-world application. In Lecture Notes in Computer Science, pp. 329–343, DOI: [10.1007/11550617_28](https//doi.org/10.1007/11550617_28) [📄](voice/2005-Kopp%20et%20al.%20-%20A%20Conversational%20Agent%20as%20Museum%20Guide%20%E2%80%93%20Design%20and%20Evaluation%20of%20a%20Real-World%20Application.pdf)
 
 - Tse, Shen, Greenberg, Forlines, 2006. Enabling interaction with single user applications through speech and gestures on a multi-user tabletop. In Proceedings of the working conference on Advanced visual interfaces (AVI ‘06), pp. 336–343, DOI: [10.1145/1133265.1133336](https://doi.org/10.1145/1133265.1133336) [📄](voice/2006-Tse%20et%20al.%20-%20Enabling%20Interaction%20with%20Single%20User%20Applications%20through%20Speech%20and%20Gestures%20on%20a%20Multi-User%20Tabletop.pdf)
 
@@ -301,21 +301,19 @@ Harada, Wobbrock, Landay, 2011. Voice Games: Investigation Into the Use of Non-s
 
 ### General
 
-- **Jacob, 1990. What you look at is what you get: eye movement-based interaction techniques. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘90), pp. 11–18, DOI: [10.1145/97243.97246](https://doi.org/10.1145/97243.97246)**
+- **Jacob, 1990. What you look at is what you get: eye movement-based interaction techniques. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘90), pp. 11–18, DOI: [10.1145/97243.97246](https://doi.org/10.1145/97243.97246)** [📄](gaze/1990-Jacob%20-%20What%20you%20look%20at%20is%20what%20you%20get%20eye%20movement-based%20interaction%20techniques.pdf)
 
-- Sibert & Jacob, 2000. Evaluation of eye gaze interaction. In Proceedings of the SIGCHI conference on Human Factors in Computing Systems (CHI ‘00), pp. 281–288, DOI: [10.1145/332040.332445](https://doi.org/10.1145/332040.332445)
+- Sibert & Jacob, 2000. Evaluation of eye gaze interaction. In Proceedings of the SIGCHI conference on Human Factors in Computing Systems (CHI ‘00), pp. 281–288, DOI: [10.1145/332040.332445](https://doi.org/10.1145/332040.332445) [📄](gaze/2000-Siebert%20et%20al.%20-%20Evaluation%20of%20eye%20gaze%20interaction.pdf)
 
-- Kumar, 2007. Gaze-Enhanced User Interface Design. Phd Thesis, Stanford University 🎓
+- Kumar, 2007. Gaze-Enhanced User Interface Design. Phd Thesis, Stanford University [🎓](gaze/2007-Kumar%20-%20Gaze-Enhanced%20User%20Interface%20Design.pdf)
 
-- Vertegaal, 2008. A Fitts Law comparison of eye tracking and manual input in the selection of visual targets. In Proceedings of the 10th international conference on Multimodal interfaces (ICMI '08), pp. 241–248, DOI: [10.1145/1452392.1452443](https://doi.org/10.1145/1452392.1452443)
+- Vertegaal, 2008. A Fitts Law comparison of eye tracking and manual input in the selection of visual targets. In Proceedings of the 10th international conference on Multimodal interfaces (ICMI '08), pp. 241–248, DOI: [10.1145/1452392.1452443](https://doi.org/10.1145/1452392.1452443) [📄](gaze/2008-Vertegaal%20-%20A%20Fitts%E2%80%99%20Law%20Comparison%20of%20Eye%20Tracking%20and%20Manual%20Input.pdf)
 
-- Majaranta, Aoki, Donegan, 2011. Gaze Interaction and Applications of Eye Tracking: Advances in Assistive Technologies. Medical Information Science Reference 📖
+- Vrzakova & Bednarik, 2013. That's not Norma(n/l): A Detailed Analysis of Midas Touch in Gaze-based Problem-Solving. In CHI '13 Extended Abstracts on Human Factors in Computing Systems (CHI EA ‘13), pp. 85–90, DOI: [10.1145/2468356.2468373](https://doi.org/10.1145/2468356.2468373) [📄](gaze/2013-Vrzakova%20et%20al.%20-%20That's%20not%20norma(n-l)%20a%20detailed%20analysis%20of%20midas%20touch%20in%20gaze-based%20problem-solving.pdf)
 
-- Vrzakova & Bednarik, 2013. That's not Norma(n/l): A Detailed Analysis of Midas Touch in Gaze-based Problem-Solving. In CHI '13 Extended Abstracts on Human Factors in Computing Systems (CHI EA ‘13), pp. 85–90, DOI: [10.1145/2468356.2468373](https://doi.org/10.1145/2468356.2468373)
+- Feit, Williams, Toledo, Paradiso, Kulkarni, Kane, Ringel Morris, 2017. Toward Everyday Gaze Input: Accuracy and Precision of Eye Tracking and Implications for Design. In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (CHI ‘17), pp. 1118–1130, DOI: [10.1145/3025453.3025599](https://doi.org/10.1145/3025453.3025599) [📄](gaze/2017-Feit%20et%20al.%20-%20Toward%20Everyday%20Gaze%20Input%20Accuracy%20and%20Precision%20of%20Eye%20Tracking%20and%20Implications%20for%20Design.pdf)
 
-- Feit, Williams, Toledo, Paradiso, Kulkarni, Kane, Ringel Morris, 2017. Toward Everyday Gaze Input: Accuracy and Precision of Eye Tracking and Implications for Design. In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (CHI ‘17), pp. 1118–1130, DOI: [10.1145/3025453.3025599](https://doi.org/10.1145/3025453.3025599)
-
-- Klaib, Alsrehin, Melhem, Bashtawi, Magableh, 2020. Eye Tracking Algorithms, Techniques, Tools, and Applications with an Emphasis on Machine Learning and Internet of Things Technologies (Chapter 7), DOI: [10.1016/j.eswa.2020.114037](https://doi.org/10.1016/j.eswa.2020.114037)
+- Klaib, Alsrehin, Melhem, Bashtawi, Magableh, 2020. Eye Tracking Algorithms, Techniques, Tools, and Applications with an Emphasis on Machine Learning and Internet of Things Technologies (Chapter 7), DOI: [10.1016/j.eswa.2020.114037](https://doi.org/10.1016/j.eswa.2020.114037) [📄](gaze/2020-K%7E1.PDF)
 
 
 ### Applications
