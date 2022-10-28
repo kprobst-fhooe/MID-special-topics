@@ -159,21 +159,19 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 ### General
 
 
-- Fitzmaurice, Ishii, Buxton. 1995. Bricks: Laying the Foundations for Graspable User Interfaces. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘95), pp. 442–449, DOI: [10.1145/223904.223964](https://doi.org/10.1145/223904.223964)
+- Fitzmaurice, Ishii, Buxton. 1995. Bricks: Laying the Foundations for Graspable User Interfaces. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘95), pp. 442–449, DOI: [10.1145/223904.223964](https://doi.org/10.1145/223904.223964) [📄](tangible/1995-Fitzmaurice%20et%20al.%20-%20Bricks%20laying%20the%20foundations%20for%20graspable%20user%20interfaces.pdf)
 
-- Ishii & Ullmer, 1997. Tangible Bits: Towards Seamless Interfaces Between People, Bits and Atoms. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’97), pp. 234–241, DOI: [10.1145/258549.258715](https://doi.org/10.1145/258549.258715)
+- Ishii & Ullmer, 1997. Tangible Bits: Towards Seamless Interfaces Between People, Bits and Atoms. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’97), pp. 234–241, DOI: [10.1145/258549.258715](https://doi.org/10.1145/258549.258715) [📄](tangible/1997-Ishii%20et%20al.%20-%20Tangible%20bits%20towards%20seamless%20interfaces%20between%20people%2C%20bits%20and%20atoms.pdf)
 
-- Ullmer & Ishii, 2000. Emerging Frameworks for Tangible User Interfaces. In IBM Systems Journal 39, 3–4 (July 2000), pp. 915–931, DOI: [10.1147/sj.393.0915](https://doi.org/10.1147/sj.393.0915)
+- Fishkin, 2004. A Taxonomy for and Analysis of Tangible Interfaces. In Personal Ubiquitous Computing 8, 5 (September 2004), pp. 347–358 [📄](tangible/2004-Fishkin%20-%20A%20taxonomy%20for%20and%20analysis%20of%20tangible%20interfaces.pdf)
 
-- Fishkin, 2004. A Taxonomy for and Analysis of Tangible Interfaces. In Personal Ubiquitous Computing 8, 5 (September 2004), pp. 347–358
+- Ishii, 2008. The Tangible User Interface and its Evolution. In Communications of the ACM 51, 6 (June 2008), pp. 32–36, DOI: [10.1145/1349026.1349034](https://doi.org/10.1145/1349026.1349034) [📄](tangible/2008-Ishii%20-%20The%20tangible%20user%20interface%20and%20its%20evolution.pdf)
 
-- Ishii, 2008. The Tangible User Interface and its Evolution. In Communications of the ACM 51, 6 (June 2008), pp. 32–36, DOI: [10.1145/1349026.1349034](https://doi.org/10.1145/1349026.1349034)
+- Shaer & Hornecker, 2010, Tangible User Interfaces: Past, Present, and Future Directions, In Foundations and Trends in Human–Computer Interaction: Vol. 3: No. 1–2, pp. 4-137, DOI: [10.1561/1100000026](https://dx.doi.org/10.1561/1100000026) [📄](tangible/2010-Shaer%20et%20al.%20-%20Tangible%20User%20Interfaces%20Past%2C%20Present%2C%20and%20Future%20Directions.pdf)
 
-- Shaer & Hornecker, 2010, Tangible User Interfaces: Past, Present, and Future Directions, In Foundations and Trends in Human–Computer Interaction: Vol. 3: No. 1–2, pp. 4-137, DOI: [10.1561/1100000026](https://dx.doi.org/10.1561/1100000026)
+- **Ishii, Lakatos, Bonanni, Labrune, 2012. Radical Atoms: Beyond Tangible Bits, Toward Transformable Materials. In ACM Interactions 19, 1 (January 2012), pp. 38-51, DOI: [10.1145/2065327.2065337](https://doi.org/10.1145/2065327.2065337)** [📄](tangible/2012-Ishii%20et%20al.%20-%20Radical%20Atoms%2C%20Beyond%20Tangible%20Bits%2C%20Toward%20Transformable%20Materials.pdf)
 
-- **Ishii, Lakatos, Bonanni, Labrune, 2012. Radical Atoms: Beyond Tangible Bits, Toward Transformable Materials. In ACM Interactions 19, 1 (January 2012), pp. 38-51, DOI: [10.1145/2065327.2065337](https://doi.org/10.1145/2065327.2065337)**
-
-- Alexander, Roudaut, Steimle, Hornbæk, Alonso, Follmer, Merritt, 2018. Grand Challenges in Shape-Changing Interface Research. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18), Paper 299, DOI: [10.1145/3173574.3173873](https://doi.org/10.1145/3173574.3173873)
+- Alexander, Roudaut, Steimle, Hornbæk, Alonso, Follmer, Merritt, 2018. Grand Challenges in Shape-Changing Interface Research. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18), Paper 299, DOI: [10.1145/3173574.3173873](https://doi.org/10.1145/3173574.3173873) [📄](tangible/2018-Alexander%20et%20al.%20-%20Grand%20Challenges%20in%20Shape-Changing%20Interface%20Research.pdf)
 
 - Ullmer, Shaer, Mazalek, Hummels, 2022. Weaving Fire into Form: Aspirations for Tangible and Embodied Interaction. ACM Books 📖
 
@@ -181,7 +179,7 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 ### Applications
 
 
-- Ullmer & Ishii, 1997. The metaDESK: Models and Prototypes for Tangible User Interfaces. In Proceedings of the 10th annual ACM symposium on User interface software and technology (UIST '97), pp. 223-232, DOI: [10.1145/263407.263551](https://doi.org/10.1145/263407.263551)
+- Ullmer & Ishii, 1997. The metaDESK: Models and Prototypes for Tangible User Interfaces. In Proceedings of the 10th Annual ACM Symposium on User Interface Software and Technology (UIST '97), pp. 223–232, DOI: [10.1145/263407.263551](https://doi.org/10.1145/263407.263551) [📄](tangible/1997-Ullmer%20et%20al.%20-%20The%20metaDESK%20models%20and%20prototypes%20for%20tangible%20user%20interfaces.pdf)
 
 - Raffle, Parkes, Ishii, 2004. Topobo: a constructive assembly system with kinetic memory. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘04), pp. 647–654, DOI: [10.1145/985692.985774](https://doi.org/10.1145/985692.985774)
 
