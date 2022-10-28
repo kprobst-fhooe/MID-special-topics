@@ -40,7 +40,7 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Tzovaras 2008. Multimodal User Interfaces – From Signals to Interaction. Springer 📖
 
-- Dumas, Lalanne, Oviatt, 2009. Multimodal Interfaces: A Survey of Principles, Models and Frameworks. In: Human Machine Interaction. Lecture Notes in Computer Science, vol. 5440. DOI: 810.1007/978-3-642-00437-7_1](https://doi.org/10.1007/978-3-642-00437-7_1)
+- Dumas, Lalanne, Oviatt, 2009. Multimodal Interfaces: A Survey of Principles, Models and Frameworks. In: Human Machine Interaction. Lecture Notes in Computer Science, vol. 5440. DOI: [810.1007/978-3-642-00437-7_1](https://doi.org/10.1007/978-3-642-00437-7_1)
 
 - Shaked, Winter, 2016. Design of Multimodal Mobile Interfaces. DOI: [10.1515/9781501502736](https://doi.org/10.1515/9781501502736)
 
