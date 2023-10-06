@@ -105,6 +105,8 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Lopes, Relvas, Paulo, Rekik, Grisoni, Jorge, 2019. FEETICHE: FEET Input for Contactless Hand gEsture Interaction. In The 17th International Conference on Virtual-Reality Continuum and its Applications in Industry (VRCAI '19), Article 29, DOI: [10.1145/3359997.3365704](https://doi.org/10.1145/3359997.3365704) [📄](gesture/mid-air/2019-Lopes%20et%20al.%20-%20FEETICHE%20FEET%20Input%20for%20Contactless%20Hand%20gEsture%20Interaction.pdf)
 
+- Hermann, Plückthun, Dogangün, Hesenius, 2022. User-Defined Gesture and Voice Control in Human-Drone Interaction for Police Operations. In Proceedings of the Nordic Human-Computer Interaction Conference (NordiCHI '22), DOI: [10.1145/3546155.3546661](https://doi.org/10.1145/3546155.3546661) [📄](gesture/mid-air/2022-Hermann%20-%20User-Defined%20Gesture%20and%20Voice%20Control%20in%20Human-Drone%20Interaction.pdf)
+  
 - Şiean, Pamparău, Vatavu, 2022. Scenario-based Exploration of Integrating Radar Sensing Into Everyday Objects for Free-Hand Television Control. In Proceedings ACM International Conference on Interactive Media Experiences (IMX '22), pp. 357–362, DOI: [10.1145/3505284.3532982](https://doi.org/10.1145/3505284.3532982) [📄](gesture/mid-air/2022-Siean%20et%20al.%20-%20Integrating%20Radar%20Sensing%20into%20Everyday%20Objects%20for%20Free-Hand%20Television%20Control.pdf)
 
 
@@ -293,7 +295,7 @@ Harada, Wobbrock, Landay, 2011. Voice Games: Investigation Into the Use of Non-s
 
 - Williams, Cambre, Bicking, Wallin, Tsai, Kaye, 2020. Toward Voice-Assisted Browsers: A Preliminary Study with Firefox Voice. In Proceedings of the 2nd Conference on Conversational User Interfaces (CUI ‘20), Article 49, DOI: [10.1145/3405755.3406154](https://doi.org/10.1145/3405755.3406154) [📄](voice/2020-Williams%20et%20al.%20-%20Toward%20Voice-Assisted%20Browsers%20A%20Preliminary%20Study%20with%20Firefox%20Voice.pdf)
 
-- Hermann, Plückthun, Dogangün, Hesenius, 2022. User-Defined Gesture and Voice Control in Human-Drone Interaction for Police Operations. In Proceedings of the Nordic Human-Computer Interaction Conference (NordiCHI '22), DOI: [10.1145/3546155.3546661](https://doi.org/10.1145/3546155.3546661)
+- Hermann, Plückthun, Dogangün, Hesenius, 2022. User-Defined Gesture and Voice Control in Human-Drone Interaction for Police Operations. In Proceedings of the Nordic Human-Computer Interaction Conference (NordiCHI '22), DOI: [10.1145/3546155.3546661](https://doi.org/10.1145/3546155.3546661) [📄](gesture/mid-air/2022-Hermann%20-%20User-Defined%20Gesture%20and%20Voice%20Control%20in%20Human-Drone%20Interaction.pdf)
 
 - Khan, Newn, Bailey, Velloso, 2022. Integrating Gaze and Speech for Enabling Implicit Interactions. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22). DOI: [10.1145/3491102.3502134](https://doi.org/10.1145/3491102.3502134) [📄](gaze/2022-Khan%20-%20Integrating%20Gaze%20and%20Speech.pdf)
 
