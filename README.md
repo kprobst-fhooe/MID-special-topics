@@ -105,6 +105,8 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Lopes, Relvas, Paulo, Rekik, Grisoni, Jorge, 2019. FEETICHE: FEET Input for Contactless Hand gEsture Interaction. In The 17th International Conference on Virtual-Reality Continuum and its Applications in Industry (VRCAI '19), Article 29, DOI: [10.1145/3359997.3365704](https://doi.org/10.1145/3359997.3365704) [📄](gesture/mid-air/2019-Lopes%20et%20al.%20-%20FEETICHE%20FEET%20Input%20for%20Contactless%20Hand%20gEsture%20Interaction.pdf)
 
+- Shen, Harrison, 2022. Pull Gestures with Coordinated Graphics on Dual-Screen Devices. In Proceedings of the 2022 International Conference on Multimodal Interaction (ICMI '22), pp. 270-277, DOI: [10.1145/3536221.3556620](https://doi.org/10.1145/3536221.3556620) [📄]()
+
 - Şiean, Pamparău, Vatavu, 2022. Scenario-based Exploration of Integrating Radar Sensing Into Everyday Objects for Free-Hand Television Control. In Proceedings ACM International Conference on Interactive Media Experiences (IMX '22), pp. 357–362, DOI: [10.1145/3505284.3532982](https://doi.org/10.1145/3505284.3532982) [📄](gesture/mid-air/2022-Siean%20et%20al.%20-%20Integrating%20Radar%20Sensing%20into%20Everyday%20Objects%20for%20Free-Hand%20Television%20Control.pdf)
 
 
@@ -147,6 +149,9 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Mlakar, Haberfellner, Jetter, Haller, 2021. Exploring Affordances of Surface Gestures on Textile User Interfaces. In Proceedings of the International Conference on Designing Interactive Systems (DIS '21), pp. 1159–1170, DOI: [10.1145/3461778.3462139](https://doi.org/10.1145/3461778.3462139) [📄](gesture/on-surface/2021-Mlakar%20et%20al.%20-%20Affordances%20of%20Surface%20Gestures%20on%20Textile%20User%20Interfaces.pdf)
 
+- Parthiban, Maes, Sellier, Sluyters, Vanderdonckt, 2022. Gestural-Vocal Coordinated Interaction on Large Displays. In Companion of the 2022 ACM SIGCHI Symposium on Engineering Interactive Computing Systems (EICS '22), pp. 26-32, DOI: [10.1145/3531706.3536457](https://doi.org/10.1145/3531706.3536457) [📄]()
+
+- Shen, Harrison, 2022. Pull Gestures with Coordinated Graphics on Dual-Screen Devices. In Proceedings of the 2022 International Conference on Multimodal Interaction (ICMI '22), pp. 270-277, DOI: [10.1145/3536221.3556620](https://doi.org/10.1145/3536221.3556620) [📄]()
 
 
 <br/>
@@ -290,7 +295,11 @@ Harada, Wobbrock, Landay, 2011. Voice Games: Investigation Into the Use of Non-s
 
 - Williams, Cambre, Bicking, Wallin, Tsai, Kaye, 2020. Toward Voice-Assisted Browsers: A Preliminary Study with Firefox Voice. In Proceedings of the 2nd Conference on Conversational User Interfaces (CUI ‘20), Article 49, DOI: [10.1145/3405755.3406154](https://doi.org/10.1145/3405755.3406154) [📄](voice/2020-Williams%20et%20al.%20-%20Toward%20Voice-Assisted%20Browsers%20A%20Preliminary%20Study%20with%20Firefox%20Voice.pdf)
 
+- Hermann, Plückthun, Dogangün, Hesenius, 2022. User-Defined Gesture and Voice Control in Human-Drone Interaction for Police Operations. In Proceedings of the Nordic Human-Computer Interaction Conference (NordiCHI '22), DOI: [10.1145/3546155.3546661](https://doi.org/10.1145/3546155.3546661)
 
+- Khan, Newn, Bailey, Velloso, 2022. Integrating Gaze and Speech for Enabling Implicit Interactions. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22). DOI: [10.1145/3491102.3502134](https://doi.org/10.1145/3491102.3502134)[📄]()
+
+- Parthiban, Maes, Sellier, Sluyters, Vanderdonckt, 2022. Gestural-Vocal Coordinated Interaction on Large Displays. In Companion of the 2022 ACM SIGCHI Symposium on Engineering Interactive Computing Systems (EICS '22), pp. 26-32, DOI: [10.1145/3531706.3536457](https://doi.org/10.1145/3531706.3536457) [📄]()
 
 <br/>
 
@@ -351,7 +360,7 @@ Harada, Wobbrock, Landay, 2011. Voice Games: Investigation Into the Use of Non-s
 
 - Khamis, Kienle, Alt, Bulling, 2018. GazeDrone: Mobile Eye-Based Interaction in Public Space Without Augmenting the User. In Proceedings of the 4th ACM Workshop on Micro Aerial Vehicle Networks, Systems, and Applications (DroNet’18), pp. 66–71, DOI: [10.1145/3213526.3213539](https://doi.org/10.1145/3213526.3213539) [📄](gaze/2018-Khamis%20et%20al.%20-%20GazeDrone%20Mobile%20Eye-Based%20Interaction%20in%20Public%20Space%20Without%20Augmenting%20the%20User.pdf)
 
-- Khamis, Alt, Bulling, 2018. The past, present, and future of gaze-enabled handheld mobile devices: survey and lessons learned. In Proceedings of the 20th International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI ‘18), Article 38, DOI: [10.1145/3229434.3229452](https://doi.org/10.1145/3229434.3229452) [📄](gaze/2018-Khamis%20et%20al.%20-%20The%20past%2C%20present%2C%20and%20future%20of%20gaze-enabled%20handheld%20mobile%20devices%20survey%20and%20lessons%20learned.pdf)
+- Khamis, Alt, Bulling, 2018. The Past, Present, and Future of Gaze-Enabled Handheld Mobile Devices: Survey and Lessons Learned. In Proceedings of the 20th International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI ‘18), Article 38, DOI: [10.1145/3229434.3229452](https://doi.org/10.1145/3229434.3229452) [📄](gaze/2018-Khamis%20et%20al.%20-%20The%20past%2C%20present%2C%20and%20future%20of%20gaze-enabled%20handheld%20mobile%20devices%20survey%20and%20lessons%20learned.pdf)
 
 - Roider, Reisig, Gross, 2018. Just Look: The Benefits of Gaze-Activated Voice Input in the Car. In Adjunct Proceedings of the 10th International Conference on Automotive User Interfaces and Interactive Vehicular Applications (AutomotiveUI ‘18), pp. 210–214, DOI: [10.1145/3239092.3265968](https://doi.org/10.1145/3239092.3265968) [📄](gaze/2018-Roider%20et%20al.%20-%20Just%20Look%20The%20Benefits%20of%20Gaze-Activated%20Voice%20Input%20in%20the%20Car.pdf)
 
@@ -364,6 +373,12 @@ Harada, Wobbrock, Landay, 2011. Voice Games: Investigation Into the Use of Non-s
 - Zhang, Hansen, Minakata, Alapetite, Wang, 2019. Eye-gaze-controlled telepresence robots for people with motor disabilities. In Proceedings of the 14th ACM/IEEE International Conference on Human-Robot Interaction (HRI ‘19), pp. 574–575, DOI: [10.1109/HRI.2019.8673093](https://doi.org/10.1109/HRI.2019.8673093) [📄](gaze/2019-Zhang%20et%20al.%20-%20Eye-Gaze-Controlled%20Telepresence%20Robots%20for%20People%20with%20Motor%20Disabilities.pdf)
 
 - Mayer, Laput, Harrison, 2020. Enhancing Mobile Voice Assistants with WorldGaze. In Proceedings of the 38th Annual SIGCHI Conference on Human Factors in Computing Systems (CHI ‘20), DOI: [10.1145/3313831.3376479](https://doi.org/10.1145/3313831.3376479) [📄](gaze/2020-Mayer%20et%20al.%20-%20Enhancing%20Mobile%20Voice%20Assistants%20with%20WorldGaze.pdf)
+
+- Pfeuffer, Alexander, Gellersen, 2021. Multi-user Gaze-based Interaction Techniques on Collaborative Touchscreens. In 2021 Symposium on Eye Tracking Research and Applications (ETRA '21), DOI: [10.1145/3448018.3458016](https://doi.org/10.1145/3448018.3458016)[📄]()
+
+- Khan, Newn, Bailey, Velloso, 2022. Integrating Gaze and Speech for Enabling Implicit Interactions. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22). DOI: [10.1145/3491102.3502134](https://doi.org/10.1145/3491102.3502134)[📄]()
+
+- Reiter, Pfeuffer, Esteves, Mittermeier, Alt, 2022. Look & Turn: One-handed and Expressive Menu Interaction by Gaze and Arm Turns in VR. In 2022 Symposium on Eye Tracking Research and Applications (ETRA '22), DOI: [10.1145/3517031.3529233](https://doi.org/10.1145/3517031.3529233)[📄]()
 
 
 <br/>
