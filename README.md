@@ -105,8 +105,6 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Lopes, Relvas, Paulo, Rekik, Grisoni, Jorge, 2019. FEETICHE: FEET Input for Contactless Hand gEsture Interaction. In The 17th International Conference on Virtual-Reality Continuum and its Applications in Industry (VRCAI '19), Article 29, DOI: [10.1145/3359997.3365704](https://doi.org/10.1145/3359997.3365704) [📄](gesture/mid-air/2019-Lopes%20et%20al.%20-%20FEETICHE%20FEET%20Input%20for%20Contactless%20Hand%20gEsture%20Interaction.pdf)
 
-- Shen, Harrison, 2022. Pull Gestures with Coordinated Graphics on Dual-Screen Devices. In Proceedings of the 2022 International Conference on Multimodal Interaction (ICMI '22), pp. 270-277, DOI: [10.1145/3536221.3556620](https://doi.org/10.1145/3536221.3556620) [📄]()
-
 - Şiean, Pamparău, Vatavu, 2022. Scenario-based Exploration of Integrating Radar Sensing Into Everyday Objects for Free-Hand Television Control. In Proceedings ACM International Conference on Interactive Media Experiences (IMX '22), pp. 357–362, DOI: [10.1145/3505284.3532982](https://doi.org/10.1145/3505284.3532982) [📄](gesture/mid-air/2022-Siean%20et%20al.%20-%20Integrating%20Radar%20Sensing%20into%20Everyday%20Objects%20for%20Free-Hand%20Television%20Control.pdf)
 
 
@@ -149,9 +147,9 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Mlakar, Haberfellner, Jetter, Haller, 2021. Exploring Affordances of Surface Gestures on Textile User Interfaces. In Proceedings of the International Conference on Designing Interactive Systems (DIS '21), pp. 1159–1170, DOI: [10.1145/3461778.3462139](https://doi.org/10.1145/3461778.3462139) [📄](gesture/on-surface/2021-Mlakar%20et%20al.%20-%20Affordances%20of%20Surface%20Gestures%20on%20Textile%20User%20Interfaces.pdf)
 
-- Parthiban, Maes, Sellier, Sluyters, Vanderdonckt, 2022. Gestural-Vocal Coordinated Interaction on Large Displays. In Companion of the 2022 ACM SIGCHI Symposium on Engineering Interactive Computing Systems (EICS '22), pp. 26-32, DOI: [10.1145/3531706.3536457](https://doi.org/10.1145/3531706.3536457) [📄]()
+- Parthiban, Maes, Sellier, Sluyters, Vanderdonckt, 2022. Gestural-Vocal Coordinated Interaction on Large Displays. In Companion of the 2022 ACM SIGCHI Symposium on Engineering Interactive Computing Systems (EICS '22), pp. 26-32, DOI: [10.1145/3531706.3536457](https://doi.org/10.1145/3531706.3536457) [📄](gesture/on-surface/2022-Parthiban%20-%20Gestural-Vocal%20Coordinated%20Interaction%20on%20Large%20Displays.pdf)
 
-- Shen, Harrison, 2022. Pull Gestures with Coordinated Graphics on Dual-Screen Devices. In Proceedings of the 2022 International Conference on Multimodal Interaction (ICMI '22), pp. 270-277, DOI: [10.1145/3536221.3556620](https://doi.org/10.1145/3536221.3556620) [📄]()
+- Shen, Harrison, 2022. Pull Gestures with Coordinated Graphics on Dual-Screen Devices. In Proceedings of the 2022 International Conference on Multimodal Interaction (ICMI '22), pp. 270-277, DOI: [10.1145/3536221.3556620](https://doi.org/10.1145/3536221.3556620) [📄](gesture/on-surface/2022-Shen%20-%20Pull%20Gestures%20with%20Coordinated%20Graphics%20on%20Dual-Screen%20Devices.pdf)
 
 
 <br/>
@@ -297,9 +295,9 @@ Harada, Wobbrock, Landay, 2011. Voice Games: Investigation Into the Use of Non-s
 
 - Hermann, Plückthun, Dogangün, Hesenius, 2022. User-Defined Gesture and Voice Control in Human-Drone Interaction for Police Operations. In Proceedings of the Nordic Human-Computer Interaction Conference (NordiCHI '22), DOI: [10.1145/3546155.3546661](https://doi.org/10.1145/3546155.3546661)
 
-- Khan, Newn, Bailey, Velloso, 2022. Integrating Gaze and Speech for Enabling Implicit Interactions. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22). DOI: [10.1145/3491102.3502134](https://doi.org/10.1145/3491102.3502134)[📄]()
+- Khan, Newn, Bailey, Velloso, 2022. Integrating Gaze and Speech for Enabling Implicit Interactions. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22). DOI: [10.1145/3491102.3502134](https://doi.org/10.1145/3491102.3502134) [📄](gaze/2022-Khan%20-%20Integrating%20Gaze%20and%20Speech.pdf)
 
-- Parthiban, Maes, Sellier, Sluyters, Vanderdonckt, 2022. Gestural-Vocal Coordinated Interaction on Large Displays. In Companion of the 2022 ACM SIGCHI Symposium on Engineering Interactive Computing Systems (EICS '22), pp. 26-32, DOI: [10.1145/3531706.3536457](https://doi.org/10.1145/3531706.3536457) [📄]()
+- Parthiban, Maes, Sellier, Sluyters, Vanderdonckt, 2022. Gestural-Vocal Coordinated Interaction on Large Displays. In Companion of the 2022 ACM SIGCHI Symposium on Engineering Interactive Computing Systems (EICS '22), pp. 26-32, DOI: [10.1145/3531706.3536457](https://doi.org/10.1145/3531706.3536457) [📄](gesture/on-surface/2022-Parthiban%20-%20Gestural-Vocal%20Coordinated%20Interaction%20on%20Large%20Displays.pdf)
 
 <br/>
 
@@ -374,9 +372,9 @@ Harada, Wobbrock, Landay, 2011. Voice Games: Investigation Into the Use of Non-s
 
 - Mayer, Laput, Harrison, 2020. Enhancing Mobile Voice Assistants with WorldGaze. In Proceedings of the 38th Annual SIGCHI Conference on Human Factors in Computing Systems (CHI ‘20), DOI: [10.1145/3313831.3376479](https://doi.org/10.1145/3313831.3376479) [📄](gaze/2020-Mayer%20et%20al.%20-%20Enhancing%20Mobile%20Voice%20Assistants%20with%20WorldGaze.pdf)
 
-- Pfeuffer, Alexander, Gellersen, 2021. Multi-user Gaze-based Interaction Techniques on Collaborative Touchscreens. In 2021 Symposium on Eye Tracking Research and Applications (ETRA '21), DOI: [10.1145/3448018.3458016](https://doi.org/10.1145/3448018.3458016)[📄]()
+- Pfeuffer, Alexander, Gellersen, 2021. Multi-user Gaze-Based Interaction Techniques on Collaborative Touchscreens. In 2021 Symposium on Eye Tracking Research and Applications (ETRA '21), DOI: [10.1145/3448018.3458016](https://doi.org/10.1145/3448018.3458016) [📄](gaze/2021-Pfeuffer%20-%20Multi-user%20Gaze-based%20Interaction%20Techniques%20on%20Collaborative%20Touchscreens.pdf)
 
-- Khan, Newn, Bailey, Velloso, 2022. Integrating Gaze and Speech for Enabling Implicit Interactions. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22). DOI: [10.1145/3491102.3502134](https://doi.org/10.1145/3491102.3502134)[📄]()
+- Khan, Newn, Bailey, Velloso, 2022. Integrating Gaze and Speech for Enabling Implicit Interactions. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22). DOI: [10.1145/3491102.3502134](https://doi.org/10.1145/3491102.3502134) [📄](gaze/2022-Khan%20-%20Integrating%20Gaze%20and%20Speech.pdf)
 
 - Reiter, Pfeuffer, Esteves, Mittermeier, Alt, 2022. Look & Turn: One-handed and Expressive Menu Interaction by Gaze and Arm Turns in VR. In 2022 Symposium on Eye Tracking Research and Applications (ETRA '22), DOI: [10.1145/3517031.3529233](https://doi.org/10.1145/3517031.3529233)[📄](gaze/2022-Reiter%20-%20Look%20%26%20Turn.pdf)
 
