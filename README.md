@@ -378,7 +378,7 @@ Harada, Wobbrock, Landay, 2011. Voice Games: Investigation Into the Use of Non-s
 
 - Khan, Newn, Bailey, Velloso, 2022. Integrating Gaze and Speech for Enabling Implicit Interactions. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22). DOI: [10.1145/3491102.3502134](https://doi.org/10.1145/3491102.3502134)[📄]()
 
-- Reiter, Pfeuffer, Esteves, Mittermeier, Alt, 2022. Look & Turn: One-handed and Expressive Menu Interaction by Gaze and Arm Turns in VR. In 2022 Symposium on Eye Tracking Research and Applications (ETRA '22), DOI: [10.1145/3517031.3529233](https://doi.org/10.1145/3517031.3529233)[📄]()
+- Reiter, Pfeuffer, Esteves, Mittermeier, Alt, 2022. Look & Turn: One-handed and Expressive Menu Interaction by Gaze and Arm Turns in VR. In 2022 Symposium on Eye Tracking Research and Applications (ETRA '22), DOI: [10.1145/3517031.3529233](https://doi.org/10.1145/3517031.3529233)[📄](gaze/2022-Reiter%20-%20Look%20%26%20Turn.pdf)
 
 
 <br/>
