@@ -155,6 +155,8 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Shen, Harrison, 2022. Pull Gestures with Coordinated Graphics on Dual-Screen Devices. In Proceedings of the 2022 International Conference on Multimodal Interaction (ICMI '22), pp. 270-277, DOI: [10.1145/3536221.3556620](https://doi.org/10.1145/3536221.3556620) [📄](gesture/on-surface/2022-Shen%20-%20Pull%20Gestures%20with%20Coordinated%20Graphics%20on%20Dual-Screen%20Devices.pdf)
 
+- Andrei, Bilius, Vatavu, 2024. Take a Seat, Make a Gesture: Charting User Preferences for On-Chair and From-Chair Gesture Input. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24), DOI: [10.1145/3613904.3642028](https://doi.org/10.1145/3613904.3642028)
+
 
 <br/>
 
