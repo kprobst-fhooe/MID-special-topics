@@ -109,6 +109,8 @@ A collection of essential papers and books on diverse topics in Human-Computer I
   
 - Şiean, Pamparău, Vatavu, 2022. Scenario-based Exploration of Integrating Radar Sensing Into Everyday Objects for Free-Hand Television Control. In Proceedings ACM International Conference on Interactive Media Experiences (IMX '22), pp. 357–362, DOI: [10.1145/3505284.3532982](https://doi.org/10.1145/3505284.3532982) [📄](gesture/mid-air/2022-Siean%20et%20al.%20-%20Integrating%20Radar%20Sensing%20into%20Everyday%20Objects%20for%20Free-Hand%20Television%20Control.pdf)
 
+- Chang, Chen, Dong, Cai, Yan, Cai, Zhou, Zhou, Gong, 2024. "It Must Be Gesturing Towards Me": Gesture-Based Interaction between Autonomous Vehicles and Pedestrians. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24), DOI: [10.1145/3613904.3642029](https://doi.org/10.1145/3613904.3642029)
+
 
 
 ### Applications On-Surface
