@@ -111,6 +111,8 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Chang, Chen, Dong, Cai, Yan, Cai, Zhou, Zhou, Gong, 2024. "It Must Be Gesturing Towards Me": Gesture-Based Interaction between Autonomous Vehicles and Pedestrians. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24), DOI: [10.1145/3613904.3642029](https://doi.org/10.1145/3613904.3642029)
 
+- Hosseini, Mueller, Boll, 2024. Controlling the Rooms: How People Prefer Using Gestures to Control Their Smart Homes. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24), DOI: [10.1145/3613904.3642687](https://doi.org/10.1145/3613904.3642687) 
+
 
 
 ### Applications On-Surface
