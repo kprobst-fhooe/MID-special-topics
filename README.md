@@ -275,7 +275,8 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 - Harada, Saponas, Landay, 2007. VoicePen: augmenting pen input with simultaneous non-linguisitic vocalization. In Proceedings of the 9th international conference on Multimodal interfaces (ICMI ‘07), pp. 178–185, DOI: [10.1145/1322192.1322225](https://doi.org/10.1145/1322192.1322225) [📄](voice/2011-H%7E1.PDF)
 
 - Sherwani, Yu, Paek, Czerwinski, Ju, Acero, 2007. Voicepedia: towards speech-based access to unstructured information. In Interspeech.
-Harada, Wobbrock, Landay, 2011. Voice Games: Investigation Into the Use of Non-speech Voice Input for Making Computer Games More Accessible. In Human-Computer Interaction – INTERACT 2011, vol 6946, DOI: [10.1007/978-3-642-23774-4_4](https://doi.org/10.1007/978-3-642-23774-4_4) [📄](voice/2007-Sherwani%20et%20al%20-%20VoicePedia%20Towards%20Speech-based%20Access%20to%20Unstructured%20Information.pdf)
+
+- Harada, Wobbrock, Landay, 2011. Voice Games: Investigation Into the Use of Non-speech Voice Input for Making Computer Games More Accessible. In Human-Computer Interaction – INTERACT 2011, vol 6946, DOI: [10.1007/978-3-642-23774-4_4](https://doi.org/10.1007/978-3-642-23774-4_4) [📄](voice/2007-Sherwani%20et%20al%20-%20VoicePedia%20Towards%20Speech-based%20Access%20to%20Unstructured%20Information.pdf)
 
 - Pfeifer Vardoulakis, Ring, Barry, Sidner, Bickmore, 2012. Designing relational agents as long term social companions for older adults. In Proceedings of the 12th international conference on Intelligent Virtual Agents (IVA’12), pp. 289–302, DOI: [10.1007/978-3-642-33197-8_30] [📄](voice/2012-Pfeifer%20et%20al.%20-%20Designing%20Relational%20Agents%20as%20Long%20Term%20Social%20Companions%20for%20Older%20Adults.pdf)
 
