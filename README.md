@@ -298,8 +298,6 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Fernandes, Abreu, Almeida, Santos, 2019. A Review of Voice User Interfaces for Interactive TV. In: Applications and Usability of Interactive TV. jAUTI 2018. Communications in Computer and Information Science, vol 1004, DOI: [10.1007/978-3-030-23862-9_9](https://doi.org/10.1007/978-3-030-23862-9_9)
 
-- Larsen, Scheel, Bogers, Larsen, 2020. Hands-free but not Eyes-free: A Usability Evaluation of Siri while Driving. In Proceedings of the 2020 Conference on Human Information Interaction and Retrieval (CHIIR '20), DOI: [10.1145/3343413.3377962](https://doi.org/10.1145/3343413.3377962) [📄](voice/2020-Larsen%20-%20Hands-Free%20but%20not%20Eyes-Free.pdf)
-
 - **Mayer, Laput, Harrison, 2020. Enhancing Mobile Voice Assistants with WorldGaze. In Proceedings of the 38th Annual SIGCHI Conference on Human Factors in Computing Systems (CHI ‘20), DOI: [10.1145/3313831.3376479](https://doi.org/10.1145/3313831.3376479)**
 
 - Williams, Cambre, Bicking, Wallin, Tsai, Kaye, 2020. Toward Voice-Assisted Browsers: A Preliminary Study with Firefox Voice. In Proceedings of the 2nd Conference on Conversational User Interfaces (CUI ‘20), Article 49, DOI: [10.1145/3405755.3406154](https://doi.org/10.1145/3405755.3406154)
@@ -309,9 +307,6 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 - Khan, Newn, Bailey, Velloso, 2022. Integrating Gaze and Speech for Enabling Implicit Interactions. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22). DOI: [10.1145/3491102.3502134](https://doi.org/10.1145/3491102.3502134) [📄](gaze/2022-Khan%20-%20Integrating%20Gaze%20and%20Speech.pdf)
 
 - Parthiban, Maes, Sellier, Sluyters, Vanderdonckt, 2022. Gestural-Vocal Coordinated Interaction on Large Displays. In Companion of the 2022 ACM SIGCHI Symposium on Engineering Interactive Computing Systems (EICS '22), pp. 26-32, DOI: [10.1145/3531706.3536457](https://doi.org/10.1145/3531706.3536457)
-
-- Sin, Chen, Threatt, Gorham, Monteanu, 2022. Does Alexa Live Up to the Hype? Contrasting Expectations from Mass Media Narratives and Older Adults' Hands-on Experiences of Voice Interfaces. In Proceedings of the 4th Conference on Conversational User Interfaces
-(CUI '22), Article 18, DOI: [10.1145/3543829.354384](https://doi.org/10.1145/3543829.354384)
 
 <br/>
 
