@@ -377,8 +377,6 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Newn, Singh , Allison, Madumal, Velloso, Vetere, 2019. Designing Interactions with Intention-Aware Gaze-Enabled Artificial Agents. In: Proceedings INTERACT 2019, DOI: [10.1007/978-3-030-29384-0_17](https://doi.org/10.1007/978-3-030-29384-0_17) [📄](gaze/2019-Newn%20et%20al.%20-%20Designing%20Interactions%20with%20Intention-Aware%20Gaze-Enabled%20Artificial%20Agents.pdf)
 
-- Zhang, Hansen, Minakata, Alapetite, Wang, 2019. Eye-gaze-controlled telepresence robots for people with motor disabilities. In Proceedings of the 14th ACM/IEEE International Conference on Human-Robot Interaction (HRI ‘19), pp. 574–575, DOI: [10.1109/HRI.2019.8673093](https://doi.org/10.1109/HRI.2019.8673093) [📄](gaze/2019-Zhang%20et%20al.%20-%20Eye-Gaze-Controlled%20Telepresence%20Robots%20for%20People%20with%20Motor%20Disabilities.pdf)
-
 - Mayer, Laput, Harrison, 2020. Enhancing Mobile Voice Assistants with WorldGaze. In Proceedings of the 38th Annual SIGCHI Conference on Human Factors in Computing Systems (CHI ‘20), DOI: [10.1145/3313831.3376479](https://doi.org/10.1145/3313831.3376479) [📄](gaze/2020-Mayer%20et%20al.%20-%20Enhancing%20Mobile%20Voice%20Assistants%20with%20WorldGaze.pdf)
 
 - Pfeuffer, Alexander, Gellersen, 2021. Multi-user Gaze-Based Interaction Techniques on Collaborative Touchscreens. In 2021 Symposium on Eye Tracking Research and Applications (ETRA '21), DOI: [10.1145/3448018.3458016](https://doi.org/10.1145/3448018.3458016) [📄](gaze/2021-Pfeuffer%20-%20Multi-user%20Gaze-based%20Interaction%20Techniques%20on%20Collaborative%20Touchscreens.pdf)
