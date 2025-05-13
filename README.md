@@ -385,6 +385,12 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Reiter, Pfeuffer, Esteves, Mittermeier, Alt, 2022. Look & Turn: One-handed and Expressive Menu Interaction by Gaze and Arm Turns in VR. In 2022 Symposium on Eye Tracking Research and Applications (ETRA '22), DOI: [10.1145/3517031.3529233](https://doi.org/10.1145/3517031.3529233)
 
+- Lystbæk, Rosenberg, Pfeuffer, Grønbæk, Gellersen, 2022. Gaze-Hand Alignment: Combining Eye Gaze and Mid-Air Pointing for Interacting with Menus in Augmented Reality. In Proceedings of the ACM on Human-Computer Interaction, DOI: [10.1145/3530886](https://doi.org/10.1145/3530886)
+
+- Namnakani, Abdrabou, Grizou, Esteves, Khamis, 2023. Comparing Dwell time, Pursuits and Gaze Gestures for Gaze Interaction on Handheld Mobile Devices. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23), DOI: [10.1145/3544548.3580871](https://doi.org/10.1145/3544548.3580871)
+
+- Cai, Hong, Wang, Lu, 2025. GazeSwipe: Enhancing Mobile Touchscreen Reachability through Seamless Gaze and Finger-Swipe Integration. In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI '25), DOI: [10.1145/3706598.3713739](https://doi.org/10.1145/3706598.3713739)
+
 
 <br/>
 
