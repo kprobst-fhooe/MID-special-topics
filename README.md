@@ -387,6 +387,8 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Lystbæk, Rosenberg, Pfeuffer, Grønbæk, Gellersen, 2022. Gaze-Hand Alignment: Combining Eye Gaze and Mid-Air Pointing for Interacting with Menus in Augmented Reality. In Proceedings of the ACM on Human-Computer Interaction, DOI: [10.1145/3530886](https://doi.org/10.1145/3530886)
 
+- Cui, Liu, Li, Wang, Zhao, Rashidian, Baik, Ramakrishnan, Wang, Bi, 2023. GlanceWriter: Writing Text by Glancing Over Letters with Gaze. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23), DOI: [10.1145/3544548.3581269](https://doi.org/10.1145/3544548.3581269)
+
 - Namnakani, Abdrabou, Grizou, Esteves, Khamis, 2023. Comparing Dwell Time, Pursuits and Gaze Gestures for Gaze Interaction on Handheld Mobile Devices. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23), DOI: [10.1145/3544548.3580871](https://doi.org/10.1145/3544548.3580871)
 
 - Namnakani, Sinrattanavong, Abdrabou, Bulling, Alt, Khamis, 2023. GazeCast: Using Mobile Devices to Allow Gaze-based Interaction on Public Displays. In Proceedings of the 2023 Symposium on Eye Tracking Research and Application (ETRA '23), DOI: [10.1145/3588015.3589663](https://doi.org/10.1145/3588015.3589663)
