@@ -387,7 +387,9 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Lystbæk, Rosenberg, Pfeuffer, Grønbæk, Gellersen, 2022. Gaze-Hand Alignment: Combining Eye Gaze and Mid-Air Pointing for Interacting with Menus in Augmented Reality. In Proceedings of the ACM on Human-Computer Interaction, DOI: [10.1145/3530886](https://doi.org/10.1145/3530886)
 
-- Namnakani, Abdrabou, Grizou, Esteves, Khamis, 2023. Comparing Dwell time, Pursuits and Gaze Gestures for Gaze Interaction on Handheld Mobile Devices. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23), DOI: [10.1145/3544548.3580871](https://doi.org/10.1145/3544548.3580871)
+- Namnakani, Abdrabou, Grizou, Esteves, Khamis, 2023. Comparing Dwell Time, Pursuits and Gaze Gestures for Gaze Interaction on Handheld Mobile Devices. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23), DOI: [10.1145/3544548.3580871](https://doi.org/10.1145/3544548.3580871)
+
+- Namnakani, Sinrattanavong, Abdrabou, Bulling, Alt, Khamis, 2023. GazeCast: Using Mobile Devices to Allow Gaze-based Interaction on Public Displays. In Proceedings of the 2023 Symposium on Eye Tracking Research and Application (ETRA '23), DOI: [10.1145/3588015.3589663](https://doi.org/10.1145/3588015.3589663)
 
 - Cai, Hong, Wang, Lu, 2025. GazeSwipe: Enhancing Mobile Touchscreen Reachability through Seamless Gaze and Finger-Swipe Integration. In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI '25), DOI: [10.1145/3706598.3713739](https://doi.org/10.1145/3706598.3713739)
 
