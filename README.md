@@ -317,17 +317,19 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 ### General
 
-- **Jacob, 1990. What you look at is what you get: eye movement-based interaction techniques. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘90), pp. 11–18, DOI: [10.1145/97243.97246](https://doi.org/10.1145/97243.97246)** [📄](gaze/1990-Jacob%20-%20What%20you%20look%20at%20is%20what%20you%20get%20eye%20movement-based%20interaction%20techniques.pdf)
+- **Jacob, 1990. What you look at is what you get: eye movement-based interaction techniques. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘90), pp. 11–18, DOI: [10.1145/97243.97246](https://doi.org/10.1145/97243.97246)**
 
-- Sibert & Jacob, 2000. Evaluation of eye gaze interaction. In Proceedings of the SIGCHI conference on Human Factors in Computing Systems (CHI ‘00), pp. 281–288, DOI: [10.1145/332040.332445](https://doi.org/10.1145/332040.332445) [📄](gaze/2000-Siebert%20et%20al.%20-%20Evaluation%20of%20eye%20gaze%20interaction.pdf)
+- Sibert & Jacob, 2000. Evaluation of eye gaze interaction. In Proceedings of the SIGCHI conference on Human Factors in Computing Systems (CHI ‘00), pp. 281–288, DOI: [10.1145/332040.332445](https://doi.org/10.1145/332040.332445)
 
 - Kumar, 2007. Gaze-Enhanced User Interface Design. Phd Thesis, Stanford University [🎓](gaze/2007-Kumar%20-%20Gaze-Enhanced%20User%20Interface%20Design.pdf)
 
-- Vertegaal, 2008. A Fitts Law comparison of eye tracking and manual input in the selection of visual targets. In Proceedings of the 10th international conference on Multimodal interfaces (ICMI '08), pp. 241–248, DOI: [10.1145/1452392.1452443](https://doi.org/10.1145/1452392.1452443) [📄](gaze/2008-Vertegaal%20-%20A%20Fitts%E2%80%99%20Law%20Comparison%20of%20Eye%20Tracking%20and%20Manual%20Input.pdf)
+- Vertegaal, 2008. A Fitts Law comparison of eye tracking and manual input in the selection of visual targets. In Proceedings of the 10th international conference on Multimodal interfaces (ICMI '08), pp. 241–248, DOI: [10.1145/1452392.1452443](https://doi.org/10.1145/1452392.1452443) 
 
-- Vrzakova & Bednarik, 2013. That's not Norma(n/l): A Detailed Analysis of Midas Touch in Gaze-based Problem-Solving. In CHI '13 Extended Abstracts on Human Factors in Computing Systems (CHI EA ‘13), pp. 85–90, DOI: [10.1145/2468356.2468373](https://doi.org/10.1145/2468356.2468373) [📄](gaze/2013-Vrzakova%20et%20al.%20-%20That's%20not%20norma(n-l)%20a%20detailed%20analysis%20of%20midas%20touch%20in%20gaze-based%20problem-solving.pdf)
+- Vrzakova & Bednarik, 2013. That's not Norma(n/l): A Detailed Analysis of Midas Touch in Gaze-based Problem-Solving. In CHI '13 Extended Abstracts on Human Factors in Computing Systems (CHI EA ‘13), pp. 85–90, DOI: [10.1145/2468356.2468373](https://doi.org/10.1145/2468356.2468373)
 
-- Feit, Williams, Toledo, Paradiso, Kulkarni, Kane, Ringel Morris, 2017. Toward Everyday Gaze Input: Accuracy and Precision of Eye Tracking and Implications for Design. In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (CHI ‘17), pp. 1118–1130, DOI: [10.1145/3025453.3025599](https://doi.org/10.1145/3025453.3025599) [📄](gaze/2017-Feit%20et%20al.%20-%20Toward%20Everyday%20Gaze%20Input%20Accuracy%20and%20Precision%20of%20Eye%20Tracking%20and%20Implications%20for%20Design.pdf)
+- Majaranta & Bulling. 2014. Eye Tracking and Eye-Based Human–Computer Interaction. In Advances in Physiological Computing, Chapter 3, pp. 39–65, DOI: [10.1007/978-1-4471-6392-3_3](http://dx.doi.org/10.1007/978-1-4471-6392-3_3)
+
+- Feit, Williams, Toledo, Paradiso, Kulkarni, Kane, Ringel Morris, 2017. Toward Everyday Gaze Input: Accuracy and Precision of Eye Tracking and Implications for Design. In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (CHI ‘17), pp. 1118–1130, DOI: [10.1145/3025453.3025599](https://doi.org/10.1145/3025453.3025599) 
 
 - Klaib, Alsrehin, Melhem, Bashtawi, Magableh, 2020. Eye Tracking Algorithms, Techniques, Tools, and Applications with an Emphasis on Machine Learning and Internet of Things Technologies (Chapter 7), DOI: [10.1016/j.eswa.2020.114037](https://doi.org/10.1016/j.eswa.2020.114037) [📄](gaze/2020-K%7E1.PDF)
 
