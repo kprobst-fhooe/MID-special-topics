@@ -395,6 +395,11 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 - Namnakani, Sinrattanavong, Abdrabou, Bulling, Alt, Khamis, 2023. GazeCast: Using Mobile Devices to Allow Gaze-based Interaction on Public Displays. In Proceedings of the 2023 Symposium on Eye Tracking Research and Application (ETRA '23), DOI: [10.1145/3588015.3589663](https://doi.org/10.1145/3588015.3589663)
 
+- Colley, Wanner, Rädler, Rötzer, Frommel, Hirzle, Jansen, Rukzio, 2024. Efects of a Gaze-Based 2D Platform Game on User Enjoyment,
+Perceived Competence, and Digital Eye Strain. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24), 
+Article No.: 369, [10.1145/3613904.3641909](
+https://doi.org/10.1145/3613904.3641909)
+
 - Cai, Hong, Wang, Lu, 2025. GazeSwipe: Enhancing Mobile Touchscreen Reachability through Seamless Gaze and Finger-Swipe Integration. In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI '25), DOI: [10.1145/3706598.3713739](https://doi.org/10.1145/3706598.3713739)
 
 
