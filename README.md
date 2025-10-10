@@ -15,7 +15,7 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 **Special Topics included:**
 
-- 👋 [Gestural Interaction](#-gestural-interaction)
+- 👋 [Gestural Interaction](#gesture.md)
 - 🧱 [Tangible Interaction](#-tangible-interaction)
 - 💬 [Voice Interaction](#-voice-interaction)
 - 👁️ [Gaze Interaction](#%EF%B8%8F-gaze-interaction)
@@ -50,6 +50,7 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 
 <br/>
+
 
 
 
