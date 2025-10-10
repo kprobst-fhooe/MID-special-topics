@@ -61,21 +61,21 @@
 
 - Suzuki, Zheng, Kakehi, Yeh, Do, Gross, Leithinger, 2019. ShapeBots: Shape-changing Swarm Robots. In Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology (UIST ‘19), pp. 493–505, DOI: [10.1145/3332165.3347911](https://doi.org/10.1145/3332165.3347911)
 
-- Suzuki, Nakayama, Liu, Kakehi, Gross, Leithinger. 2019. LiftTiles: Modular and Reconfigurable Room-scale Shape Displays through Retractable Inflatable Actuators. In Adjunct Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology (UIST '19), DOI: 10.1145/3332167.3357105
+- Suzuki, Nakayama, Liu, Kakehi, Gross, Leithinger. 2019. LiftTiles: Modular and Reconfigurable Room-scale Shape Displays through Retractable Inflatable Actuators. In Adjunct Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology (UIST '19), DOI: [10.1145/3332167.3357105](https://doi.org/10.1145/3332167.3357105)
 
-- Nakagaki, Suzuki, Leithinger, Ishii. 2019. inFORCE: Bi-Directional 'Force' Shape Display for Haptic Interaction. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19), DOI: 10.1145/3294109.3295621
+- Nakagaki, Suzuki, Leithinger, Ishii. 2019. inFORCE: Bi-Directional 'Force' Shape Display for Haptic Interaction. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19), DOI: [10.1145/3294109.3295621](https://doi.org/10.1145/3294109.3295621)
 
 - Perteneder, Probst, Leoong, Gassler, Rendl, Parzer, Fluch, Gahleitner, Follmer, Koike, Haller, 2020. Foxels: Build Your Own Smart Furniture. In Proceedings of the Fourteenth International Conference on Tangible, Embedded, and Embodied Interaction (TEI '20), pp. 111-122, DOI: [10.1145/3374920.3374935](https://doi.org/10.1145/3374920.3374935) 
 
 - Ye, Yong, Han, Yen, Sheng. 2024. PaperTouch: Tangible Interfaces through Paper Craft and Touchscreen Devices. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24), DOI: [10.1145/3613904.3642571](https://doi.org/10.1145/3613904.3642571)
 
-- Delgado Rodriguez, Mecke, Prieto Romero, Bregenzer, Alt. 2024. Act2Auth – A Novel Authentication Concept based on Embedded Tangible Interaction at Desks. In Proceedings of Mensch und Computer 2024 (MuC '24), DOI: 10.1145/3743049.3743075
+- Delgado Rodriguez, Mecke, Prieto Romero, Bregenzer, Alt. 2024. Act2Auth – A Novel Authentication Concept based on Embedded Tangible Interaction at Desks. In Proceedings of Mensch und Computer 2024 (MuC '24), DOI: [10.1145/3743049.3743075](https://doi.org/10.1145/3743049.3743075)
 
-- Nagaraj, Mo, Holloway. 2024. Mindfulness-based Embodied Tangible Interactions for Stroke Rehabilitation at Home. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24), DOI: 10.1145/3613904.3642463
+- Nagaraj, Mo, Holloway. 2024. Mindfulness-based Embodied Tangible Interactions for Stroke Rehabilitation at Home. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24), DOI: [10.1145/3613904.3642463](https://doi.org/10.1145/3613904.3642463)
 
-- Li, Jianan, Huang, Tao, Zhu, Qingxu, Wong, Tien-Tsin. 2024. Physica: Interactive Tangible Physics Simulation based on Tabletop Mobile Robots Towards Explorable Physics Education. In SIGGRAPH Conference Papers '24, Denver, CO, USA, July 2024. DOI: 10.1145/3641519.3657517
+- Li, Jianan, Huang, Tao, Zhu, Qingxu, Wong, Tien-Tsin. 2024. Physica: Interactive Tangible Physics Simulation based on Tabletop Mobile Robots Towards Explorable Physics Education. In SIGGRAPH Conference Papers '24, Denver, CO, USA, July 2024. DOI: [10.1145/3641519.3657517](https://doi.org/10.1145/3641519.3657517)
 
-- Melniczuk, Liang, Preissing. 2025. Exploring Tangible Designs to Improve Interpersonal Connectedness in Remote Group Brainstorming. In Proceedings of the 2025 International Conference on Tangible, Embedded, and Embodied Interaction (TEI '25), DOI: 10.1145/3689050.3704933
+- Melniczuk, Liang, Preissing. 2025. Exploring Tangible Designs to Improve Interpersonal Connectedness in Remote Group Brainstorming. In Proceedings of the 2025 International Conference on Tangible, Embedded, and Embodied Interaction (TEI '25), DOI: [10.1145/3689050.3704933](https://doi.org/10.1145/3689050.3704933)
 
 
 
