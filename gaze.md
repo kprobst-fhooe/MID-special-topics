@@ -3,7 +3,7 @@
 
 ### General
 
-- **Jacob, 1990. What you look at is what you get: eye movement-based interaction techniques. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘90), pp. 11–18, DOI: [10.1145/97243.97246](https://doi.org/10.1145/97243.97246)**
+- Jacob, 1990. What you look at is what you get: eye movement-based interaction techniques. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘90), pp. 11–18, DOI: [10.1145/97243.97246](https://doi.org/10.1145/97243.97246)
 
 - Sibert & Jacob, 2000. Evaluation of eye gaze interaction. In Proceedings of the SIGCHI conference on Human Factors in Computing Systems (CHI ‘00), pp. 281–288, DOI: [10.1145/332040.332445](https://doi.org/10.1145/332040.332445)
 
@@ -45,7 +45,7 @@
 
 - Pfeuffer & Gellersen, 2016. Gaze and Touch Interaction on Tablets. In Proceedings of the 29th Annual Symposium on User Interface Software and Technology (UIST ‘16), pp. 301–311, DOI: [10.1145/2984511.2984514](https://doi.org/10.1145/2984511.2984514)
 
-- D'Angelo & Begel, 2017. Improving Communication Between Pair Programmers Using Shared Gaze Awareness. In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (CHI ‘17), pp. 6245–6290, DOI: [10.1145/3025453.3025573](https://doi.org/10.1145/3025453.3025573)
+- **D'Angelo & Begel, 2017. Improving Communication Between Pair Programmers Using Shared Gaze Awareness. In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (CHI ‘17), pp. 6245–6290, DOI: [10.1145/3025453.3025573](https://doi.org/10.1145/3025453.3025573)**
 
 - Khamis, Hoesl, Klimczak, Reiss, Alt, Bulling, 2017. EyeScout: Active Eye Tracking for Position and Movement Independent Gaze Interaction with Large Public Displays. In Proceedings of the 30th Annual ACM Symposium on User Interface Software and Technology (UIST ‘17), pp. 155–166, DOI: [10.1145/3126594.3126630](https://doi.org/10.1145/3126594.3126630)
 
@@ -85,13 +85,9 @@
 
 - Cui, Liu, Li, Wang, Zhao, Rashidian, Baik, Ramakrishnan, Wang, Bi, 2023. GlanceWriter: Writing Text by Glancing Over Letters with Gaze. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23), DOI: [10.1145/3544548.3581269](https://doi.org/10.1145/3544548.3581269)
 
-- Namnakani, Abdrabou, Grizou, Esteves, Khamis, 2023. Comparing Dwell Time, Pursuits and Gaze Gestures for Gaze Interaction on Handheld Mobile Devices. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23), DOI: [10.1145/3544548.3580871](https://doi.org/10.1145/3544548.3580871)
+- **Namnakani, Abdrabou, Grizou, Esteves, Khamis, 2023. Comparing Dwell Time, Pursuits and Gaze Gestures for Gaze Interaction on Handheld Mobile Devices. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23), DOI: [10.1145/3544548.3580871](https://doi.org/10.1145/3544548.3580871)**
 
 - Namnakani, Sinrattanavong, Abdrabou, Bulling, Alt, Khamis, 2023. GazeCast: Using Mobile Devices to Allow Gaze-based Interaction on Public Displays. In Proceedings of the 2023 Symposium on Eye Tracking Research and Application (ETRA '23), DOI: [10.1145/3588015.3589663](https://doi.org/10.1145/3588015.3589663)
-
-- Namnakani, Abdrabou, Grizou, Esteves, Khamis. 2023. Comparing Dwell time, Pursuits and Gaze Gestures for Gaze Interaction on Handheld Mobile Devices. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23), Article 258. DOI: [10.1145/3544548.3580871](https://doi.org/10.1145/3544548.3580871)
-
-- Cui, Liu, Li, Wang, Wang, Zhao, Rashidian, Baig, Ramakrishnan, Wang, Bi. 2023. GlanceWriter: Writing Text by Glancing Over Letters with Gaze. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23), Article 719. DOI: [10.1145/3544548.3581269](https://doi.org/10.1145/3544548.3581269)
 
 - Colley, Wanner, Rädler, Rötzer, Frommel, Hirzle, Jansen, Rukzio, 2024. Efects of a Gaze-Based 2D Platform Game on User Enjoyment, Perceived Competence, and Digital Eye Strain. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24), 
 Article No.: 369, [10.1145/3613904.3641909](https://doi.org/10.1145/3613904.3641909)
