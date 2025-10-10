@@ -7,7 +7,7 @@
 
 - Sibert & Jacob, 2000. Evaluation of eye gaze interaction. In Proceedings of the SIGCHI conference on Human Factors in Computing Systems (CHI ‘00), pp. 281–288, DOI: [10.1145/332040.332445](https://doi.org/10.1145/332040.332445)
 
-- Kumar, 2007. Gaze-Enhanced User Interface Design. Phd Thesis, Stanford University [🎓](gaze/2007-Kumar%20-%20Gaze-Enhanced%20User%20Interface%20Design.pdf)
+- Kumar, 2007. Gaze-Enhanced User Interface Design. Phd Thesis, Stanford University 
 
 - Vertegaal, 2008. A Fitts Law comparison of eye tracking and manual input in the selection of visual targets. In Proceedings of the 10th international conference on Multimodal interfaces (ICMI '08), pp. 241–248, DOI: [10.1145/1452392.1452443](https://doi.org/10.1145/1452392.1452443) 
 
@@ -17,7 +17,7 @@
 
 - Feit, Williams, Toledo, Paradiso, Kulkarni, Kane, Ringel Morris, 2017. Toward Everyday Gaze Input: Accuracy and Precision of Eye Tracking and Implications for Design. In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (CHI ‘17), pp. 1118–1130, DOI: [10.1145/3025453.3025599](https://doi.org/10.1145/3025453.3025599) 
 
-- Klaib, Alsrehin, Melhem, Bashtawi, Magableh, 2020. Eye Tracking Algorithms, Techniques, Tools, and Applications with an Emphasis on Machine Learning and Internet of Things Technologies (Chapter 7), DOI: [10.1016/j.eswa.2020.114037](https://doi.org/10.1016/j.eswa.2020.114037) [📄](gaze/2020-K%7E1.PDF)
+- Klaib, Alsrehin, Melhem, Bashtawi, Magableh, 2020. Eye Tracking Algorithms, Techniques, Tools, and Applications with an Emphasis on Machine Learning and Internet of Things Technologies (Chapter 7), DOI: [10.1016/j.eswa.2020.114037](https://doi.org/10.1016/j.eswa.2020.114037) 
 
 
 ### Applications
@@ -61,13 +61,19 @@
 
 - Kim, Choi, Jeong, 2019. Watch & Do: A Smart IoT Interaction System with Object Detection and Gaze Estimation. In IEEE Trans. on Consum. Electron. 65, 2 (May 2019), 195–204, DOI: [10.1109/TCE.2019.2897758](https://doi.org/10.1109/TCE.2019.2897758) 
 
-- Kütt, Lee, Hardacre, Papoutsaki, 2019. Eye-Write: Gaze Sharing for Collaborative Writing. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI ‘19), Paper 497, DOI: [10.1145/3290605.3300727](https://doi.org/10.1145/3290605.3300727) 
+- Kütt, Lee, Hardacre, Papoutsaki, 2019. Eye-Write: Gaze Sharing for Collaborative Writing. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI ‘19), Paper 497, DOI: [10.1145/3290605.3300727](https://doi.org/10.1145/3290605.3300727)
+
+- Zhang, Hansen, Minakata, Alapetite, Wang, 2019. Eye-Gaze-Controlled Telepresence Robots for People with Motor Disabilities. In 14th ACM/IEEE International Conference on Human-Robot Interaction (HRI '19). DOI: [10.1109/HRI.2019.8673093](https://doi.org/10.1109/HRI.2019.8673093)
+
+- Kütt, Lee, Hardacre, Papoutsaki. 2019. Eye-Write: Gaze Sharing for Collaborative Writing. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19), Paper 497. DOI: [10.1145/3290605.3300727](https://doi.org/10.1145/3290605.3300727)
 
 - Newn, Singh , Allison, Madumal, Velloso, Vetere, 2019. Designing Interactions with Intention-Aware Gaze-Enabled Artificial Agents. In: Proceedings INTERACT 2019, DOI: [10.1007/978-3-030-29384-0_17](https://doi.org/10.1007/978-3-030-29384-0_17) 
 
 - Mayer, Laput, Harrison, 2020. Enhancing Mobile Voice Assistants with WorldGaze. In Proceedings of the 38th Annual SIGCHI Conference on Human Factors in Computing Systems (CHI ‘20), DOI: [10.1145/3313831.3376479](https://doi.org/10.1145/3313831.3376479) 
 
-- Pfeuffer, Alexander, Gellersen, 2021. Multi-user Gaze-Based Interaction Techniques on Collaborative Touchscreens. In 2021 Symposium on Eye Tracking Research and Applications (ETRA '21), DOI: [10.1145/3448018.3458016](https://doi.org/10.1145/3448018.3458016) 
+- Pfeuffer, Alexander, Gellersen, 2021. Multi-user Gaze-Based Interaction Techniques on Collaborative Touchscreens. In 2021 Symposium on Eye Tracking Research and Applications (ETRA '21), DOI: [10.1145/3448018.3458016](https://doi.org/10.1145/3448018.3458016)
+
+- Yu, Lu, Shi, Liang, Dingler, Velloso, Goncalves. 2021. Gaze-Supported 3D Object Manipulation in Virtual Reality. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI '21), Article 734. DOI: [10.1145/3411764.3445343](https://doi.org/10.1145/3411764.3445343)
 
 - Khan, Newn, Bailey, Velloso, 2022. Integrating Gaze and Speech for Enabling Implicit Interactions. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22). DOI: [10.1145/3491102.3502134](https://doi.org/10.1145/3491102.3502134) 
 
@@ -75,17 +81,25 @@
 
 - Lystbæk, Rosenberg, Pfeuffer, Grønbæk, Gellersen, 2022. Gaze-Hand Alignment: Combining Eye Gaze and Mid-Air Pointing for Interacting with Menus in Augmented Reality. In Proceedings of the ACM on Human-Computer Interaction, DOI: [10.1145/3530886](https://doi.org/10.1145/3530886)
 
+- Kim, Ham, Ahn, Lee. 2022. Lattice Menu: A Low-Error Gaze-Based Marking Menu Utilizing Target-Assisted Gaze Gestures on a Lattice of Visual Anchors. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22), Article 277. DOI: [10.1145/3491102.3501977](https://doi.org/10.1145/3491102.3501977)
+
 - Cui, Liu, Li, Wang, Zhao, Rashidian, Baik, Ramakrishnan, Wang, Bi, 2023. GlanceWriter: Writing Text by Glancing Over Letters with Gaze. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23), DOI: [10.1145/3544548.3581269](https://doi.org/10.1145/3544548.3581269)
 
 - Namnakani, Abdrabou, Grizou, Esteves, Khamis, 2023. Comparing Dwell Time, Pursuits and Gaze Gestures for Gaze Interaction on Handheld Mobile Devices. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23), DOI: [10.1145/3544548.3580871](https://doi.org/10.1145/3544548.3580871)
 
 - Namnakani, Sinrattanavong, Abdrabou, Bulling, Alt, Khamis, 2023. GazeCast: Using Mobile Devices to Allow Gaze-based Interaction on Public Displays. In Proceedings of the 2023 Symposium on Eye Tracking Research and Application (ETRA '23), DOI: [10.1145/3588015.3589663](https://doi.org/10.1145/3588015.3589663)
 
+- Namnakani, Abdrabou, Grizou, Esteves, Khamis. 2023. Comparing Dwell time, Pursuits and Gaze Gestures for Gaze Interaction on Handheld Mobile Devices. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23), Article 258. DOI: [10.1145/3544548.3580871](https://doi.org/10.1145/3544548.3580871)
+
+- Cui, Liu, Li, Wang, Wang, Zhao, Rashidian, Baig, Ramakrishnan, Wang, Bi. 2023. GlanceWriter: Writing Text by Glancing Over Letters with Gaze. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23), Article 719. DOI: [10.1145/3544548.3581269](https://doi.org/10.1145/3544548.3581269)
+
 - Colley, Wanner, Rädler, Rötzer, Frommel, Hirzle, Jansen, Rukzio, 2024. Efects of a Gaze-Based 2D Platform Game on User Enjoyment, Perceived Competence, and Digital Eye Strain. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24), 
-Article No.: 369, [10.1145/3613904.3641909](
-https://doi.org/10.1145/3613904.3641909)
+Article No.: 369, [10.1145/3613904.3641909](https://doi.org/10.1145/3613904.3641909)
+
+- Wang, Potter, Ho, Killough, Zeng, Mondal, Zhao. 2024. GazePrompt: Enhancing Low Vision People's Reading Experience with Gaze-Aware Augmentations. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24), Article 894. DOI: [10.1145/3613904.3642878](https://doi.org/10.1145/3613904.3642878)
 
 - Cai, Hong, Wang, Lu, 2025. GazeSwipe: Enhancing Mobile Touchscreen Reachability through Seamless Gaze and Finger-Swipe Integration. In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI '25), DOI: [10.1145/3706598.3713739](https://doi.org/10.1145/3706598.3713739)
+
 
 
 <br/>
