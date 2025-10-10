@@ -70,6 +70,8 @@
 
 - **Hu, Sloth Grønbæk, Houck, Heo. 2023. OpenMic: Utilizing Proxemic Metaphors for Conversational Floor Transitions in Multiparty Video Meetings. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23). Association for Computing Machinery, New York, NY, USA, Article 793, 1–17. https://doi.org/10.1145/3544548.3581013**
 
+- Zhu, Wang, Zeng, Tong, Lin, Ma. 2024. Make Interaction Situated: Designing User Acceptable Interaction for Situated Visualization in Public Environments. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24), Article 196. DOI: [10.1145/3613904.3642049](https://doi.org/10.1145/3613904.3642049)
+
 
 
 
