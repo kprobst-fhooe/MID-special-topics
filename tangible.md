@@ -8,7 +8,7 @@
 
 - Ishii & Ullmer, 1997. Tangible Bits: Towards Seamless Interfaces Between People, Bits and Atoms. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’97), pp. 234–241, DOI: [10.1145/258549.258715](https://doi.org/10.1145/258549.258715) 
 
-- Fishkin, 2004. A Taxonomy for and Analysis of Tangible Interfaces. In Personal Ubiquitous Computing 8, 5 (September 2004), pp. 347–358 [📄](tangible/2004-Fishkin%20-%20A%20taxonomy%20for%20and%20analysis%20of%20tangible%20interfaces.pdf)
+- Fishkin, 2004. A Taxonomy for and Analysis of Tangible Interfaces. In Personal Ubiquitous Computing 8, 5 (September 2004), pp. 347–358 
 
 - Ishii, 2008. The Tangible User Interface and its Evolution. In Communications of the ACM 51, 6 (June 2008), pp. 32–36, DOI: [10.1145/1349026.1349034](https://doi.org/10.1145/1349026.1349034) 
 
