@@ -25,7 +25,7 @@
 
 - Ullmer & Ishii, 1997. The metaDESK: Models and Prototypes for Tangible User Interfaces. In Proceedings of the 10th Annual ACM Symposium on User Interface Software and Technology (UIST '97), pp. 223–232, DOI: [10.1145/263407.263551](https://doi.org/10.1145/263407.263551) 
 
-- Raffle, Parkes, Ishii, 2004. Topobo: a constructive assembly system with kinetic memory. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘04), pp. 647–654, DOI: [10.1145/985692.985774](https://doi.org/10.1145/985692.985774) 
+- **Raffle, Parkes, Ishii, 2004. Topobo: a constructive assembly system with kinetic memory. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘04), pp. 647–654, DOI: [10.1145/985692.985774](https://doi.org/10.1145/985692.985774)** 
 
 - **Jordà, Geiger, Alonso, Kaltenbrunner, 2007. The reacTable: Exploring the Synergy between Live Music Performance and Tabletop Tangible Interfaces. In Proceedings of the 1st International Conference on Tangible and Embedded interaction (TEI ‘07), pp. 139–146, DOI: [10.1145/1226969.1226998](https://doi.org/10.1145/1226969.1226998)**
 
@@ -49,13 +49,13 @@
 
 - Valdes, Eastman, Grote, Thatte, Shaer, Mazalek, Ullmer, Konkel, 2014. Exploring the Design Space of Gestural Interaction with Active Tokens through User-Defined Gestures. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘14), pp.4107–4116, DOI: [10.1145/2556288.2557373](https://doi.org/10.1145/2556288.2557373) 
 
-- Le Goc, Kim, Parsaei, Fekete, Dragicevic, Follmer, 2016. Zooids: Building Blocks for Swarm User Interfaces. In Proceedings of the 29th Annual Symposium on User Interface Software and Technology (UIST ‘16), pp. 97–109, DOI:[10.1145/2984511.2984547](https://doi.org/10.1145/2984511.2984547) 
+- **Le Goc, Kim, Parsaei, Fekete, Dragicevic, Follmer, 2016. Zooids: Building Blocks for Swarm User Interfaces. In Proceedings of the 29th Annual Symposium on User Interface Software and Technology (UIST ‘16), pp. 97–109, DOI:[10.1145/2984511.2984547](https://doi.org/10.1145/2984511.2984547)** 
 
 - Pratte, Seyed, Maurer, 2016. Acquario: A Tangible Spatially-Aware Tool for Information Interaction and Visualization. In Proceedings of the 2016 Symposium on Spatial User Interaction (SUI ‘16), DOI: [10.1145/2983310.2989208](https://doi.org/10.1145/2983310.2989208) 
 
 - Leong, Perteneder, Jetter, Haller, 2017. What a Life!: Building a Framework for Constructive Assemblies. In Proceedings of the Eleventh International Conference on Tangible, Embedded, and Embodied Interaction (TEI '17), pp. 57-66, DOI: [10.1145/3024969.3024985](https://doi.org/10.1145/3024969.3024985) 
 
-- Villar, Cletheroe, Saul, Holz, Regan, Salandin, Sra, Yeo, Field, Zhang, 2018. Project Zanzibar: A Portable and Flexible Tangible Interaction Platform. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI ‘18), Paper 515, DOI: [10.1145/3173574.3174089](https://doi.org/10.1145/3173574.3174089) 
+- **Villar, Cletheroe, Saul, Holz, Regan, Salandin, Sra, Yeo, Field, Zhang, 2018. Project Zanzibar: A Portable and Flexible Tangible Interaction Platform. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI ‘18), Paper 515, DOI: [10.1145/3173574.3174089](https://doi.org/10.1145/3173574.3174089)**
 
 - Yeo, Minami, Rodriguez, Shaker, Quigley, 2018. Exploring Tangible Interactions with Radar Sensing. In Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 2, 4, Article 200, DOI: [10.1145/3287078](https://doi.org/10.1145/3287078) 
 
