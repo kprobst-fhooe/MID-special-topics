@@ -46,7 +46,9 @@
 
 - **Ledo, Greenberg, Marquardt, Boring, 2015. Proxemic-Aware Controls: Designing Remote Controls for Ubiquitous Computing Ecologies. In Proceedings of the 17th International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI '15), pp. 187–198, DOI: [10.1145/2785830.2785871](https://doi.org/10.1145/2785830.2785871)**
 
-- Vermeulen, Luyten, Coninx, Marquardt, Bird, 2015. Proxemic Flow: Dynamic Peripheral Floor Visualizations for Revealing and Mediating Large Surface Interactions. In Proceedings of the 15th IFIP TC.13 International Conference on Human-Computer Interaction (INTERACT 2015). Lecture Notes in Computer Science, vol 9299, DOI: [10.1007/978-3-319-22723-8_22](https://doi.org/10.1007/978-3-319-22723-8_22) 
+- Vermeulen, Luyten, Coninx, Marquardt, Bird, 2015. Proxemic Flow: Dynamic Peripheral Floor Visualizations for Revealing and Mediating Large Surface Interactions. In Proceedings of the 15th IFIP TC.13 International Conference on Human-Computer Interaction (INTERACT 2015). Lecture Notes in Computer Science, vol 9299, DOI: [10.1007/978-3-319-22723-8_22](https://doi.org/10.1007/978-3-319-22723-8_22)
+
+- Dingler, Funk, Alt, 2015. Interaction Proxemics: Combining Physical Spaces for Seamless Gesture Interaction. In Proceedings of the 4th International Symposium on Pervasive Displays (PerDis '15), pp. 107–114. DOI: [10.1145/2757710.2757722](https://doi.org/10.1145/2757710.2757722)
 
 - Houben, Vermeulen, Klokmose, Schöning, Marquardt, and Reiterer. 2016. Cross-Surface: Challenges and Opportunities of Spatial and Proxemic Interaction. In Proceedings of the 2016 ACM International Conference on Interactive Surfaces and Spaces (ISS '16),  pp. 509–51, DOI: [10.1145/2992154.2996360](https://doi.org/10.1145/2992154.2996360)
 
@@ -68,9 +70,14 @@
 
 - Ann Huang, Pascal Knierim, Francesco Chiossi, Lewis L Chuang, and Robin Welsch. 2022. Proxemics for Human-Agent Interaction in Augmented Reality. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22). Association for Computing Machinery, New York, NY, USA, Article 421, 1–13. https://doi.org/10.1145/3491102.3517593
 
+- Li, Park, Welsch Mayer, Butz, 2023. SeatmateVR: Proxemic Cues for Close Bystander-Awareness in Virtual Reality. Proc. ACM Hum.-Comput. Interact. 7, ISS, Article 438. DOI: [10.1145/3626474](https://doi.org/10.1145/3626474)
+
 - **Hu, Sloth Grønbæk, Houck, Heo. 2023. OpenMic: Utilizing Proxemic Metaphors for Conversational Floor Transitions in Multiparty Video Meetings. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23). Association for Computing Machinery, New York, NY, USA, Article 793, 1–17. https://doi.org/10.1145/3544548.3581013**
 
-- Zhu, Wang, Zeng, Tong, Lin, Ma. 2024. Make Interaction Situated: Designing User Acceptable Interaction for Situated Visualization in Public Environments. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24), Article 196. DOI: [10.1145/3613904.3642049](https://doi.org/10.1145/3613904.3642049)
+- Lunding, Grønbæk, Grymer, Wells, Houben, Graves Petersen, 2023. Reality and Beyond: Proxemics as a Lens for Designing Handheld Collaborative Augmented Reality. Proc. ACM Hum.-Comput. Interact. 7, ISS, Article 427. DOI: [10.1145/3626463](https://doi.org/10.1145/3626463)
+
+- Zhu, Wang, Zeng, Tong, Lin, Ma, 2024. Make Interaction Situated: Designing User Acceptable Interaction for Situated Visualization in Public Environments. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24), Article 196. DOI: [10.1145/3613904.3642049](https://doi.org/10.1145/3613904.3642049)
+
 
 
 
