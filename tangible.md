@@ -4,9 +4,9 @@
 ### General
 
 
-- Fitzmaurice, Ishii, Buxton. 1995. Bricks: Laying the Foundations for Graspable User Interfaces. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘95), pp. 442–449, DOI: [10.1145/223904.223964](https://doi.org/10.1145/223904.223964) 
+- **Fitzmaurice, Ishii, Buxton. 1995. Bricks: Laying the Foundations for Graspable User Interfaces. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘95), pp. 442–449, DOI: [10.1145/223904.223964](https://doi.org/10.1145/223904.223964)**
 
-- Ishii & Ullmer, 1997. Tangible Bits: Towards Seamless Interfaces Between People, Bits and Atoms. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’97), pp. 234–241, DOI: [10.1145/258549.258715](https://doi.org/10.1145/258549.258715) 
+- **Ishii & Ullmer, 1997. Tangible Bits: Towards Seamless Interfaces Between People, Bits and Atoms. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’97), pp. 234–241, DOI: [10.1145/258549.258715](https://doi.org/10.1145/258549.258715)**
 
 - Fishkin, 2004. A Taxonomy for and Analysis of Tangible Interfaces. In Personal Ubiquitous Computing 8, 5 (September 2004), pp. 347–358 
 
@@ -27,7 +27,7 @@
 
 - Raffle, Parkes, Ishii, 2004. Topobo: a constructive assembly system with kinetic memory. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ‘04), pp. 647–654, DOI: [10.1145/985692.985774](https://doi.org/10.1145/985692.985774) 
 
-- Jordà, Geiger, Alonso, Kaltenbrunner, 2007. The reacTable: Exploring the Synergy between Live Music Performance and Tabletop Tangible Interfaces. In Proceedings of the 1st International Conference on Tangible and Embedded interaction (TEI ‘07), pp. 139–146, DOI: [10.1145/1226969.1226998](https://doi.org/10.1145/1226969.1226998) 
+- **Jordà, Geiger, Alonso, Kaltenbrunner, 2007. The reacTable: Exploring the Synergy between Live Music Performance and Tabletop Tangible Interfaces. In Proceedings of the 1st International Conference on Tangible and Embedded interaction (TEI ‘07), pp. 139–146, DOI: [10.1145/1226969.1226998](https://doi.org/10.1145/1226969.1226998)**
 
 - Zigelbaum, Kumpf, Vazquez, Ishii, 2008. Slurp: Tangibility Spatiality and an Eyedropper. In CHI '08 Extended Abstracts on Human Factors in Computing Systems (CHI EA ‘08), pp. 2565–2574, DOI: [10.1145/1358628.1358713](https://doi.org/10.1145/1358628.1358713) 
 
