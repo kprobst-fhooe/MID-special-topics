@@ -15,11 +15,11 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 **Special Topics included:**
 
+- 🧱 [Tangible Interaction](https://github.com/kprobst-fhooe/MMI-special-topics/blob/main/tangible.md)
 - 👋 [Gestural Interaction](https://github.com/kprobst-fhooe/MMI-special-topics/blob/main/gesture.md)
-- 🧱 [Tangible Interaction](#-tangible-interaction)
-- 💬 [Voice Interaction](#-voice-interaction)
-- 👁️ [Gaze Interaction](#%EF%B8%8F-gaze-interaction)
-- 📏 [Proxemic & Spatially-Aware Interaction](#-proxemic--spatially-aware-interaction)
+- 💬 [Voice Interaction](https://github.com/kprobst-fhooe/MMI-special-topics/blob/main/voice.md)
+- 👁️ [Gaze Interaction](https://github.com/kprobst-fhooe/MMI-special-topics/blob/main/gaze.md)
+- 📏 [Proxemic & Spatially-Aware Interaction](https://github.com/kprobst-fhooe/MMI-special-topics/blob/main/proxemic.md)
 
 
 <br/>
@@ -50,6 +50,7 @@ A collection of essential papers and books on diverse topics in Human-Computer I
 
 
 <br/>
+
 
 
 
