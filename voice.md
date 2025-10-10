@@ -46,7 +46,7 @@
 
 - Pfeifer Vardoulakis, Ring, Barry, Sidner, Bickmore, 2012. Designing relational agents as long term social companions for older adults. In Proceedings of the 12th international conference on Intelligent Virtual Agents (IVA’12), pp. 289–302, DOI: [10.1007/978-3-642-33197-8_30] 
 
-- Portet, Vacher, Golanski, Meillon, 2013. Design and evaluation of a smart home voice interface for the elderly: acceptability and objection aspects. In Pers Ubiquit Comput 17, pp. 127–144, DOI: [10.1007/s00779-011-0470-5]
+- Portet, Vacher, Golanski, Meillon, 2013. Design and evaluation of a smart home voice interface for the elderly: acceptability and objection aspects. In Pers Ubiquit Comput 17, pp. 127–144, DOI: [10.1007/s00779-011-0470-5](https://doi.org/10.1007/s00779-011-0470-5)
 
 - Sakamoto, Komatsu, Igarashi, 2013. Voice augmented manipulation: using paralinguistic information to manipulate mobile devices. In Proceedings of the 15th international conference on Human-computer interaction with mobile devices and services (MobileHCI ‘13), pp. 69–78, DOI: [10.1145/2493190.2493244](https://doi.org/10.1145/2493190.2493244)
 
@@ -70,13 +70,13 @@
 
 - Hermann, Plückthun, Dogangün, Hesenius, 2022. User-Defined Gesture and Voice Control in Human-Drone Interaction for Police Operations. In Proceedings of the Nordic Human-Computer Interaction Conference (NordiCHI '22), DOI: [10.1145/3546155.3546661](https://doi.org/10.1145/3546155.3546661)
 
-- Khan, Newn, Bailey, Velloso, 2022. Integrating Gaze and Speech for Enabling Implicit Interactions. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22). DOI: [10.1145/3491102.3502134](https://doi.org/10.1145/3491102.3502134) [📄](gaze/2022-Khan%20-%20Integrating%20Gaze%20and%20Speech.pdf)
+- **Khan, Newn, Bailey, Velloso, 2022. Integrating Gaze and Speech for Enabling Implicit Interactions. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22). DOI: [10.1145/3491102.3502134](https://doi.org/10.1145/3491102.3502134) [📄](gaze/2022-Khan%20-%20Integrating%20Gaze%20and%20Speech.pdf)**
 
 - Parthiban, Maes, Sellier, Sluyters, Vanderdonckt, 2022. Gestural-Vocal Coordinated Interaction on Large Displays. In Companion of the 2022 ACM SIGCHI Symposium on Engineering Interactive Computing Systems (EICS '22), pp. 26-32, DOI: [10.1145/3531706.3536457](https://doi.org/10.1145/3531706.3536457)
 
 - Upadhyay, Heung, Azenkot, Brewer. 2023. Studying Exploration & Long-Term Use of Voice Assistants by Older Adults. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23). DOI: [10.1145/3544548.3580925](https:///dl.acm.org/doi/fullHtml/10.1145/3544548.3580925)
 
-- Jaber, Zhong, Kuoppamäki, Hosseini, Gessinger, Brumby, Cowan, Mcmillan. 2024. Cooking With Agents: Designing Context-aware Voice Interaction. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24). DOI: [10.1145/3613904.3642183](https://doi.org/10.1145/3613904.3642183)
+- **Jaber, Zhong, Kuoppamäki, Hosseini, Gessinger, Brumby, Cowan, Mcmillan. 2024. Cooking With Agents: Designing Context-aware Voice Interaction. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24). DOI: [10.1145/3613904.3642183](https://doi.org/10.1145/3613904.3642183)**
 
 - Wen, Ping, Wang, Liang, Xu, Yan. 2024. AdaptiveVoice: Cognitively Adaptive Voice Interface for Driving Assistance. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24), Article 253. DOI: [10.1145/3613904.3642876](https://doi.org/10.1145/3613904.3642876)
 
