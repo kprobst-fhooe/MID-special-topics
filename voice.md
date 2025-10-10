@@ -3,23 +3,23 @@
 
 ### General
 
-- Cohen, 2004. Voice User Interface Design, Addison-Wesley [📖](voice/2004-Cohen%20-%20Voice%20User%20Interface%20Design.pdf)
+- Cohen, 2004. Voice User Interface Design, Addison-Wesley 
 
-- Klein, 2016. Designing for Voice Interfaces, O’Reilly Media [📖](voice/2016-Klein%20Designing%20for%20Voice%20Interfaces.pdf)
+- Klein, 2016. Designing for Voice Interfaces, O’Reilly Media 
 
-- Pearl, 2016. Designing Voice User Interfaces, O’Reilly Media [📖](voice/2016-Pearl%20-%20Designing%20Voice%20User%20Interfaces.pdf)
+- Pearl, 2016. Designing Voice User Interfaces, O’Reilly Media 
 
 - Moore, 2017. Is Spoken Language All-or-Nothing? Implications for Future Speech-Based Human-Machine Interaction. In Dialogues with Social Robots. Lecture Notes in Electrical Engineering, vol 427, DOI: [10.1007/978-981-10-2585-3_22 ](https://doi.org/10.1007/978-981-10-2585-3_22)
 
 - Murad, Munteanu, Clark, Cowan, 2018. Design guidelines for hands-free speech interaction. In Proceedings of the 20th International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI ‘18), pp. 269–276, DOI: [10.1145/3236112.3236149](https://doi.org/10.1145/3236112.3236149)
 
-- **Wei & Landay, 2018. Evaluating Speech-Based Smart Devices Using New Usability Heuristics. In IEEE Pervasive Computing, vol. 17, no. 2, pp. 84-96, DOI: [10.1109/MPRV.2018.022511249](https://doi.10.1109/MPRV.2018.022511249) [📄](voice/2018-Wei%20et%20al.%20-%20Evaluating%20Speech-Based%20Smart%20Devices%20Using%20New%20Usability%20Heuristics.pdf)**
+- **Wei & Landay, 2018. Evaluating Speech-Based Smart Devices Using New Usability Heuristics. In IEEE Pervasive Computing, vol. 17, no. 2, pp. 84-96, DOI: [10.1109/MPRV.2018.022511249](https://doi.10.1109/MPRV.2018.022511249)**
 
-- **Moore & Arar, 2019. Conversational UX Design – A Practitioner’s Guide to the Natural Conversation Framework (Chapter 1)** [📖](voice/2019-Moore%20et%20al.%20-%20Conversational%20UX%20Design.pdf)
+- **Moore & Arar, 2019. Conversational UX Design – A Practitioner’s Guide to the Natural Conversation Framework (Chapter 1)** 
 
 - Murad, Munteanu, 2019. "I don't know what you're talking about, HALexa": the Case For Voice User Interface Guidelines. In Proceedings of the 1st International Conference on Conversational User Interfaces (CUI '19), Article 9, DOI: [10.1145/3342775.3342795](https://doi.org/10.1145/3342775.3342795)
 
-- Bouzid, Ma, 2022. The Elements of Voice First Style: A Practical Guide to Voice User Interface Design, O'Reilly Media [📖](voice/2022-Bouzid%20-%20The%20Elements%20of%20Voice%20First%20Style.pdf)
+- Bouzid, Ma, 2022. The Elements of Voice First Style: A Practical Guide to Voice User Interface Design, O'Reilly Media 
 
 - **Murad, Candello, Munteanu, 2024. What’s The Talk on VUI Guidelines? A Meta-Analysis of Guidelines for Voice User Interface Design. In Proceedings of the 5th International Conference on Conversational User Interfac (CUI '23), Article 19, DOI: [10.1145/3571884.3597129](https://doi.org/10.1145/3571884.3597129)**
 
@@ -66,11 +66,22 @@
 
 - Williams, Cambre, Bicking, Wallin, Tsai, Kaye, 2020. Toward Voice-Assisted Browsers: A Preliminary Study with Firefox Voice. In Proceedings of the 2nd Conference on Conversational User Interfaces (CUI ‘20), Article 49, DOI: [10.1145/3405755.3406154](https://doi.org/10.1145/3405755.3406154)
 
+- Abdolrahmani, Gupta, Vader, Kuber, Branham. 2021. Towards More Transactional Voice Assistants: Investigating the Potential for a Multimodal Voice-Activated Indoor Navigation Assistant for Blind and Sighted Travelers. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI '21),Article 495. DOI: [doi.org/10.1145/3411764.3445638](https://doi.org/10.1145/3411764.3445638)
+
 - Hermann, Plückthun, Dogangün, Hesenius, 2022. User-Defined Gesture and Voice Control in Human-Drone Interaction for Police Operations. In Proceedings of the Nordic Human-Computer Interaction Conference (NordiCHI '22), DOI: [10.1145/3546155.3546661](https://doi.org/10.1145/3546155.3546661)
 
 - Khan, Newn, Bailey, Velloso, 2022. Integrating Gaze and Speech for Enabling Implicit Interactions. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22). DOI: [10.1145/3491102.3502134](https://doi.org/10.1145/3491102.3502134) [📄](gaze/2022-Khan%20-%20Integrating%20Gaze%20and%20Speech.pdf)
 
 - Parthiban, Maes, Sellier, Sluyters, Vanderdonckt, 2022. Gestural-Vocal Coordinated Interaction on Large Displays. In Companion of the 2022 ACM SIGCHI Symposium on Engineering Interactive Computing Systems (EICS '22), pp. 26-32, DOI: [10.1145/3531706.3536457](https://doi.org/10.1145/3531706.3536457)
+
+- Upadhyay, Heung, Azenkot, Brewer. 2023. Studying Exploration & Long-Term Use of Voice Assistants by Older Adults. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23). DOI: [10.1145/3544548.3580925](https:///dl.acm.org/doi/fullHtml/10.1145/3544548.3580925)
+
+- Jaber, Zhong, Kuoppamäki, Hosseini, Gessinger, Brumby, Cowan, Mcmillan. 2024. Cooking With Agents: Designing Context-aware Voice Interaction. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24). DOI: [10.1145/3613904.3642183](https://doi.org/10.1145/3613904.3642183)
+
+- Wen, Ping, Wang, Liang, Xu, Yan. 2024. AdaptiveVoice: Cognitively Adaptive Voice Interface for Driving Assistance. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24), Article 253. DOI: [10.1145/3613904.3642876](https://doi.org/10.1145/3613904.3642876)
+
+- Wu, Zhang, Liu, Wang, Zheng, Shi. 2024. Body Language for VUIs: Exploring Gestures to Enhance Interactions with Voice User Interfaces. In Proceedings of the ACM Conversational User Interfaces 2024 (CUI '24). DOI: [10.1145/3643834.3660691](https://doi.org/10.1145/3643834.3660691)
+
 
 <br/>
 
