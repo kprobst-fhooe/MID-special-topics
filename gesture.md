@@ -45,7 +45,7 @@
 
 - Silpasuwanchai, Ren, 2015. Designing concurrent full-body gestures for intense gameplay. In International Journal of Human-Computer Studies 80, DOI: 810.1016/j.ijhcs.2015.02.010](doi.org/10.1016/j.ijhcs.2015.02.010) 
 
-- Lien, Gillian, Karagozler, Amihood, Schwesig, Olson, Raja, Poupyrev, 2016. Soli: ubiquitous gesture sensing with millimeter wave radar. In ACM Trans. Graph. 35, 4, Article 142 (July 2016), DOI: [10.1145/2897824.2925953](https://doi.org/10.1145/2897824.2925953) [📄](gesture/mid-air/2016-Lien%20et%20al.%20-%20Soli%20Ubiquitous%20Gesture%20Sensing%20with%20Millimeter%20Wave%20Radar.pdf)
+- **Lien, Gillian, Karagozler, Amihood, Schwesig, Olson, Raja, Poupyrev, 2016. Soli: ubiquitous gesture sensing with millimeter wave radar. In ACM Trans. Graph. 35, 4, Article 142 (July 2016), DOI: [10.1145/2897824.2925953](https://doi.org/10.1145/2897824.2925953)** 
 
 - Detjen, Faltaous, Geisler, Schneegass, 2019. User-Defined Voice and Mid-Air Gesture Commands for Maneuver-based Interventions in Automated Vehicles. In Proceedings of Mensch und Computer 2019 (MuC’19), pp. 341–348, DOI: [10.1145/3340764.3340798](https://doi.org/10.1145/3340764.3340798) 
 
@@ -95,9 +95,13 @@
 
 - Vo, Lecolinet, Guiard, 2014. Belly gestures: body centric gestures on the abdomen. In Proceedings of the 8th Nordic Conference on Human-Computer Interaction: Fun, Fast, Foundational (NordiCHI ‘14), pp. 687–696, DOI: [10.1145/2639189.2639210](https://doi.org/10.1145/2639189.2639210) 
 
-- Fukahori, Sakamoto, Igarashi, 2015. Exploring Subtle Foot Plantar-based Gestures with Sock-placed Pressure Sensors. In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (CHI ‘15), pp. 3019–3028, DOI: [10.1145/2702123.2702308](https://doi.org/10.1145/2702123.2702308) 
+- Fukahori, Sakamoto, Igarashi, 2015. Exploring Subtle Foot Plantar-based Gestures with Sock-placed Pressure Sensors. In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (CHI ‘15), pp. 3019–3028, DOI: [10.1145/2702123.2702308](https://doi.org/10.1145/2702123.2702308)
+
+- **Poupyrev, Gong, Fukuhara, Karagozler, Schwesig, Robinson. 2016. Project Jacquard: Interactive Digital Textiles at Scale. In Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (CHI '16), pp. 4216–4227. DOI: [10.1145/2858036.2858176](https://doi.org/10.1145/2858036.2858176)**
 
 - Sridhar, Markussen, Oulasvirta, Theobalt, Boring, 2017. WatchSense: On- and Above-Skin Input Sensing through a Wearable Depth Sensor. In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (CHI '17), pp. 3891–3902, DOI: [10.1145/3025453.3026005](https://doi.org/10.1145/3025453.3026005)
+
+- **Olwal, Moeller, Priest-Dorman, Starner, Carroll. 2018. I/O Braid: Scalable Touch-Sensitive Lighted Cords Using Spiraling, Repeating Sensing Textiles and Fiber Optics. In Proceedings of the 31st Annual ACM Symposium on User Interface Software and Technology (UIST '18), pp. 485–497. DOI: [10.1145/3242587.3242638](https://doi.org/10.1145/3242587.3242638)**
 
 - Quinn, Lee, Barnhart, Zhai, 2019. Active Edge: Designing Squeeze Gestures for the Google Pixel 2. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI ‘19), Paper 274, DOI: [10.1145/3290605.3300504](https://doi.org/10.1145/3290605.3300504)
 
@@ -105,7 +109,7 @@
 
 - Wang & Grossman, 2020. BlyncSync: Enabling Multimodal Smartwatch Gestures with Synchronous Touch and Blink. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ‘20), DOI: [10.1145/3313831.3376132](https://doi.org/10.1145/3313831.3376132)
 
-- Olwal, Starner, Mainini, 2020. E-Textile Microinteractions: Augmenting Twist with Flick, Slide and Grasp Gestures for Soft Electronics. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20), DOI: [10.1145/3313831.3376236](https://doi.org/10.1145/3313831.3376236)
+- **Olwal, Starner, Mainini, 2020. E-Textile Microinteractions: Augmenting Twist with Flick, Slide and Grasp Gestures for Soft Electronics. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20), DOI: [10.1145/3313831.3376236](https://doi.org/10.1145/3313831.3376236)**
 
 - Mlakar, Haberfellner, Jetter, Haller, 2021. Exploring Affordances of Surface Gestures on Textile User Interfaces. In Proceedings of the International Conference on Designing Interactive Systems (DIS '21), pp. 1159–1170, DOI: [10.1145/3461778.3462139](https://doi.org/10.1145/3461778.3462139) 
 
