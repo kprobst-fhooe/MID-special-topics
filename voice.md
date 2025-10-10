@@ -82,6 +82,8 @@
 
 - Wu, Zhang, Liu, Wang, Zheng, Shi. 2024. Body Language for VUIs: Exploring Gestures to Enhance Interactions with Voice User Interfaces. In Proceedings of the ACM Conversational User Interfaces 2024 (CUI '24). DOI: [10.1145/3643834.3660691](https://doi.org/10.1145/3643834.3660691)
 
+- Hu, Ma, He, Zhu, Hsia, Zhu, Liu, Ramani. 2025. GesPrompt: Leveraging Co-Speech Gestures to Augment LLM-Based Interaction in Virtual Reality. In Proceedings of the 2025 ACM Designing Interactive Systems Conference (DIS '25). DOI: [10.1145/3715336.3735769](https://doi.org/10.1145/3715336.3735769)
+
 
 <br/>
 
