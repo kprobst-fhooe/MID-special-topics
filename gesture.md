@@ -119,6 +119,8 @@
 
 - Andrei, Bilius, Vatavu, 2024. Take a Seat, Make a Gesture: Charting User Preferences for On-Chair and From-Chair Gesture Input. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24), DOI: [10.1145/3613904.3642028](https://doi.org/10.1145/3613904.3642028)
 
+- Pfeuffer, Gellersen and Gonzalez-Franco, 2024. Design Principles and Challenges for Gaze + Pinch Interaction in XR. In IEEE Computer Graphics and Applications, vol. 44, no. 3, pp. 74-81. DOI: [10.1109/MCG.2024.3382961](https://doi.org/10.1109/MCG.2024.3382961)
+
 
 <br/>
 
