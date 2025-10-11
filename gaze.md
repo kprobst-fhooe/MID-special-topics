@@ -94,6 +94,8 @@ Article No.: 369, [10.1145/3613904.3641909](https://doi.org/10.1145/3613904.3641
 
 - Wang, Potter, Ho, Killough, Zeng, Mondal, Zhao. 2024. GazePrompt: Enhancing Low Vision People's Reading Experience with Gaze-Aware Augmentations. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24), Article 894. DOI: [10.1145/3613904.3642878](https://doi.org/10.1145/3613904.3642878)
 
+- Pfeuffer, Gellersen and Gonzalez-Franco, 2024. Design Principles and Challenges for Gaze + Pinch Interaction in XR. In IEEE Computer Graphics and Applications, vol. 44, no. 3, pp. 74-81. DOI: [10.1109/MCG.2024.3382961](https://doi.org/10.1109/MCG.2024.3382961)
+
 - Cai, Hong, Wang, Lu, 2025. GazeSwipe: Enhancing Mobile Touchscreen Reachability through Seamless Gaze and Finger-Swipe Integration. In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI '25), DOI: [10.1145/3706598.3713739](https://doi.org/10.1145/3706598.3713739)
 
 
