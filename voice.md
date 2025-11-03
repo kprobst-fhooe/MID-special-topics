@@ -84,6 +84,8 @@
 
 - Hu, Ma, He, Zhu, Hsia, Zhu, Liu, Ramani. 2025. GesPrompt: Leveraging Co-Speech Gestures to Augment LLM-Based Interaction in Virtual Reality. In Proceedings of the 2025 ACM Designing Interactive Systems Conference (DIS '25). DOI: [10.1145/3715336.3735769](https://doi.org/10.1145/3715336.3735769)
 
+- Liu, Su, Xiang, Huang, Yang, Zhang, Fan. 2025. Toward Enabling Natural Conversation with Older Adults via the Design of LLM-Powered Voice Agents that Support Interruptions and Backchannels. In  Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI '25). DOI: [10.1145/3706598.3714228](https://doi.org/10.1145/3706598.3714228)
+
 
 <br/>
 
