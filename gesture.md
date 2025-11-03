@@ -65,6 +65,11 @@
 
 - Hosseini, Müller, Boll, 2024. Controlling the Rooms: How People Prefer Using Gestures to Control Their Smart Homes. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24), DOI: [10.1145/3613904.3642687](https://doi.org/10.1145/3613904.3642687) 
 
+- Yu, Zhang, Johal, Burnett, 2025. Exploring Deictic Interface Referencing Outside-Vehicle Landmarks: Study of In-cabin Multimodal Interaction. In Adjunct Proceedings of the 17th International Conference on Automotive User Interfaces and Interactive Vehicular Applications (AutomotiveUI Adjunct '25). DOI: [10.1145/3744335.3758475](https://doi.org/10.1145/3744335.3758475)
+
+
+
+
 
 
 ### Applications On-Surface
