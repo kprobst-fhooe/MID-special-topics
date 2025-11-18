@@ -116,8 +116,6 @@
 
 - Mlakar, Haberfellner, Jetter, Haller, 2021. Exploring Affordances of Surface Gestures on Textile User Interfaces. In Proceedings of the International Conference on Designing Interactive Systems (DIS '21), pp. 1159–1170, DOI: [10.1145/3461778.3462139](https://doi.org/10.1145/3461778.3462139) 
 
-- Kong, Ahuja, Goel, Harrison, 2021. EyeMU Interactions: Gaze + IMU Gestures on Mobile Devices. In Proceedings of the 2021 International Conference on Multimodal Interaction (ICMI '21), pp. 577-585. DOI: [10.1145/3462244.3479938](https://doi.org/10.1145/3462244.3479938)
-
 - Parthiban, Maes, Sellier, Sluyters, Vanderdonckt, 2022. Gestural-Vocal Coordinated Interaction on Large Displays. In Companion of the 2022 ACM SIGCHI Symposium on Engineering Interactive Computing Systems (EICS '22), pp. 26-32, DOI: [10.1145/3531706.3536457](https://doi.org/10.1145/3531706.3536457) 
 
 - Shen, Harrison, 2022. Pull Gestures with Coordinated Graphics on Dual-Screen Devices. In Proceedings of the 2022 International Conference on Multimodal Interaction (ICMI '22), pp. 270-277, DOI: [10.1145/3536221.3556620](https://doi.org/10.1145/3536221.3556620) 
