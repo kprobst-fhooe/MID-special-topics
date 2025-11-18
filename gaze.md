@@ -75,6 +75,8 @@
 
 - Yu, Lu, Shi, Liang, Dingler, Velloso, Goncalves. 2021. Gaze-Supported 3D Object Manipulation in Virtual Reality. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI '21), Article 734. DOI: [10.1145/3411764.3445343](https://doi.org/10.1145/3411764.3445343)
 
+- Kong, Ahuja, Goel, Harrison, 2021. EyeMU Interactions: Gaze + IMU Gestures on Mobile Devices. In Proceedings of the 2021 International Conference on Multimodal Interaction (ICMI '21), pp. 577-585. DOI: [10.1145/3462244.3479938](https://doi.org/10.1145/3462244.3479938)
+
 - Khan, Newn, Bailey, Velloso, 2022. Integrating Gaze and Speech for Enabling Implicit Interactions. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22). DOI: [10.1145/3491102.3502134](https://doi.org/10.1145/3491102.3502134) 
 
 - Reiter, Pfeuffer, Esteves, Mittermeier, Alt, 2022. Look & Turn: One-handed and Expressive Menu Interaction by Gaze and Arm Turns in VR. In 2022 Symposium on Eye Tracking Research and Applications (ETRA '22), DOI: [10.1145/3517031.3529233](https://doi.org/10.1145/3517031.3529233)
