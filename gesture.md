@@ -57,9 +57,9 @@
 
 - Kim, Mollyn, Harrison, 2023. WorldPoint: Finger Pointing as a Rapid and Natural Trigger for In-the-Wild Mobile Interactions. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23), DOI: [10.1145/3626478](https://doi.org/10.1145/3626478)
 
-- Tseng, Chang, Chen, Chan, Chen, 2023. FingerMapper: Mapping Finger Motions onto Virtual Arms to Enable Safe Virtual Reality Interaction in Confined Spaces. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23), DOI: [10.1145/3544548.3580736](https://doi.org/10.1145/3626478)
+- Tseng, Chang, Chen, Chan, Chen, 2023. FingerMapper: Mapping Finger Motions onto Virtual Arms to Enable Safe Virtual Reality Interaction in Confined Spaces. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23), DOI: [10.1145/3544548.3580736](https://dl.acm.org/doi/10.1145/3544548.3580736)
 
-- Geißler, Bello, Zahn, Woop, Zhou, Lukowicz, Karolus, 2024. Head 'n Shoulder: Gesture-Driven Biking Through Capacitive Sensing Garments to Innovate Hands-Free Interaction. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24), DOI: [10.1145/3676510](https://doi.org/10.1145/3544548.3580736)
+- Geißler, Bello, Zahn, Woop, Zhou, Lukowicz, Karolus, 2024. Head 'n Shoulder: Gesture-Driven Biking Through Capacitive Sensing Garments to Innovate Hands-Free Interaction. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24), DOI: [10.1145/3676510](https://doi.org/10.1145/3676510)
 
 - Chang, Chen, Dong, Cai, Yan, Cai, Zhou, Zhou, Gong, 2024. "It Must Be Gesturing Towards Me": Gesture-Based Interaction between Autonomous Vehicles and Pedestrians. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24), DOI: [10.1145/3613904.3642029](https://doi.org/10.1145/3613904.3642029)
 
